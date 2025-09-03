@@ -24,7 +24,7 @@ try:
 except ImportError:
     HAS_RICH = False
 
-sys.path.append(str(Path(__file__).parent))
+sys.path.append(str(Path(__file__).parent / "ucdm-specialization"))
 from config.settings import *
 from training.response_engine import UCDMResponseEngine
 from validation.comprehensive_validation_pipeline import ComprehensiveValidationPipeline, PipelineConfig

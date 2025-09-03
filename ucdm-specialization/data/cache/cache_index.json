@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "created_at": "2025-09-03T16:21:02.788980",
+    "last_updated": "2025-09-03T16:21:02.830533",
+    "entry_count": 6,
+    "total_size_bytes": 3941
+  },
+  "entries": {
+    "response_2267f0abb53b6b23": {
+      "key": "response_2267f0abb53b6b23",
+      "created_at": "2025-09-03T16:21:02.795399",
+      "last_accessed": "2025-09-03T16:21:02.795399",
+      "expires_at": "2025-09-04T16:21:02.795397",
+      "file_path": "responses/1a2e3001eae73dc1.cache",
+      "size_bytes": 664,
+      "compressed": false,
+      "access_count": 0,
+      "checksum": "eee55ef96a77c12bcc6576188f81a5fe"
+    },
+    "response_0234f245308f4eef": {
+      "key": "response_0234f245308f4eef",
+      "created_at": "2025-09-03T16:21:02.797008",
+      "last_accessed": "2025-09-03T16:21:02.797009",
+      "expires_at": "2025-09-04T16:21:02.797005",
+      "file_path": "responses/4ac58e0d80b5580b.cache",
+      "size_bytes": 644,
+      "compressed": false,
+      "access_count": 0,
+      "checksum": "58a77193a8d83febe21356f6b6195249"
+    },
+    "response_59293907601e0c5a": {
+      "key": "response_59293907601e0c5a",
+      "created_at": "2025-09-03T16:21:02.799018",
+      "last_accessed": "2025-09-03T16:21:02.799018",
+      "expires_at": "2025-09-04T16:21:02.799015",
+      "file_path": "responses/8d708c401bb97b65.cache",
+      "size_bytes": 666,
+      "compressed": false,
+      "access_count": 0,
+      "checksum": "b58ec248dad2757c2da738965588f7f7"
+    },
+    "response_4352ace6322e3237": {
+      "key": "response_4352ace6322e3237",
+      "created_at": "2025-09-03T16:21:02.827354",
+      "last_accessed": "2025-09-03T16:21:02.827354",
+      "expires_at": "2025-09-04T16:21:02.827352",
+      "file_path": "responses/718884c780756a10.cache",
+      "size_bytes": 654,
+      "compressed": false,
+      "access_count": 0,
+      "checksum": "9b1e9126d673b16a1413282cc0149a8c"
+    },
+    "response_6fc1f8c2351f978f": {
+      "key": "response_6fc1f8c2351f978f",
+      "created_at": "2025-09-03T16:21:02.829024",
+      "last_accessed": "2025-09-03T16:21:02.829024",
+      "expires_at": "2025-09-04T16:21:02.829023",
+      "file_path": "responses/8591c8ea45cfe300.cache",
+      "size_bytes": 655,
+      "compressed": false,
+      "access_count": 0,
+      "checksum": "6d87ce913429129706ac736af63fc8d2"
+    },
+    "response_72fc95201a995b41": {
+      "key": "response_72fc95201a995b41",
+      "created_at": "2025-09-03T16:21:02.830525",
+      "last_accessed": "2025-09-03T16:21:02.830525",
+      "expires_at": "2025-09-04T16:21:02.830523",
+      "file_path": "responses/39b2cd58b154ecdf.cache",
+      "size_bytes": 658,
+      "compressed": false,
+      "access_count": 0,
+      "checksum": "1a88d9cea182922c24c246f404e0a05b"
+    }
+  }
+}
