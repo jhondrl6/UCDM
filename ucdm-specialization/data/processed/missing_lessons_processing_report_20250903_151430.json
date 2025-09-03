@@ -1,0 +1,19 @@
+{
+  "success": true,
+  "timestamp": "2025-09-03T15:14:30.445100",
+  "total_requested": 250,
+  "total_processed": 0,
+  "total_failed": 250,
+  "success_rate": 0.0,
+  "updated_coverage": {
+    "previous_count": 2,
+    "newly_processed": 0,
+    "updated_count": 2,
+    "coverage_percentage": 0.547945205479452,
+    "remaining_lessons": 363
+  },
+  "final_recommendations": [
+    "CRÍTICO: Revisar completamente el sistema de extracción",
+    "Evaluar calidad del documento fuente"
+  ]
+}

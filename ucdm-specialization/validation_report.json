@@ -1,0 +1,51 @@
+{
+  "timestamp": "2025-09-03T15:51:59.077154",
+  "file_structure": {
+    "file_config/settings.py": true,
+    "file_extraction/pdf_extractor.py": true,
+    "file_extraction/advanced_lesson_segmenter.py": true,
+    "file_extraction/lesson_indexer.py": true,
+    "file_training/dataset_generator.py": true,
+    "file_training/response_engine.py": true,
+    "file_ucdm_cli.py": true,
+    "file_ollama/Modelfile": true,
+    "file_ollama/setup_model.py": true,
+    "dir_data": true,
+    "dir_data/raw": true,
+    "dir_data/processed": true,
+    "dir_data/training": true,
+    "dir_data/indices": true
+  },
+  "data_extraction": {
+    "pdf_source_exists": true,
+    "extracted_text_exists": true,
+    "lessons_indexed": 161,
+    "concepts_indexed": 437,
+    "integrity_score": 0.4410958904109589,
+    "extraction_log_exists": true
+  },
+  "response_engine": {
+    "engine_loads": true,
+    "data_loaded": true,
+    "structure_correct": true,
+    "response_quality": 1.0,
+    "template_variety": false
+  },
+  "cli_interface": {
+    "cli_file_exists": true,
+    "cli_imports_work": true,
+    "cli_help_works": false
+  },
+  "dataset_generation": {
+    "dataset_file_exists": true,
+    "dataset_size": 0,
+    "examples_count": 0,
+    "structure_variety": false
+  },
+  "performance": {
+    "engine_load_time": 0.0015037059783935547,
+    "response_generation_time": 0.005767822265625,
+    "cli_startup_time": 0.0
+  },
+  "total_time": 0.051332712173461914
+}

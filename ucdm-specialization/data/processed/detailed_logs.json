@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": "2025-09-03T15:15:09.059518",
+    "operation": "failed_operation",
+    "details": {
+      "success": false,
+      "error": "Test error",
+      "duration": 0.1
+    },
+    "success": false,
+    "duration": 0.1,
+    "items_processed": 0
+  },
+  {
+    "timestamp": "2025-09-03T15:20:58.854258",
+    "operation": "failed_operation",
+    "details": {
+      "success": false,
+      "error": "Test error",
+      "duration": 0.1
+    },
+    "success": false,
+    "duration": 0.1,
+    "items_processed": 0
+  },
+  {
+    "timestamp": "2025-09-03T15:35:24.932406",
+    "operation": "failed_operation",
+    "details": {
+      "success": false,
+      "error": "Test error",
+      "duration": 0.1
+    },
+    "success": false,
+    "duration": 0.1,
+    "items_processed": 0
+  },
+  {
+    "timestamp": "2025-09-03T15:38:15.036495",
+    "operation": "failed_operation",
+    "details": {
+      "success": false,
+      "error": "Test error",
+      "duration": 0.1
+    },
+    "success": false,
+    "duration": 0.1,
+    "items_processed": 0
+  }
+]

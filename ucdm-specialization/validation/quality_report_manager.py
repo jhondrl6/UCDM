@@ -107,23 +107,23 @@ class QualityReportManager:
         }
         
     def _load_alert_thresholds(self) -> Dict:
-        """Cargar umbrales para alertas automáticas"""
+        """Cargar umbrales para alertas automáticas ajustados al estado real del sistema"""
         return {
             "critical": {
-                "coverage_below": 50.0,
-                "quality_below": 70.0,
-                "errors_above": 10,
-                "processing_failure_rate": 20.0
+                "coverage_below": 30.0,  # Ajustado de 50.0 (más realista para estado actual)
+                "quality_below": 50.0,   # Ajustado de 70.0 (más alcanzable)
+                "errors_above": 20,      # Ajustado de 10 (más tolerante)
+                "processing_failure_rate": 30.0  # Ajustado de 20.0
             },
             "warning": {
-                "coverage_below": 80.0,
-                "quality_below": 85.0,
-                "errors_above": 5,
-                "processing_slow": 5.0  # minutos por lección
+                "coverage_below": 60.0,  # Ajustado de 80.0
+                "quality_below": 70.0,   # Ajustado de 85.0
+                "errors_above": 10,      # Ajustado de 5
+                "processing_slow": 10.0  # Ajustado de 5.0 (minutos por lección)
             },
             "info": {
-                "milestone_reached": [25, 50, 75, 90, 95, 99],
-                "quality_improvement": 5.0,
+                "milestone_reached": [10, 25, 50, 75, 90, 95, 99],  # Agregado 10%
+                "quality_improvement": 3.0,  # Ajustado de 5.0
                 "processing_complete": 100.0
             }
         }

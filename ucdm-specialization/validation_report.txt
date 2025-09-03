@@ -1,0 +1,55 @@
+
+================================================================================
+🌟 REPORTE DE VALIDACIÓN DEL SISTEMA UCDM
+================================================================================
+
+📅 Fecha: 2025-09-03T15:51:59.077154
+⏱️  Tiempo total: 0.05 segundos
+
+📁 ESTRUCTURA DE ARCHIVOS:
+   ✅ config/settings.py
+   ✅ training/response/engine.py
+   ✅ ucdm/cli.py
+
+📖 EXTRACCIÓN DE DATOS:
+   ✅ PDF fuente: Encontrado
+   ✅ Texto extraído: Disponible
+   📊 Lecciones indexadas: 161/365
+   🏷️ Conceptos indexados: 437
+   📈 Score de integridad: 44.1%
+
+⚡ MOTOR DE RESPUESTAS:
+   ✅ Carga del motor: OK
+   ✅ Datos cargados: OK
+   ✅ Estructura correcta: OK
+   📊 Calidad de respuestas: 100.0%
+   🎨 Variedad de templates: Limitada
+
+📊 GENERACIÓN DE DATASETS:
+   ✅ Dataset principal: Disponible
+   📈 Ejemplos generados: 0
+   💾 Tamaño del dataset: 0.0 MB
+   🎯 Variedad estructural: Limitada
+
+⏱️ RENDIMIENTO:
+   🚀 Carga del motor: 0.00s
+   💭 Generación de respuesta: 0.01s
+
+================================================================================
+📋 RESUMEN GENERAL:
+   ✅ Checks pasados: 25/28
+   📊 Tasa de éxito: 89.3%
+   
+🎯 ESTADO DEL SISTEMA: 🟢 OPERATIVO
+
+💡 RECOMENDACIONES:
+   • Ejecutar extracción completa del PDF
+   • Generar más ejemplos de entrenamiento
+
+🚀 PASOS SIGUIENTES:
+   1. Revisar elementos marcados como ❌
+   2. Ejecutar scripts de configuración faltantes
+   3. Probar integración con Ollama
+   4. Validar respuestas del modelo especializado
+
+================================================================================

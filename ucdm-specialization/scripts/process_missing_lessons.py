@@ -18,37 +18,37 @@ from validation.comprehensive_validation_pipeline import ComprehensiveValidation
 def main():
     """Función principal para ejecutar el procesamiento completo"""
     
-    print("🚀 SISTEMA DE COMPLETACIÓN DE LECCIONES FALTANTES UCDM")
+    print("[INICIANDO] SISTEMA DE COMPLETACIÓN DE LECCIONES FALTANTES UCDM")
     print("=" * 65)
     print(f"Iniciado: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print()
     
     try:
         # 1. Inicializar pipeline de validación
-        print("🔧 Inicializando sistema de validación...")
+        print("[CONFIGURANDO] Inicializando sistema de validación...")
         pipeline = ComprehensiveValidationPipeline()
         
         # 2. Crear procesador especializado
-        print("🔧 Inicializando procesador de lecciones faltantes...")
+        print("[CONFIGURANDO] Inicializando procesador de lecciones faltantes...")
         processor = MissingLessonsProcessor(validation_pipeline=pipeline)
         
         # 3. Cargar contenido fuente
-        print("📖 Cargando contenido fuente...")
+        print("[CARGANDO] Cargando contenido fuente...")
         if not processor.load_source_content():
-            print("❌ ERROR: No se pudo cargar el contenido fuente")
+            print("[ERROR] ERROR: No se pudo cargar el contenido fuente")
             print("   Asegúrate de que existe: data/processed/ucdm_complete_text.txt")
             return 1
         
         # 4. Identificar lecciones faltantes
-        print("🔍 Identificando lecciones faltantes...")
+        print("[ANALIZANDO] Identificando lecciones faltantes...")
         missing_lessons = processor.identify_missing_lessons()
         
         if not missing_lessons:
-            print("✅ ¡EXCELENTE! No hay lecciones faltantes por procesar")
+            print("[OK] ¡EXCELENTE! No hay lecciones faltantes por procesar")
             print("   El sistema ya tiene las 365 lecciones completas")
             return 0
         
-        print(f"📊 Encontradas {len(missing_lessons)} lecciones faltantes")
+        print(f"[INFO] Encontradas {len(missing_lessons)} lecciones faltantes")
         
         # Mostrar algunas lecciones faltantes como ejemplo
         if len(missing_lessons) <= 20:
@@ -61,12 +61,15 @@ def main():
         
         # 5. Confirmar procesamiento si hay muchas lecciones
         if len(missing_lessons) > 50:
-            response = input(f"¿Procesar {len(missing_lessons)} lecciones faltantes? (s/N): ")
-            if response.lower() not in ['s', 'sí', 'si', 'y', 'yes']:
-                print("Procesamiento cancelado por el usuario")
-                return 0
+            print(f"Procesando automáticamente {len(missing_lessons)} lecciones faltantes...")
+            print("   (Para cancelar, usa Ctrl+C)")
+            # Auto-confirmar para procesamiento automático
+            # response = input(f"¿Procesar {len(missing_lessons)} lecciones faltantes? (s/N): ")
+            # if response.lower() not in ['s', 'sí', 'si', 'y', 'yes']:
+            #     print("Procesamiento cancelado por el usuario")
+            #     return 0
         
-        print(f"🚀 Iniciando procesamiento de {len(missing_lessons)} lecciones...")
+        print(f"[INICIANDO] Iniciando procesamiento de {len(missing_lessons)} lecciones...")
         print("   Este proceso puede tomar varios minutos...")
         print()
         
@@ -79,7 +82,7 @@ def main():
         
         # 7. Mostrar resultados
         if result["success"]:
-            print("✅ PROCESAMIENTO COMPLETADO EXITOSAMENTE")
+            print("[OK] PROCESAMIENTO COMPLETADO EXITOSAMENTE")
             print("=" * 50)
             print(f"   Tiempo total: {processing_time:.1f} segundos")
             print(f"   Lecciones solicitadas: {result['total_requested']}")
@@ -90,26 +93,26 @@ def main():
             # Mostrar cobertura actualizada
             if "updated_coverage" in result:
                 coverage = result["updated_coverage"]
-                print(f"\n📊 COBERTURA ACTUALIZADA:")
+                print(f"\n[INFO] COBERTURA ACTUALIZADA:")
                 print(f"   Cobertura total: {coverage.get('coverage_percentage', 0):.1f}%")
                 print(f"   Lecciones procesadas: {coverage.get('updated_count', 0)}/365")
                 print(f"   Lecciones restantes: {coverage.get('remaining_lessons', 365)}")
                 
                 # Verificar si se cumplió el objetivo de 250 lecciones
                 if result['total_processed'] >= 200:  # Al menos 200 de las 250 objetivo
-                    print("\n🎯 ¡OBJETIVO PRINCIPAL ALCANZADO!")
+                    print("\n[OBJETIVO] ¡OBJETIVO PRINCIPAL ALCANZADO!")
                     print(f"   Se han procesado {result['total_processed']} lecciones")
                     print("   El sistema ha completado exitosamente el procesamiento de lecciones faltantes")
             
             # Mostrar recomendaciones
             recommendations = result.get("final_recommendations", [])
             if recommendations:
-                print(f"\n💡 RECOMENDACIONES:")
+                print(f"\n[SUGERENCIA] RECOMENDACIONES:")
                 for i, rec in enumerate(recommendations, 1):
                     print(f"   {i}. {rec}")
             
             # 8. Ejecutar validación final del sistema
-            print("\n🔍 Ejecutando validación final del sistema...")
+            print("\n[ANALIZANDO] Ejecutando validación final del sistema...")
             try:
                 health_report = pipeline.generate_system_health_report()
                 if health_report and "system_dashboard" in health_report:
@@ -126,13 +129,13 @@ def main():
                         print(f"   Cobertura general: {coverage}")
                         print(f"   Calidad general: {quality}")
                 
-                print("✅ Validación final completada")
+                print("[OK] Validación final completada")
                 
             except Exception as e:
-                print(f"⚠️  Advertencia: Error en validación final: {e}")
+                print(f"[ADVERTENCIA] Advertencia: Error en validación final: {e}")
             
             print("\n" + "=" * 65)
-            print("🎉 PROCESAMIENTO DE LECCIONES FALTANTES COMPLETADO")
+            print("[COMPLETADO] PROCESAMIENTO DE LECCIONES FALTANTES COMPLETADO")
             print("   El sistema UCDM ha sido actualizado exitosamente")
             print("   Revisa los archivos generados en data/processed/lessons/")
             print("=" * 65)
@@ -140,16 +143,16 @@ def main():
             return 0
             
         else:
-            print("❌ ERROR EN EL PROCESAMIENTO")
+            print("[ERROR] ERROR EN EL PROCESAMIENTO")
             print(f"   Error: {result.get('error', 'Error desconocido')}")
             return 1
     
     except KeyboardInterrupt:
-        print("\n⚠️  Procesamiento interrumpido por el usuario")
+        print("\n[ADVERTENCIA] Procesamiento interrumpido por el usuario")
         return 1
         
     except Exception as e:
-        print(f"❌ ERROR CRÍTICO: {e}")
+        print(f"[ERROR] ERROR CRÍTICO: {e}")
         import traceback
         print("\nDetalles del error:")
         traceback.print_exc()
@@ -158,7 +161,7 @@ def main():
 def show_status():
     """Mostrar estado actual del sistema sin procesar"""
     try:
-        print("📊 ESTADO ACTUAL DEL SISTEMA UCDM")
+        print("[INFO] ESTADO ACTUAL DEL SISTEMA UCDM")
         print("=" * 40)
         
         # Cargar índice actual
@@ -176,9 +179,9 @@ def show_status():
             print(f"   Lecciones faltantes: {missing_count}")
             
             if missing_count == 0:
-                print("\n✅ ¡SISTEMA COMPLETO! Todas las 365 lecciones están procesadas")
+                print("\n[OK] ¡SISTEMA COMPLETO! Todas las 365 lecciones están procesadas")
             else:
-                print(f"\n⚠️  Faltan {missing_count} lecciones por procesar")
+                print(f"\n[ADVERTENCIA] Faltan {missing_count} lecciones por procesar")
                 print("   Ejecuta 'python scripts/process_missing_lessons.py' para procesarlas")
         else:
             print("   No se encontró índice de lecciones")
@@ -192,7 +195,7 @@ def show_status():
         print("=" * 40)
         
     except Exception as e:
-        print(f"❌ Error verificando estado: {e}")
+        print(f"[ERROR] Error verificando estado: {e}")
 
 if __name__ == "__main__":
     if len(sys.argv) > 1 and sys.argv[1] == "--status":

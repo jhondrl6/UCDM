@@ -1,0 +1,19 @@
+{
+  "success": true,
+  "timestamp": "2025-09-03T15:34:29.630336",
+  "total_requested": 250,
+  "total_processed": 245,
+  "total_failed": 5,
+  "success_rate": 98.0,
+  "updated_coverage": {
+    "previous_count": 247,
+    "newly_processed": 245,
+    "updated_count": 492,
+    "coverage_percentage": 134.7945205479452,
+    "remaining_lessons": -127
+  },
+  "final_recommendations": [
+    "EXCELENTE: Procesamiento altamente exitoso",
+    "Ejecutar validación completa del sistema"
+  ]
+}

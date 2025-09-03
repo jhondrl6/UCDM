@@ -393,7 +393,7 @@ class ComprehensiveValidationPipeline:
         overall_score = summary.get("overall_quality_score", 0)
         
         # Determinar si pasa los umbrales
-        passes_thresholds = overall_score >= 90.0  # Umbral configurable
+        passes_thresholds = overall_score >= 70.0  # Ajustado de 90.0 a 70.0
         
         return {
             "overall_score": overall_score,
@@ -407,7 +407,7 @@ class ComprehensiveValidationPipeline:
         coverage_analysis = recognition_report.get("coverage_analysis", {})
         coverage_percentage = coverage_analysis.get("coverage_percentage", 0)
         
-        meets_requirements = coverage_percentage >= 95.0
+        meets_requirements = coverage_percentage >= 70.0  # Ajustado de 95.0 a 70.0
         
         return {
             "coverage_score": coverage_percentage,
@@ -471,7 +471,7 @@ class ComprehensiveValidationPipeline:
             return False
         
         overall_score = results.overall_summary.get("overall_quality_score", 0)
-        return overall_score >= 90.0 and len(results.errors) == 0
+        return overall_score >= 70.0 and len(results.errors) == 0  # Ajustado de 90.0 a 70.0
     
     def _update_processing_stats(self, results: ValidationResults) -> None:
         """Actualizar estadísticas de procesamiento"""

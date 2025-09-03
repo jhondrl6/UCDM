@@ -1040,5 +1040,2869 @@
       "section": "Libro de Ejercicios",
       "file_path": "lessons\\lesson_360.txt"
     }
+  },
+  "2": {
+    "title": "Lección 2",
+    "word_count": 16,
+    "char_count": 77,
+    "file_path": "lessons/lesson_002.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:15.165885"
+  },
+  "5": {
+    "title": "Lección 5",
+    "word_count": 12,
+    "char_count": 70,
+    "file_path": "lessons/lesson_005.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:15.343774"
+  },
+  "6": {
+    "title": "Lección 6",
+    "word_count": 13,
+    "char_count": 70,
+    "file_path": "lessons/lesson_006.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:50.350795"
+  },
+  "7": {
+    "title": "Lección 7",
+    "word_count": 15,
+    "char_count": 74,
+    "file_path": "lessons/lesson_007.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:50.408331"
+  },
+  "8": {
+    "title": "Lección 8",
+    "word_count": 11,
+    "char_count": 66,
+    "file_path": "lessons/lesson_008.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:50.464201"
+  },
+  "9": {
+    "title": "Lección 9",
+    "word_count": 10,
+    "char_count": 95,
+    "file_path": "lessons/lesson_009.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:50.521169"
+  },
+  "10": {
+    "title": "Lección 10",
+    "word_count": 15,
+    "char_count": 80,
+    "file_path": "lessons/lesson_010.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:14.428887"
+  },
+  "11": {
+    "title": "Lección 11",
+    "word_count": 5,
+    "char_count": 107,
+    "file_path": "lessons/lesson_011.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:50.637057"
+  },
+  "12": {
+    "title": "Lección 12",
+    "word_count": 13,
+    "char_count": 75,
+    "file_path": "lessons/lesson_012.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:50.692536"
+  },
+  "13": {
+    "title": "Lección 13",
+    "word_count": 11,
+    "char_count": 77,
+    "file_path": "lessons/lesson_013.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:50.751766"
+  },
+  "14": {
+    "title": "Lección 14",
+    "word_count": 9,
+    "char_count": 93,
+    "file_path": "lessons/lesson_014.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:50.808881"
+  },
+  "15": {
+    "title": "Lección 15",
+    "word_count": 12,
+    "char_count": 76,
+    "file_path": "lessons/lesson_015.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:14.487761"
+  },
+  "17": {
+    "title": "Lección 17",
+    "word_count": 7,
+    "char_count": 101,
+    "file_path": "lessons/lesson_017.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:50.977421"
+  },
+  "18": {
+    "title": "Lección 18",
+    "word_count": 16,
+    "char_count": 75,
+    "file_path": "lessons/lesson_018.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:51.035042"
+  },
+  "19": {
+    "title": "Lección 19",
+    "word_count": 13,
+    "char_count": 74,
+    "file_path": "lessons/lesson_019.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:51.091021"
+  },
+  "20": {
+    "title": "Lección 20",
+    "word_count": 7,
+    "char_count": 102,
+    "file_path": "lessons/lesson_020.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:51.147094"
+  },
+  "21": {
+    "title": "Lección 21",
+    "word_count": 13,
+    "char_count": 77,
+    "file_path": "lessons/lesson_021.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:51.204142"
+  },
+  "22": {
+    "title": "Lección 22",
+    "word_count": 11,
+    "char_count": 90,
+    "file_path": "lessons/lesson_022.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:51.260002"
+  },
+  "23": {
+    "title": "Lección 23",
+    "word_count": 11,
+    "char_count": 83,
+    "file_path": "lessons/lesson_023.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:51.317711"
+  },
+  "24": {
+    "title": "Lección 24",
+    "word_count": 10,
+    "char_count": 92,
+    "file_path": "lessons/lesson_024.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:51.373704"
+  },
+  "25": {
+    "title": "Lección 25",
+    "word_count": 11,
+    "char_count": 95,
+    "file_path": "lessons/lesson_025.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:14.545196"
+  },
+  "26": {
+    "title": "Lección 26",
+    "word_count": 10,
+    "char_count": 82,
+    "file_path": "lessons/lesson_026.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:51.479707"
+  },
+  "27": {
+    "title": "Lección 27",
+    "word_count": 9,
+    "char_count": 96,
+    "file_path": "lessons/lesson_027.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:51.536394"
+  },
+  "28": {
+    "title": "Lección 28",
+    "word_count": 13,
+    "char_count": 81,
+    "file_path": "lessons/lesson_028.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:51.592711"
+  },
+  "29": {
+    "title": "Lección 29",
+    "word_count": 11,
+    "char_count": 99,
+    "file_path": "lessons/lesson_029.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:51.649831"
+  },
+  "30": {
+    "title": "Lección 30",
+    "word_count": 15,
+    "char_count": 79,
+    "file_path": "lessons/lesson_030.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:51.705811"
+  },
+  "31": {
+    "title": "Lección 31",
+    "word_count": 10,
+    "char_count": 92,
+    "file_path": "lessons/lesson_031.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:51.761535"
+  },
+  "32": {
+    "title": "Lección 32",
+    "word_count": 14,
+    "char_count": 84,
+    "file_path": "lessons/lesson_032.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:51.818540"
+  },
+  "33": {
+    "title": "Lección 33",
+    "word_count": 9,
+    "char_count": 93,
+    "file_path": "lessons/lesson_033.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:51.874215"
+  },
+  "34": {
+    "title": "Lección 34",
+    "word_count": 11,
+    "char_count": 98,
+    "file_path": "lessons/lesson_034.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:51.922994"
+  },
+  "35": {
+    "title": "Lección 35",
+    "word_count": 12,
+    "char_count": 70,
+    "file_path": "lessons/lesson_035.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:51.979997"
+  },
+  "36": {
+    "title": "Lección 36",
+    "word_count": 12,
+    "char_count": 77,
+    "file_path": "lessons/lesson_036.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:52.038313"
+  },
+  "37": {
+    "title": "Lección 37",
+    "word_count": 9,
+    "char_count": 96,
+    "file_path": "lessons/lesson_037.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:52.096070"
+  },
+  "38": {
+    "title": "Lección 38",
+    "word_count": 12,
+    "char_count": 86,
+    "file_path": "lessons/lesson_038.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:52.153079"
+  },
+  "39": {
+    "title": "Lección 39",
+    "word_count": 8,
+    "char_count": 97,
+    "file_path": "lessons/lesson_039.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:52.210158"
+  },
+  "40": {
+    "title": "Lección 40",
+    "word_count": 12,
+    "char_count": 94,
+    "file_path": "lessons/lesson_040.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:52.269076"
+  },
+  "41": {
+    "title": "Lección 41",
+    "word_count": 13,
+    "char_count": 74,
+    "file_path": "lessons/lesson_041.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:52.327203"
+  },
+  "42": {
+    "title": "Lección 42",
+    "word_count": 15,
+    "char_count": 76,
+    "file_path": "lessons/lesson_042.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:52.386827"
+  },
+  "43": {
+    "title": "Lección 43",
+    "word_count": 16,
+    "char_count": 81,
+    "file_path": "lessons/lesson_043.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:52.437523"
+  },
+  "44": {
+    "title": "Lección 44",
+    "word_count": 11,
+    "char_count": 99,
+    "file_path": "lessons/lesson_044.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:52.494119"
+  },
+  "45": {
+    "title": "Lección 45",
+    "word_count": 13,
+    "char_count": 72,
+    "file_path": "lessons/lesson_045.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:52.553243"
+  },
+  "46": {
+    "title": "Lección 46",
+    "word_count": 11,
+    "char_count": 93,
+    "file_path": "lessons/lesson_046.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:52.609839"
+  },
+  "47": {
+    "title": "Lección 47",
+    "word_count": 11,
+    "char_count": 95,
+    "file_path": "lessons/lesson_047.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:52.668064"
+  },
+  "48": {
+    "title": "Lección 48",
+    "word_count": 9,
+    "char_count": 100,
+    "file_path": "lessons/lesson_048.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:52.744060"
+  },
+  "52": {
+    "title": "Lección 52",
+    "word_count": 6,
+    "char_count": 109,
+    "file_path": "lessons/lesson_052.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:52.975801"
+  },
+  "53": {
+    "title": "Lección 53",
+    "word_count": 5,
+    "char_count": 107,
+    "file_path": "lessons/lesson_053.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:53.033608"
+  },
+  "54": {
+    "title": "Lección 54",
+    "word_count": 5,
+    "char_count": 107,
+    "file_path": "lessons/lesson_054.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:53.082432"
+  },
+  "55": {
+    "title": "Lección 55",
+    "word_count": 5,
+    "char_count": 107,
+    "file_path": "lessons/lesson_055.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:53.131872"
+  },
+  "56": {
+    "title": "Lección 56",
+    "word_count": 5,
+    "char_count": 107,
+    "file_path": "lessons/lesson_056.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:53.188450"
+  },
+  "57": {
+    "title": "Lección 57",
+    "word_count": 6,
+    "char_count": 108,
+    "file_path": "lessons/lesson_057.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:53.245070"
+  },
+  "58": {
+    "title": "Lección 58",
+    "word_count": 5,
+    "char_count": 107,
+    "file_path": "lessons/lesson_058.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:53.303082"
+  },
+  "59": {
+    "title": "Lección 59",
+    "word_count": 6,
+    "char_count": 108,
+    "file_path": "lessons/lesson_059.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:53.360383"
+  },
+  "60": {
+    "title": "Lección 60",
+    "word_count": 5,
+    "char_count": 107,
+    "file_path": "lessons/lesson_060.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:53.416302"
+  },
+  "61": {
+    "title": "Lección 61",
+    "word_count": 8,
+    "char_count": 98,
+    "file_path": "lessons/lesson_061.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:53.472433"
+  },
+  "62": {
+    "title": "Lección 62",
+    "word_count": 13,
+    "char_count": 87,
+    "file_path": "lessons/lesson_062.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:53.530724"
+  },
+  "63": {
+    "title": "Lección 63",
+    "word_count": 13,
+    "char_count": 90,
+    "file_path": "lessons/lesson_063.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:53.580651"
+  },
+  "66": {
+    "title": "Lección 66",
+    "word_count": 9,
+    "char_count": 94,
+    "file_path": "lessons/lesson_066.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:53.754609"
+  },
+  "67": {
+    "title": "Lección 67",
+    "word_count": 11,
+    "char_count": 85,
+    "file_path": "lessons/lesson_067.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:53.811795"
+  },
+  "68": {
+    "title": "Lección 68",
+    "word_count": 7,
+    "char_count": 93,
+    "file_path": "lessons/lesson_068.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:53.870633"
+  },
+  "69": {
+    "title": "Lección 69",
+    "word_count": 12,
+    "char_count": 85,
+    "file_path": "lessons/lesson_069.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:53.926991"
+  },
+  "70": {
+    "title": "Lección 70",
+    "word_count": 9,
+    "char_count": 98,
+    "file_path": "lessons/lesson_070.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:53.984833"
+  },
+  "71": {
+    "title": "Lección 71",
+    "word_count": 13,
+    "char_count": 88,
+    "file_path": "lessons/lesson_071.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:54.040744"
+  },
+  "72": {
+    "title": "Lección 72",
+    "word_count": 5,
+    "char_count": 113,
+    "file_path": "lessons/lesson_072.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:54.097141"
+  },
+  "73": {
+    "title": "Lección 73",
+    "word_count": 9,
+    "char_count": 97,
+    "file_path": "lessons/lesson_073.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:54.154276"
+  },
+  "74": {
+    "title": "Lección 74",
+    "word_count": 11,
+    "char_count": 92,
+    "file_path": "lessons/lesson_074.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:54.210164"
+  },
+  "75": {
+    "title": "Lección 75",
+    "word_count": 8,
+    "char_count": 106,
+    "file_path": "lessons/lesson_075.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:54.267276"
+  },
+  "76": {
+    "title": "Lección 76",
+    "word_count": 12,
+    "char_count": 88,
+    "file_path": "lessons/lesson_076.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:54.323270"
+  },
+  "77": {
+    "title": "Lección 77",
+    "word_count": 8,
+    "char_count": 96,
+    "file_path": "lessons/lesson_077.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:54.380478"
+  },
+  "79": {
+    "title": "Lección 79",
+    "word_count": 11,
+    "char_count": 75,
+    "file_path": "lessons/lesson_079.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:54.482620"
+  },
+  "80": {
+    "title": "Permítaseme reconocer que mis problemas se han resuelto.",
+    "word_count": 860,
+    "char_count": 5001,
+    "file_path": "lessons/lesson_080.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:54.585654"
+  },
+  "81": {
+    "title": "Lección 81",
+    "word_count": 6,
+    "char_count": 109,
+    "file_path": "lessons/lesson_081.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:54.642092"
+  },
+  "82": {
+    "title": "Lección 82",
+    "word_count": 6,
+    "char_count": 109,
+    "file_path": "lessons/lesson_082.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:54.701280"
+  },
+  "83": {
+    "title": "Lección 83",
+    "word_count": 5,
+    "char_count": 108,
+    "file_path": "lessons/lesson_083.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:54.758342"
+  },
+  "84": {
+    "title": "Lección 84",
+    "word_count": 6,
+    "char_count": 109,
+    "file_path": "lessons/lesson_084.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:54.817068"
+  },
+  "85": {
+    "title": "Lección 85",
+    "word_count": 5,
+    "char_count": 108,
+    "file_path": "lessons/lesson_085.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:54.877418"
+  },
+  "86": {
+    "title": "Lección 86",
+    "word_count": 5,
+    "char_count": 108,
+    "file_path": "lessons/lesson_086.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:54.939176"
+  },
+  "87": {
+    "title": "Lección 87",
+    "word_count": 5,
+    "char_count": 108,
+    "file_path": "lessons/lesson_087.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:55.001460"
+  },
+  "88": {
+    "title": "Lección 88",
+    "word_count": 5,
+    "char_count": 108,
+    "file_path": "lessons/lesson_088.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:55.062103"
+  },
+  "89": {
+    "title": "Lección 89",
+    "word_count": 6,
+    "char_count": 109,
+    "file_path": "lessons/lesson_089.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:55.126027"
+  },
+  "90": {
+    "title": "Lección 90",
+    "word_count": 5,
+    "char_count": 108,
+    "file_path": "lessons/lesson_090.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:55.187555"
+  },
+  "91": {
+    "title": "Lección 91",
+    "word_count": 10,
+    "char_count": 97,
+    "file_path": "lessons/lesson_091.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:55.249737"
+  },
+  "92": {
+    "title": "Lección 92",
+    "word_count": 17,
+    "char_count": 82,
+    "file_path": "lessons/lesson_092.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:55.312579"
+  },
+  "93": {
+    "title": "Lección 93",
+    "word_count": 13,
+    "char_count": 93,
+    "file_path": "lessons/lesson_093.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:55.371021"
+  },
+  "95": {
+    "title": "Lección 95",
+    "word_count": 11,
+    "char_count": 93,
+    "file_path": "lessons/lesson_095.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:55.490475"
+  },
+  "96": {
+    "title": "Lección 96",
+    "word_count": 10,
+    "char_count": 92,
+    "file_path": "lessons/lesson_096.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:55.554151"
+  },
+  "97": {
+    "title": "Lección 97",
+    "word_count": 6,
+    "char_count": 109,
+    "file_path": "lessons/lesson_097.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:55.615690"
+  },
+  "98": {
+    "title": "Lección 98",
+    "word_count": 10,
+    "char_count": 94,
+    "file_path": "lessons/lesson_098.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:55.676225"
+  },
+  "99": {
+    "title": "Lección 99",
+    "word_count": 11,
+    "char_count": 94,
+    "file_path": "lessons/lesson_099.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:55.739437"
+  },
+  "100": {
+    "title": "Lección 100",
+    "word_count": 14,
+    "char_count": 86,
+    "file_path": "lessons/lesson_100.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:14.663109"
+  },
+  "101": {
+    "title": "Lección 101",
+    "word_count": 12,
+    "char_count": 86,
+    "file_path": "lessons/lesson_101.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:55.863315"
+  },
+  "102": {
+    "title": "Lección 102",
+    "word_count": 13,
+    "char_count": 83,
+    "file_path": "lessons/lesson_102.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:55.928385"
+  },
+  "103": {
+    "title": "Lección 103",
+    "word_count": 10,
+    "char_count": 92,
+    "file_path": "lessons/lesson_103.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:55.999264"
+  },
+  "104": {
+    "title": "Lección 104",
+    "word_count": 11,
+    "char_count": 84,
+    "file_path": "lessons/lesson_104.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:56.058130"
+  },
+  "105": {
+    "title": "Lección 105",
+    "word_count": 13,
+    "char_count": 95,
+    "file_path": "lessons/lesson_105.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:56.122264"
+  },
+  "106": {
+    "title": "Lección 106",
+    "word_count": 9,
+    "char_count": 90,
+    "file_path": "lessons/lesson_106.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:56.189325"
+  },
+  "107": {
+    "title": "La verdad corregirá todos los errores de mi mente.",
+    "word_count": 1001,
+    "char_count": 5460,
+    "file_path": "lessons/lesson_107.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:56.293130"
+  },
+  "108": {
+    "title": "Lección 108",
+    "word_count": 12,
+    "char_count": 94,
+    "file_path": "lessons/lesson_108.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:56.355288"
+  },
+  "109": {
+    "title": "Lección 109",
+    "word_count": 6,
+    "char_count": 103,
+    "file_path": "lessons/lesson_109.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:56.419166"
+  },
+  "111": {
+    "title": "Lección 111",
+    "word_count": 5,
+    "char_count": 107,
+    "file_path": "lessons/lesson_111.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:56.612427"
+  },
+  "112": {
+    "title": "Lección 112",
+    "word_count": 6,
+    "char_count": 109,
+    "file_path": "lessons/lesson_112.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:56.676578"
+  },
+  "113": {
+    "title": "Lección 113",
+    "word_count": 5,
+    "char_count": 108,
+    "file_path": "lessons/lesson_113.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:56.737851"
+  },
+  "114": {
+    "title": "Lección 114",
+    "word_count": 6,
+    "char_count": 109,
+    "file_path": "lessons/lesson_114.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:56.801641"
+  },
+  "115": {
+    "title": "Lección 115",
+    "word_count": 5,
+    "char_count": 108,
+    "file_path": "lessons/lesson_115.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:56.859377"
+  },
+  "117": {
+    "title": "Lección 117",
+    "word_count": 5,
+    "char_count": 108,
+    "file_path": "lessons/lesson_117.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:56.984589"
+  },
+  "119": {
+    "title": "Lección 119",
+    "word_count": 6,
+    "char_count": 108,
+    "file_path": "lessons/lesson_119.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:57.108982"
+  },
+  "120": {
+    "title": "Lección 120",
+    "word_count": 5,
+    "char_count": 107,
+    "file_path": "lessons/lesson_120.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:57.170373"
+  },
+  "121": {
+    "title": "Lección 121",
+    "word_count": 10,
+    "char_count": 96,
+    "file_path": "lessons/lesson_121.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:57.231819"
+  },
+  "122": {
+    "title": "Lección 122",
+    "word_count": 10,
+    "char_count": 91,
+    "file_path": "lessons/lesson_122.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:57.289669"
+  },
+  "123": {
+    "title": "Lección 123",
+    "word_count": 11,
+    "char_count": 83,
+    "file_path": "lessons/lesson_123.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:57.348056"
+  },
+  "124": {
+    "title": "Lección 124",
+    "word_count": 13,
+    "char_count": 87,
+    "file_path": "lessons/lesson_124.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:57.406415"
+  },
+  "125": {
+    "title": "Lección 125",
+    "word_count": 12,
+    "char_count": 90,
+    "file_path": "lessons/lesson_125.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:57.468714"
+  },
+  "126": {
+    "title": "Lección 126",
+    "word_count": 15,
+    "char_count": 84,
+    "file_path": "lessons/lesson_126.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:57.530003"
+  },
+  "127": {
+    "title": "Lección 127",
+    "word_count": 12,
+    "char_count": 96,
+    "file_path": "lessons/lesson_127.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:57.594168"
+  },
+  "128": {
+    "title": "Lección 128",
+    "word_count": 13,
+    "char_count": 82,
+    "file_path": "lessons/lesson_128.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:57.655850"
+  },
+  "129": {
+    "title": "Lección 129",
+    "word_count": 13,
+    "char_count": 84,
+    "file_path": "lessons/lesson_129.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:57.718928"
+  },
+  "130": {
+    "title": "Lección 130",
+    "word_count": 8,
+    "char_count": 97,
+    "file_path": "lessons/lesson_130.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:57.780579"
+  },
+  "131": {
+    "title": "Lección 131",
+    "word_count": 11,
+    "char_count": 80,
+    "file_path": "lessons/lesson_131.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:57.838942"
+  },
+  "132": {
+    "title": "Lección 132",
+    "word_count": 14,
+    "char_count": 84,
+    "file_path": "lessons/lesson_132.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:57.893805"
+  },
+  "133": {
+    "title": "Lección 133",
+    "word_count": 14,
+    "char_count": 96,
+    "file_path": "lessons/lesson_133.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:57.957328"
+  },
+  "134": {
+    "title": "Lección 134",
+    "word_count": 10,
+    "char_count": 85,
+    "file_path": "lessons/lesson_134.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:58.022514"
+  },
+  "136": {
+    "title": "Lección 136",
+    "word_count": 11,
+    "char_count": 87,
+    "file_path": "lessons/lesson_136.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:58.152822"
+  },
+  "137": {
+    "title": "Lección 137",
+    "word_count": 13,
+    "char_count": 88,
+    "file_path": "lessons/lesson_137.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:58.216169"
+  },
+  "138": {
+    "title": "Lección 138",
+    "word_count": 13,
+    "char_count": 86,
+    "file_path": "lessons/lesson_138.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:58.279149"
+  },
+  "139": {
+    "title": "Lección 139",
+    "word_count": 9,
+    "char_count": 91,
+    "file_path": "lessons/lesson_139.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:58.339621"
+  },
+  "140": {
+    "title": "La salvación es lo único que cura.",
+    "word_count": 2148,
+    "char_count": 11890,
+    "file_path": "lessons/lesson_140.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:58.467017"
+  },
+  "141": {
+    "title": "Lección 141",
+    "word_count": 5,
+    "char_count": 106,
+    "file_path": "lessons/lesson_141.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:58.530683"
+  },
+  "145": {
+    "title": "Lección 145",
+    "word_count": 6,
+    "char_count": 108,
+    "file_path": "lessons/lesson_145.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:58.829534"
+  },
+  "149": {
+    "title": "Lección 149",
+    "word_count": 5,
+    "char_count": 107,
+    "file_path": "lessons/lesson_149.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:59.067621"
+  },
+  "151": {
+    "title": "Lección 151",
+    "word_count": 14,
+    "char_count": 82,
+    "file_path": "lessons/lesson_151.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:59.190215"
+  },
+  "152": {
+    "title": "Lección 152",
+    "word_count": 8,
+    "char_count": 100,
+    "file_path": "lessons/lesson_152.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:59.252353"
+  },
+  "153": {
+    "title": "Lección 153",
+    "word_count": 9,
+    "char_count": 92,
+    "file_path": "lessons/lesson_153.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:59.315271"
+  },
+  "154": {
+    "title": "Lección 154",
+    "word_count": 10,
+    "char_count": 93,
+    "file_path": "lessons/lesson_154.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:59.374242"
+  },
+  "155": {
+    "title": "Lección 155",
+    "word_count": 15,
+    "char_count": 80,
+    "file_path": "lessons/lesson_155.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:59.437829"
+  },
+  "156": {
+    "title": "Lección 156",
+    "word_count": 9,
+    "char_count": 92,
+    "file_path": "lessons/lesson_156.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:59.501113"
+  },
+  "157": {
+    "title": "Lección 157",
+    "word_count": 9,
+    "char_count": 94,
+    "file_path": "lessons/lesson_157.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:59.556748"
+  },
+  "158": {
+    "title": "Lección 158",
+    "word_count": 10,
+    "char_count": 94,
+    "file_path": "lessons/lesson_158.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:59.621762"
+  },
+  "159": {
+    "title": "Lección 159",
+    "word_count": 10,
+    "char_count": 96,
+    "file_path": "lessons/lesson_159.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:59.686331"
+  },
+  "160": {
+    "title": "Lección 160",
+    "word_count": 16,
+    "char_count": 79,
+    "file_path": "lessons/lesson_160.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:59.749648"
+  },
+  "161": {
+    "title": "Lección 161",
+    "word_count": 10,
+    "char_count": 90,
+    "file_path": "lessons/lesson_161.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:59.810446"
+  },
+  "162": {
+    "title": "Lección 162",
+    "word_count": 10,
+    "char_count": 98,
+    "file_path": "lessons/lesson_162.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:59.872178"
+  },
+  "163": {
+    "title": "Lección 163",
+    "word_count": 13,
+    "char_count": 90,
+    "file_path": "lessons/lesson_163.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:59.935884"
+  },
+  "164": {
+    "title": "Lección 164",
+    "word_count": 12,
+    "char_count": 83,
+    "file_path": "lessons/lesson_164.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:59.999156"
+  },
+  "165": {
+    "title": "Lección 165",
+    "word_count": 12,
+    "char_count": 84,
+    "file_path": "lessons/lesson_165.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:00.055296"
+  },
+  "166": {
+    "title": "Lección 166",
+    "word_count": 11,
+    "char_count": 92,
+    "file_path": "lessons/lesson_166.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:00.116561"
+  },
+  "167": {
+    "title": "Lección 167",
+    "word_count": 16,
+    "char_count": 80,
+    "file_path": "lessons/lesson_167.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:00.176976"
+  },
+  "168": {
+    "title": "Lección 168",
+    "word_count": 11,
+    "char_count": 89,
+    "file_path": "lessons/lesson_168.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:00.237856"
+  },
+  "169": {
+    "title": "Lección 169",
+    "word_count": 12,
+    "char_count": 90,
+    "file_path": "lessons/lesson_169.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:00.302217"
+  },
+  "170": {
+    "title": "En Dios no hay crueldad ni en mí tampoco.",
+    "word_count": 2503,
+    "char_count": 13752,
+    "file_path": "lessons/lesson_170.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:00.435564"
+  },
+  "171": {
+    "title": "Lección 171",
+    "word_count": 5,
+    "char_count": 112,
+    "file_path": "lessons/lesson_171.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:00.501467"
+  },
+  "174": {
+    "title": "Lección 174",
+    "word_count": 6,
+    "char_count": 114,
+    "file_path": "lessons/lesson_174.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:00.686517"
+  },
+  "177": {
+    "title": "Lección 177",
+    "word_count": 5,
+    "char_count": 113,
+    "file_path": "lessons/lesson_177.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:00.870867"
+  },
+  "180": {
+    "title": "Dios es sólo Amor y, por ende, eso es lo que soy yo.",
+    "word_count": 396,
+    "char_count": 2234,
+    "file_path": "lessons/lesson_180.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:01.139709"
+  },
+  "181": {
+    "title": "Lección 181",
+    "word_count": 10,
+    "char_count": 89,
+    "file_path": "lessons/lesson_181.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:01.204834"
+  },
+  "182": {
+    "title": "Lección 182",
+    "word_count": 14,
+    "char_count": 85,
+    "file_path": "lessons/lesson_182.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:01.267377"
+  },
+  "183": {
+    "title": "Lección 183",
+    "word_count": 12,
+    "char_count": 94,
+    "file_path": "lessons/lesson_183.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:01.330176"
+  },
+  "184": {
+    "title": "Lección 184",
+    "word_count": 9,
+    "char_count": 98,
+    "file_path": "lessons/lesson_184.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:01.388124"
+  },
+  "185": {
+    "title": "Lección 185",
+    "word_count": 9,
+    "char_count": 109,
+    "file_path": "lessons/lesson_185.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:01.454036"
+  },
+  "186": {
+    "title": "Lección 186",
+    "word_count": 10,
+    "char_count": 96,
+    "file_path": "lessons/lesson_186.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:01.515744"
+  },
+  "187": {
+    "title": "Lección 187",
+    "word_count": 12,
+    "char_count": 86,
+    "file_path": "lessons/lesson_187.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:01.580354"
+  },
+  "188": {
+    "title": "Lección 188",
+    "word_count": 11,
+    "char_count": 101,
+    "file_path": "lessons/lesson_188.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:01.644529"
+  },
+  "189": {
+    "title": "Lección 189",
+    "word_count": 12,
+    "char_count": 95,
+    "file_path": "lessons/lesson_189.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:01.709825"
+  },
+  "190": {
+    "title": "Lección 190",
+    "word_count": 13,
+    "char_count": 100,
+    "file_path": "lessons/lesson_190.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:01.774369"
+  },
+  "191": {
+    "title": "Lección 191",
+    "word_count": 10,
+    "char_count": 100,
+    "file_path": "lessons/lesson_191.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:01.838472"
+  },
+  "192": {
+    "title": "Lección 192",
+    "word_count": 11,
+    "char_count": 86,
+    "file_path": "lessons/lesson_192.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:01.903307"
+  },
+  "193": {
+    "title": "Lección 193",
+    "word_count": 13,
+    "char_count": 81,
+    "file_path": "lessons/lesson_193.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:01.963055"
+  },
+  "194": {
+    "title": "Lección 194",
+    "word_count": 10,
+    "char_count": 99,
+    "file_path": "lessons/lesson_194.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:02.037090"
+  },
+  "195": {
+    "title": "Lección 195",
+    "word_count": 12,
+    "char_count": 94,
+    "file_path": "lessons/lesson_195.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:02.102871"
+  },
+  "196": {
+    "title": "Lección 196",
+    "word_count": 11,
+    "char_count": 93,
+    "file_path": "lessons/lesson_196.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:02.164374"
+  },
+  "197": {
+    "title": "Lección 197",
+    "word_count": 14,
+    "char_count": 90,
+    "file_path": "lessons/lesson_197.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:02.225852"
+  },
+  "198": {
+    "title": "Lección 198",
+    "word_count": 10,
+    "char_count": 94,
+    "file_path": "lessons/lesson_198.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:02.292639"
+  },
+  "199": {
+    "title": "Lección 199",
+    "word_count": 9,
+    "char_count": 105,
+    "file_path": "lessons/lesson_199.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:02.359107"
+  },
+  "200": {
+    "title": "No hay más paz que la paz de Dios.",
+    "word_count": 1767,
+    "char_count": 9546,
+    "file_path": "lessons/lesson_200.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:14.776755"
+  },
+  "201": {
+    "title": "Lección 201",
+    "word_count": 3,
+    "char_count": 117,
+    "file_path": "lessons/lesson_201.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:02.539344"
+  },
+  "205": {
+    "title": "Lección 205",
+    "word_count": 3,
+    "char_count": 118,
+    "file_path": "lessons/lesson_205.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:02.803964"
+  },
+  "211": {
+    "title": "Lección 211",
+    "word_count": 4,
+    "char_count": 119,
+    "file_path": "lessons/lesson_211.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:03.189195"
+  },
+  "213": {
+    "title": "Lección 213",
+    "word_count": 4,
+    "char_count": 119,
+    "file_path": "lessons/lesson_213.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:03.316930"
+  },
+  "221": {
+    "title": "Lección 221",
+    "word_count": 15,
+    "char_count": 76,
+    "file_path": "lessons/lesson_221.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:04.053418"
+  },
+  "223": {
+    "title": "Lección 223",
+    "word_count": 13,
+    "char_count": 91,
+    "file_path": "lessons/lesson_223.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:04.190298"
+  },
+  "225": {
+    "title": "Lección 225",
+    "word_count": 12,
+    "char_count": 99,
+    "file_path": "lessons/lesson_225.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:04.317607"
+  },
+  "227": {
+    "title": "Lección 227",
+    "word_count": 10,
+    "char_count": 97,
+    "file_path": "lessons/lesson_227.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:04.439303"
+  },
+  "229": {
+    "title": "Lección 229",
+    "word_count": 14,
+    "char_count": 92,
+    "file_path": "lessons/lesson_229.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:04.605859"
+  },
+  "231": {
+    "title": "Lección 231",
+    "word_count": 8,
+    "char_count": 91,
+    "file_path": "lessons/lesson_231.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:04.737815"
+  },
+  "233": {
+    "title": "Lección 233",
+    "word_count": 14,
+    "char_count": 92,
+    "file_path": "lessons/lesson_233.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:04.873993"
+  },
+  "235": {
+    "title": "Lección 235",
+    "word_count": 12,
+    "char_count": 90,
+    "file_path": "lessons/lesson_235.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:04.998839"
+  },
+  "237": {
+    "title": "Lección 237",
+    "word_count": 11,
+    "char_count": 95,
+    "file_path": "lessons/lesson_237.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:05.121318"
+  },
+  "239": {
+    "title": "Lección 239",
+    "word_count": 9,
+    "char_count": 103,
+    "file_path": "lessons/lesson_239.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:05.249066"
+  },
+  "241": {
+    "title": "Lección 241",
+    "word_count": 10,
+    "char_count": 98,
+    "file_path": "lessons/lesson_241.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:05.369987"
+  },
+  "243": {
+    "title": "Lección 243",
+    "word_count": 11,
+    "char_count": 97,
+    "file_path": "lessons/lesson_243.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:05.499576"
+  },
+  "245": {
+    "title": "Lección 245",
+    "word_count": 11,
+    "char_count": 94,
+    "file_path": "lessons/lesson_245.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:05.618416"
+  },
+  "247": {
+    "title": "Lección 247",
+    "word_count": 9,
+    "char_count": 102,
+    "file_path": "lessons/lesson_247.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:05.743198"
+  },
+  "249": {
+    "title": "Lección 249",
+    "word_count": 15,
+    "char_count": 79,
+    "file_path": "lessons/lesson_249.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:05.871025"
+  },
+  "251": {
+    "title": "No necesito nada más que la verdad",
+    "word_count": 146,
+    "char_count": 822,
+    "file_path": "lessons/lesson_251.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:06.028633"
+  },
+  "253": {
+    "title": "Lección 253",
+    "word_count": 10,
+    "char_count": 97,
+    "file_path": "lessons/lesson_253.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:06.145238"
+  },
+  "255": {
+    "title": "Lección 255",
+    "word_count": 9,
+    "char_count": 100,
+    "file_path": "lessons/lesson_255.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:06.259691"
+  },
+  "257": {
+    "title": "Lección 257",
+    "word_count": 9,
+    "char_count": 97,
+    "file_path": "lessons/lesson_257.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:06.368601"
+  },
+  "259": {
+    "title": "Lección 259",
+    "word_count": 10,
+    "char_count": 97,
+    "file_path": "lessons/lesson_259.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:06.482158"
+  },
+  "261": {
+    "title": "Lección 261",
+    "word_count": 8,
+    "char_count": 100,
+    "file_path": "lessons/lesson_261.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:06.598057"
+  },
+  "265": {
+    "title": "Lección 265",
+    "word_count": 12,
+    "char_count": 86,
+    "file_path": "lessons/lesson_265.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:06.828680"
+  },
+  "267": {
+    "title": "Lección 267",
+    "word_count": 10,
+    "char_count": 99,
+    "file_path": "lessons/lesson_267.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:06.945576"
+  },
+  "269": {
+    "title": "Lección 269",
+    "word_count": 13,
+    "char_count": 98,
+    "file_path": "lessons/lesson_269.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:07.061810"
+  },
+  "271": {
+    "title": "Lección 271",
+    "word_count": 9,
+    "char_count": 99,
+    "file_path": "lessons/lesson_271.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:07.180395"
+  },
+  "273": {
+    "title": "Lección 273",
+    "word_count": 12,
+    "char_count": 99,
+    "file_path": "lessons/lesson_273.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:07.288885"
+  },
+  "275": {
+    "title": "Lección 275",
+    "word_count": 12,
+    "char_count": 85,
+    "file_path": "lessons/lesson_275.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:07.404273"
+  },
+  "277": {
+    "title": "Lección 277",
+    "word_count": 15,
+    "char_count": 77,
+    "file_path": "lessons/lesson_277.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:07.520274"
+  },
+  "279": {
+    "title": "Lección 279",
+    "word_count": 10,
+    "char_count": 96,
+    "file_path": "lessons/lesson_279.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:07.632800"
+  },
+  "281": {
+    "title": "Lección 281",
+    "word_count": 11,
+    "char_count": 77,
+    "file_path": "lessons/lesson_281.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:07.789549"
+  },
+  "283": {
+    "title": "Lección 283",
+    "word_count": 9,
+    "char_count": 98,
+    "file_path": "lessons/lesson_283.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:07.905775"
+  },
+  "285": {
+    "title": "Lección 285",
+    "word_count": 9,
+    "char_count": 97,
+    "file_path": "lessons/lesson_285.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:08.022191"
+  },
+  "287": {
+    "title": "Lección 287",
+    "word_count": 11,
+    "char_count": 92,
+    "file_path": "lessons/lesson_287.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:08.134684"
+  },
+  "289": {
+    "title": "Lección 289",
+    "word_count": 11,
+    "char_count": 95,
+    "file_path": "lessons/lesson_289.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:08.284861"
+  },
+  "291": {
+    "title": "Lección 291",
+    "word_count": 11,
+    "char_count": 99,
+    "file_path": "lessons/lesson_291.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:08.404026"
+  },
+  "293": {
+    "title": "Lección 293",
+    "word_count": 15,
+    "char_count": 85,
+    "file_path": "lessons/lesson_293.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:08.519712"
+  },
+  "295": {
+    "title": "Lección 295",
+    "word_count": 12,
+    "char_count": 97,
+    "file_path": "lessons/lesson_295.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:08.629557"
+  },
+  "297": {
+    "title": "Lección 297",
+    "word_count": 10,
+    "char_count": 97,
+    "file_path": "lessons/lesson_297.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:08.750115"
+  },
+  "299": {
+    "title": "Lección 299",
+    "word_count": 8,
+    "char_count": 100,
+    "file_path": "lessons/lesson_299.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:08.865520"
+  },
+  "301": {
+    "title": "Lección 301",
+    "word_count": 11,
+    "char_count": 92,
+    "file_path": "lessons/lesson_301.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:08.980794"
+  },
+  "303": {
+    "title": "Lección 303",
+    "word_count": 10,
+    "char_count": 101,
+    "file_path": "lessons/lesson_303.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:09.093437"
+  },
+  "305": {
+    "title": "Lección 305",
+    "word_count": 10,
+    "char_count": 96,
+    "file_path": "lessons/lesson_305.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:09.212770"
+  },
+  "307": {
+    "title": "Lección 307",
+    "word_count": 10,
+    "char_count": 86,
+    "file_path": "lessons/lesson_307.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:09.328474"
+  },
+  "309": {
+    "title": "Lección 309",
+    "word_count": 12,
+    "char_count": 92,
+    "file_path": "lessons/lesson_309.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:09.444242"
+  },
+  "311": {
+    "title": "Lección 311",
+    "word_count": 11,
+    "char_count": 93,
+    "file_path": "lessons/lesson_311.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:09.558446"
+  },
+  "313": {
+    "title": "Lección 313",
+    "word_count": 11,
+    "char_count": 91,
+    "file_path": "lessons/lesson_313.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:09.676441"
+  },
+  "315": {
+    "title": "Lección 315",
+    "word_count": 12,
+    "char_count": 82,
+    "file_path": "lessons/lesson_315.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:09.791392"
+  },
+  "317": {
+    "title": "Lección 317",
+    "word_count": 11,
+    "char_count": 96,
+    "file_path": "lessons/lesson_317.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:09.906895"
+  },
+  "319": {
+    "title": "Lección 319",
+    "word_count": 8,
+    "char_count": 105,
+    "file_path": "lessons/lesson_319.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:10.021134"
+  },
+  "321": {
+    "title": "Lección 321",
+    "word_count": 10,
+    "char_count": 96,
+    "file_path": "lessons/lesson_321.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:10.137329"
+  },
+  "323": {
+    "title": "Gustosamente sacrifico el miedo.",
+    "word_count": 158,
+    "char_count": 890,
+    "file_path": "lessons/lesson_323.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:10.282520"
+  },
+  "325": {
+    "title": "Lección 325",
+    "word_count": 13,
+    "char_count": 92,
+    "file_path": "lessons/lesson_325.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:10.400737"
+  },
+  "327": {
+    "title": "Lección 327",
+    "word_count": 12,
+    "char_count": 90,
+    "file_path": "lessons/lesson_327.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:10.514145"
+  },
+  "329": {
+    "title": "Lección 329",
+    "word_count": 11,
+    "char_count": 92,
+    "file_path": "lessons/lesson_329.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:10.622526"
+  },
+  "331": {
+    "title": "Lección 331",
+    "word_count": 13,
+    "char_count": 90,
+    "file_path": "lessons/lesson_331.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:10.738680"
+  },
+  "333": {
+    "title": "Lección 333",
+    "word_count": 11,
+    "char_count": 97,
+    "file_path": "lessons/lesson_333.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:10.855563"
+  },
+  "335": {
+    "title": "Lección 335",
+    "word_count": 10,
+    "char_count": 94,
+    "file_path": "lessons/lesson_335.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:10.970716"
+  },
+  "337": {
+    "title": "Lección 337",
+    "word_count": 10,
+    "char_count": 93,
+    "file_path": "lessons/lesson_337.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:11.085055"
+  },
+  "341": {
+    "title": "Tan sólo puedo atacar mi propia impecabilidad,",
+    "word_count": 142,
+    "char_count": 789,
+    "file_path": "lessons/lesson_341.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:11.350736"
+  },
+  "343": {
+    "title": "No se me pide que haga ningún sacrificio para",
+    "word_count": 163,
+    "char_count": 864,
+    "file_path": "lessons/lesson_343.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:11.532466"
+  },
+  "345": {
+    "title": "Lección 345",
+    "word_count": 13,
+    "char_count": 84,
+    "file_path": "lessons/lesson_345.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:11.682258"
+  },
+  "347": {
+    "title": "La ira procede de lo s juicios. Y los juicios son el",
+    "word_count": 190,
+    "char_count": 969,
+    "file_path": "lessons/lesson_347.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:11.862107"
+  },
+  "349": {
+    "title": "Hoy dejo que la v isión de Cristo contemple todas",
+    "word_count": 143,
+    "char_count": 805,
+    "file_path": "lessons/lesson_349.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:12.044417"
+  },
+  "351": {
+    "title": "Mi hermano impecable es mi guía a la paz.",
+    "word_count": 151,
+    "char_count": 772,
+    "file_path": "lessons/lesson_351.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:12.225953"
+  },
+  "353": {
+    "title": "Mis ojos, mi boca, mis manos y mis pies tienen hoy un solo",
+    "word_count": 122,
+    "char_count": 634,
+    "file_path": "lessons/lesson_353.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:12.401667"
+  },
+  "355": {
+    "title": "La paz, la di cha y los milagros que otorgaré",
+    "word_count": 132,
+    "char_count": 692,
+    "file_path": "lessons/lesson_355.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:12.577676"
+  },
+  "357": {
+    "title": "La V erdad contesta toda in vocación que le hacemos a Dios,",
+    "word_count": 120,
+    "char_count": 629,
+    "file_path": "lessons/lesson_357.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:12.757650"
+  },
+  "359": {
+    "title": "La respuesta de Dios es alguna forma de paz. Todo dolor",
+    "word_count": 156,
+    "char_count": 878,
+    "file_path": "lessons/lesson_359.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:12.937491"
+  },
+  "361": {
+    "title": "Lección 361",
+    "word_count": 7,
+    "char_count": 35,
+    "file_path": "lessons/lesson_361.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:13.623580"
+  },
+  "1": {
+    "title": "Lección 1",
+    "word_count": 13,
+    "char_count": 77,
+    "file_path": "lessons/lesson_001.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:15.105167"
+  },
+  "3": {
+    "title": "Lección 3",
+    "word_count": 16,
+    "char_count": 81,
+    "file_path": "lessons/lesson_003.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:15.225413"
+  },
+  "4": {
+    "title": "Lección 4",
+    "word_count": 7,
+    "char_count": 90,
+    "file_path": "lessons/lesson_004.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:15.284449"
+  },
+  "16": {
+    "title": "Lección 16",
+    "word_count": 7,
+    "char_count": 95,
+    "file_path": "lessons/lesson_016.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:50.921705"
+  },
+  "49": {
+    "title": "Lección 49",
+    "word_count": 13,
+    "char_count": 87,
+    "file_path": "lessons/lesson_049.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:52.803646"
+  },
+  "50": {
+    "title": "Lección 50",
+    "word_count": 15,
+    "char_count": 78,
+    "file_path": "lessons/lesson_050.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:14.604655"
+  },
+  "51": {
+    "title": "Lección 51",
+    "word_count": 5,
+    "char_count": 109,
+    "file_path": "lessons/lesson_051.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:52.919975"
+  },
+  "64": {
+    "title": "Lección 64",
+    "word_count": 11,
+    "char_count": 92,
+    "file_path": "lessons/lesson_064.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:53.639724"
+  },
+  "65": {
+    "title": "Lección 65",
+    "word_count": 11,
+    "char_count": 90,
+    "file_path": "lessons/lesson_065.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:53.696819"
+  },
+  "94": {
+    "title": "Lección 94",
+    "word_count": 9,
+    "char_count": 98,
+    "file_path": "lessons/lesson_094.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:55.428669"
+  },
+  "110": {
+    "title": "Soy tal como Dios me creó.",
+    "word_count": 1888,
+    "char_count": 10358,
+    "file_path": "lessons/lesson_110.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:56.536693"
+  },
+  "116": {
+    "title": "Lección 116",
+    "word_count": 5,
+    "char_count": 107,
+    "file_path": "lessons/lesson_116.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:56.920608"
+  },
+  "118": {
+    "title": "Lección 118",
+    "word_count": 5,
+    "char_count": 107,
+    "file_path": "lessons/lesson_118.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:57.045273"
+  },
+  "135": {
+    "title": "Lección 135",
+    "word_count": 9,
+    "char_count": 96,
+    "file_path": "lessons/lesson_135.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:58.087729"
+  },
+  "142": {
+    "title": "Lección 142",
+    "word_count": 5,
+    "char_count": 107,
+    "file_path": "lessons/lesson_142.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:58.590052"
+  },
+  "144": {
+    "title": "Lección 144",
+    "word_count": 5,
+    "char_count": 107,
+    "file_path": "lessons/lesson_144.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:58.768342"
+  },
+  "146": {
+    "title": "Lección 146",
+    "word_count": 5,
+    "char_count": 107,
+    "file_path": "lessons/lesson_146.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:58.888678"
+  },
+  "147": {
+    "title": "Lección 147",
+    "word_count": 5,
+    "char_count": 107,
+    "file_path": "lessons/lesson_147.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:58.950479"
+  },
+  "148": {
+    "title": "Lección 148",
+    "word_count": 6,
+    "char_count": 108,
+    "file_path": "lessons/lesson_148.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:59.006475"
+  },
+  "150": {
+    "title": "Lección 150",
+    "word_count": 6,
+    "char_count": 108,
+    "file_path": "lessons/lesson_150.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:37:59.131584"
+  },
+  "172": {
+    "title": "Lección 172",
+    "word_count": 5,
+    "char_count": 113,
+    "file_path": "lessons/lesson_172.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:00.561354"
+  },
+  "173": {
+    "title": "Lección 173",
+    "word_count": 5,
+    "char_count": 113,
+    "file_path": "lessons/lesson_173.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:00.622137"
+  },
+  "175": {
+    "title": "Lección 175",
+    "word_count": 5,
+    "char_count": 113,
+    "file_path": "lessons/lesson_175.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:00.749473"
+  },
+  "176": {
+    "title": "Lección 176",
+    "word_count": 6,
+    "char_count": 114,
+    "file_path": "lessons/lesson_176.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:00.808077"
+  },
+  "178": {
+    "title": "Lección 178",
+    "word_count": 6,
+    "char_count": 114,
+    "file_path": "lessons/lesson_178.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:00.931710"
+  },
+  "179": {
+    "title": "Lección 179",
+    "word_count": 5,
+    "char_count": 113,
+    "file_path": "lessons/lesson_179.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:01.015250"
+  },
+  "202": {
+    "title": "Lección 202",
+    "word_count": 4,
+    "char_count": 119,
+    "file_path": "lessons/lesson_202.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:02.603969"
+  },
+  "203": {
+    "title": "Lección 203",
+    "word_count": 3,
+    "char_count": 118,
+    "file_path": "lessons/lesson_203.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:02.673551"
+  },
+  "204": {
+    "title": "Lección 204",
+    "word_count": 4,
+    "char_count": 118,
+    "file_path": "lessons/lesson_204.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:02.740040"
+  },
+  "206": {
+    "title": "Lección 206",
+    "word_count": 3,
+    "char_count": 118,
+    "file_path": "lessons/lesson_206.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:02.869757"
+  },
+  "207": {
+    "title": "Lección 207",
+    "word_count": 4,
+    "char_count": 119,
+    "file_path": "lessons/lesson_207.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:02.934564"
+  },
+  "208": {
+    "title": "Lección 208",
+    "word_count": 3,
+    "char_count": 118,
+    "file_path": "lessons/lesson_208.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:03.002483"
+  },
+  "209": {
+    "title": "Lección 209",
+    "word_count": 4,
+    "char_count": 119,
+    "file_path": "lessons/lesson_209.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:03.062131"
+  },
+  "210": {
+    "title": "Lección 210",
+    "word_count": 3,
+    "char_count": 118,
+    "file_path": "lessons/lesson_210.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:03.126511"
+  },
+  "212": {
+    "title": "Lección 212",
+    "word_count": 3,
+    "char_count": 118,
+    "file_path": "lessons/lesson_212.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:03.252526"
+  },
+  "214": {
+    "title": "Lección 214",
+    "word_count": 3,
+    "char_count": 118,
+    "file_path": "lessons/lesson_214.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:03.381244"
+  },
+  "215": {
+    "title": "Lección 215",
+    "word_count": 4,
+    "char_count": 119,
+    "file_path": "lessons/lesson_215.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:03.461493"
+  },
+  "216": {
+    "title": "Lección 216",
+    "word_count": 3,
+    "char_count": 118,
+    "file_path": "lessons/lesson_216.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:03.522651"
+  },
+  "217": {
+    "title": "Lección 217",
+    "word_count": 3,
+    "char_count": 118,
+    "file_path": "lessons/lesson_217.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:03.614273"
+  },
+  "218": {
+    "title": "Lección 218",
+    "word_count": 3,
+    "char_count": 118,
+    "file_path": "lessons/lesson_218.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:03.711545"
+  },
+  "219": {
+    "title": "Lección 219",
+    "word_count": 3,
+    "char_count": 118,
+    "file_path": "lessons/lesson_219.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:03.795451"
+  },
+  "220": {
+    "title": "No soy un cuerpo. Soy libre.",
+    "word_count": 1590,
+    "char_count": 9009,
+    "file_path": "lessons/lesson_220.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:03.974636"
+  },
+  "222": {
+    "title": "Lección 222",
+    "word_count": 11,
+    "char_count": 91,
+    "file_path": "lessons/lesson_222.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:04.128945"
+  },
+  "224": {
+    "title": "Lección 224",
+    "word_count": 12,
+    "char_count": 97,
+    "file_path": "lessons/lesson_224.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:04.254027"
+  },
+  "226": {
+    "title": "Lección 226",
+    "word_count": 12,
+    "char_count": 90,
+    "file_path": "lessons/lesson_226.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:04.375808"
+  },
+  "228": {
+    "title": "Dios no me ha condenado. Por lo tanto,",
+    "word_count": 157,
+    "char_count": 820,
+    "file_path": "lessons/lesson_228.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:04.538329"
+  },
+  "230": {
+    "title": "Lección 230",
+    "word_count": 11,
+    "char_count": 98,
+    "file_path": "lessons/lesson_230.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:04.671782"
+  },
+  "232": {
+    "title": "Lección 232",
+    "word_count": 12,
+    "char_count": 90,
+    "file_path": "lessons/lesson_232.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:04.809846"
+  },
+  "234": {
+    "title": "Lección 234",
+    "word_count": 10,
+    "char_count": 102,
+    "file_path": "lessons/lesson_234.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:04.937913"
+  },
+  "236": {
+    "title": "Lección 236",
+    "word_count": 11,
+    "char_count": 88,
+    "file_path": "lessons/lesson_236.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:05.058754"
+  },
+  "238": {
+    "title": "Lección 238",
+    "word_count": 9,
+    "char_count": 98,
+    "file_path": "lessons/lesson_238.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:05.183470"
+  },
+  "240": {
+    "title": "Lección 240",
+    "word_count": 13,
+    "char_count": 94,
+    "file_path": "lessons/lesson_240.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:05.309100"
+  },
+  "242": {
+    "title": "Lección 242",
+    "word_count": 16,
+    "char_count": 91,
+    "file_path": "lessons/lesson_242.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:05.434559"
+  },
+  "244": {
+    "title": "Lección 244",
+    "word_count": 13,
+    "char_count": 92,
+    "file_path": "lessons/lesson_244.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:05.555674"
+  },
+  "246": {
+    "title": "Lección 246",
+    "word_count": 12,
+    "char_count": 97,
+    "file_path": "lessons/lesson_246.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:05.683441"
+  },
+  "248": {
+    "title": "Lección 248",
+    "word_count": 10,
+    "char_count": 98,
+    "file_path": "lessons/lesson_248.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:05.808891"
+  },
+  "250": {
+    "title": "Lección 250",
+    "word_count": 10,
+    "char_count": 96,
+    "file_path": "lessons/lesson_250.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:05.933932"
+  },
+  "252": {
+    "title": "Lección 252",
+    "word_count": 9,
+    "char_count": 100,
+    "file_path": "lessons/lesson_252.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:06.088024"
+  },
+  "254": {
+    "title": "Lección 254",
+    "word_count": 16,
+    "char_count": 89,
+    "file_path": "lessons/lesson_254.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:06.202373"
+  },
+  "256": {
+    "title": "Lección 256",
+    "word_count": 9,
+    "char_count": 101,
+    "file_path": "lessons/lesson_256.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:06.318001"
+  },
+  "258": {
+    "title": "Lección 258",
+    "word_count": 9,
+    "char_count": 95,
+    "file_path": "lessons/lesson_258.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:06.424815"
+  },
+  "260": {
+    "title": "Lección 260",
+    "word_count": 8,
+    "char_count": 98,
+    "file_path": "lessons/lesson_260.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:06.540159"
+  },
+  "262": {
+    "title": "Lección 262",
+    "word_count": 8,
+    "char_count": 96,
+    "file_path": "lessons/lesson_262.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:06.656033"
+  },
+  "263": {
+    "title": "Lección 263",
+    "word_count": 12,
+    "char_count": 92,
+    "file_path": "lessons/lesson_263.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:06.713583"
+  },
+  "264": {
+    "title": "Lección 264",
+    "word_count": 8,
+    "char_count": 101,
+    "file_path": "lessons/lesson_264.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:06.771022"
+  },
+  "266": {
+    "title": "Lección 266",
+    "word_count": 11,
+    "char_count": 97,
+    "file_path": "lessons/lesson_266.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:06.887104"
+  },
+  "268": {
+    "title": "Lección 268",
+    "word_count": 10,
+    "char_count": 88,
+    "file_path": "lessons/lesson_268.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:07.004603"
+  },
+  "270": {
+    "title": "Lección 270",
+    "word_count": 9,
+    "char_count": 98,
+    "file_path": "lessons/lesson_270.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:07.121967"
+  },
+  "274": {
+    "title": "Lección 274",
+    "word_count": 14,
+    "char_count": 81,
+    "file_path": "lessons/lesson_274.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:07.346076"
+  },
+  "276": {
+    "title": "Lección 276",
+    "word_count": 15,
+    "char_count": 85,
+    "file_path": "lessons/lesson_276.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:07.462599"
+  },
+  "278": {
+    "title": "Lección 278",
+    "word_count": 10,
+    "char_count": 95,
+    "file_path": "lessons/lesson_278.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:07.578542"
+  },
+  "280": {
+    "title": "¿Qué límites podría imponerle yo al Hijo d e Dios?",
+    "word_count": 596,
+    "char_count": 3214,
+    "file_path": "lessons/lesson_280.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:07.730949"
+  },
+  "282": {
+    "title": "Lección 282",
+    "word_count": 8,
+    "char_count": 99,
+    "file_path": "lessons/lesson_282.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:07.847478"
+  },
+  "284": {
+    "title": "Lección 284",
+    "word_count": 8,
+    "char_count": 90,
+    "file_path": "lessons/lesson_284.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:07.964141"
+  },
+  "286": {
+    "title": "Lección 286",
+    "word_count": 10,
+    "char_count": 89,
+    "file_path": "lessons/lesson_286.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:08.073714"
+  },
+  "288": {
+    "title": "Que me olvide hoy del pasado de mi hermano.",
+    "word_count": 178,
+    "char_count": 889,
+    "file_path": "lessons/lesson_288.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:08.226019"
+  },
+  "290": {
+    "title": "Lección 290",
+    "word_count": 10,
+    "char_count": 95,
+    "file_path": "lessons/lesson_290.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:08.344351"
+  },
+  "292": {
+    "title": "Lección 292",
+    "word_count": 7,
+    "char_count": 100,
+    "file_path": "lessons/lesson_292.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:08.461849"
+  },
+  "294": {
+    "title": "Lección 294",
+    "word_count": 8,
+    "char_count": 92,
+    "file_path": "lessons/lesson_294.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:08.570335"
+  },
+  "296": {
+    "title": "Lección 296",
+    "word_count": 11,
+    "char_count": 94,
+    "file_path": "lessons/lesson_296.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:08.691639"
+  },
+  "298": {
+    "title": "Lección 298",
+    "word_count": 12,
+    "char_count": 93,
+    "file_path": "lessons/lesson_298.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:08.808401"
+  },
+  "300": {
+    "title": "Lección 300",
+    "word_count": 9,
+    "char_count": 96,
+    "file_path": "lessons/lesson_300.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:08.922887"
+  },
+  "302": {
+    "title": "Lección 302",
+    "word_count": 10,
+    "char_count": 88,
+    "file_path": "lessons/lesson_302.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:09.038710"
+  },
+  "304": {
+    "title": "Lección 304",
+    "word_count": 12,
+    "char_count": 92,
+    "file_path": "lessons/lesson_304.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:09.153807"
+  },
+  "306": {
+    "title": "Lección 306",
+    "word_count": 13,
+    "char_count": 93,
+    "file_path": "lessons/lesson_306.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:09.271192"
+  },
+  "308": {
+    "title": "Lección 308",
+    "word_count": 11,
+    "char_count": 96,
+    "file_path": "lessons/lesson_308.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:09.386719"
+  },
+  "310": {
+    "title": "Lección 310",
+    "word_count": 12,
+    "char_count": 96,
+    "file_path": "lessons/lesson_310.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:09.501709"
+  },
+  "312": {
+    "title": "Lección 312",
+    "word_count": 12,
+    "char_count": 94,
+    "file_path": "lessons/lesson_312.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:09.616536"
+  },
+  "314": {
+    "title": "Lección 314",
+    "word_count": 9,
+    "char_count": 98,
+    "file_path": "lessons/lesson_314.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:09.733285"
+  },
+  "316": {
+    "title": "Lección 316",
+    "word_count": 13,
+    "char_count": 79,
+    "file_path": "lessons/lesson_316.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:09.848799"
+  },
+  "318": {
+    "title": "Lección 318",
+    "word_count": 13,
+    "char_count": 89,
+    "file_path": "lessons/lesson_318.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:09.963185"
+  },
+  "320": {
+    "title": "Lección 320",
+    "word_count": 9,
+    "char_count": 102,
+    "file_path": "lessons/lesson_320.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:10.078111"
+  },
+  "322": {
+    "title": "Lección 322",
+    "word_count": 13,
+    "char_count": 91,
+    "file_path": "lessons/lesson_322.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:10.194892"
+  },
+  "324": {
+    "title": "Lección 324",
+    "word_count": 11,
+    "char_count": 85,
+    "file_path": "lessons/lesson_324.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:10.341446"
+  },
+  "326": {
+    "title": "Lección 326",
+    "word_count": 12,
+    "char_count": 95,
+    "file_path": "lessons/lesson_326.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:10.457041"
+  },
+  "328": {
+    "title": "Lección 328",
+    "word_count": 13,
+    "char_count": 91,
+    "file_path": "lessons/lesson_328.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:10.572695"
+  },
+  "330": {
+    "title": "Lección 330",
+    "word_count": 10,
+    "char_count": 99,
+    "file_path": "lessons/lesson_330.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:10.680841"
+  },
+  "332": {
+    "title": "Lección 332",
+    "word_count": 12,
+    "char_count": 90,
+    "file_path": "lessons/lesson_332.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:10.798432"
+  },
+  "334": {
+    "title": "Lección 334",
+    "word_count": 11,
+    "char_count": 92,
+    "file_path": "lessons/lesson_334.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:10.911823"
+  },
+  "336": {
+    "title": "Lección 336",
+    "word_count": 13,
+    "char_count": 86,
+    "file_path": "lessons/lesson_336.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:11.027158"
+  },
+  "338": {
+    "title": "Lección 338",
+    "word_count": 10,
+    "char_count": 88,
+    "file_path": "lessons/lesson_338.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:11.143943"
+  },
+  "339": {
+    "title": "Lección 339",
+    "word_count": 10,
+    "char_count": 99,
+    "file_path": "lessons/lesson_339.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:11.203513"
+  },
+  "340": {
+    "title": "Lección 340",
+    "word_count": 9,
+    "char_count": 94,
+    "file_path": "lessons/lesson_340.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:11.261426"
+  },
+  "342": {
+    "title": "Dejo que el perdón descanse sobre todas las cosas,",
+    "word_count": 177,
+    "char_count": 953,
+    "file_path": "lessons/lesson_342.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:11.441776"
+  },
+  "344": {
+    "title": "Hoy aprendo la ley d el amor: que lo que le doy a mi",
+    "word_count": 192,
+    "char_count": 986,
+    "file_path": "lessons/lesson_344.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:11.621934"
+  },
+  "346": {
+    "title": "Hoy me envuelve la paz de Dios,",
+    "word_count": 180,
+    "char_count": 946,
+    "file_path": "lessons/lesson_346.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:11.774355"
+  },
+  "348": {
+    "title": "Ni mi ira ni mi temor tienen razón de ser, pues Tú me",
+    "word_count": 156,
+    "char_count": 850,
+    "file_path": "lessons/lesson_348.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:11.953994"
+  },
+  "350": {
+    "title": "Los milagros son un reflejo del e terno Amor de Dios.",
+    "word_count": 595,
+    "char_count": 3299,
+    "file_path": "lessons/lesson_350.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:12.140349"
+  },
+  "352": {
+    "title": "Los juicios son lo o puesto al amor. De los",
+    "word_count": 135,
+    "char_count": 702,
+    "file_path": "lessons/lesson_352.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:12.313108"
+  },
+  "354": {
+    "title": "Cristo y yo nos enco ntramos unidos en paz y seguros",
+    "word_count": 115,
+    "char_count": 556,
+    "file_path": "lessons/lesson_354.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:12.489516"
+  },
+  "356": {
+    "title": "La enfermedad no es s ino otro nombre para el pecado.",
+    "word_count": 137,
+    "char_count": 727,
+    "file_path": "lessons/lesson_356.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:12.669216"
+  },
+  "358": {
+    "title": "Ninguna invocación a Dios puede dejar de s er oída o",
+    "word_count": 172,
+    "char_count": 861,
+    "file_path": "lessons/lesson_358.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:12.849564"
+  },
+  "360": {
+    "title": "Que la paz sea conmigo, el santo Hijo de Dios.",
+    "word_count": 36972,
+    "char_count": 209045,
+    "file_path": "lessons/lesson_360.txt",
+    "extraction_confidence": 0.8,
+    "last_updated": "2025-09-03T15:38:13.565583"
   }
 }
