@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "creation_date": "2025-09-02 21:06:49.260862",
+    "creation_date": "2025-09-03 13:37:21.713122",
     "total_lessons": 161,
     "total_concepts": 437,
     "avg_concepts_per_lesson": 3.78,
@@ -190,11 +190,6 @@
     "titulo_ensamientos": [
       "4"
     ],
-    "titulo_pensamientos": [
-      "16",
-      "221",
-      "338"
-    ],
     "titulo_neutros.": [
       "16"
     ],
@@ -202,6 +197,11 @@
       "16",
       "223",
       "77"
+    ],
+    "titulo_pensamientos": [
+      "16",
+      "221",
+      "338"
     ],
     "titulo_habla": [
       "49"
@@ -225,6 +225,13 @@
       "277",
       "64"
     ],
+    "titulo_pienso": [
+      "142",
+      "143",
+      "146",
+      "147",
+      "148"
+    ],
     "titulo_dios.": [
       "142",
       "143",
@@ -233,13 +240,6 @@
       "148"
     ],
     "titulo_alberga": [
-      "142",
-      "143",
-      "146",
-      "147",
-      "148"
-    ],
-    "titulo_pienso": [
       "142",
       "143",
       "146",
@@ -262,10 +262,9 @@
       "176",
       "178"
     ],
-    "titulo_cuerpo.": [
+    "titulo_libre.": [
       "202",
       "203",
-      "204",
       "206",
       "207",
       "208",
@@ -278,9 +277,10 @@
       "218",
       "219"
     ],
-    "titulo_libre.": [
+    "titulo_cuerpo.": [
       "202",
       "203",
+      "204",
       "206",
       "207",
       "208",
@@ -299,9 +299,6 @@
     "titulo_perciba": [
       "262"
     ],
-    "titulo_cosas.": [
-      "263"
-    ],
     "titulo_todas": [
       "24",
       "263",
@@ -311,6 +308,9 @@
       "325",
       "349",
       "63"
+    ],
+    "titulo_cosas.": [
+      "263"
     ],
     "titulo_visión": [
       "263",
@@ -323,20 +323,20 @@
     "titulo_santa": [
       "263"
     ],
-    "titulo_medio": [
-      "318"
-    ],
     "titulo_salvación,": [
       "318"
     ],
-    "titulo_propios": [
-      "281",
-      "338"
+    "titulo_medio": [
+      "318"
     ],
     "titulo_pueden": [
       "188",
       "338",
       "363"
+    ],
+    "titulo_propios": [
+      "281",
+      "338"
     ],
     "titulo_afectarme.": [
       "338"
@@ -347,33 +347,22 @@
     "titulo_pida.": [
       "339"
     ],
-    "titulo_abstendre": [
-      "22"
-    ],
-    "titulo_elaborar": [
+    "titulo_quince": [
       "22"
     ],
     "titulo_minutos,": [
       "22"
     ],
-    "titulo_quince": [
+    "titulo_abstendre": [
       "22"
     ],
     "titulo_ocasiones": [
       "22"
     ],
-    "titulo_3puede": [
-      "23"
+    "titulo_elaborar": [
+      "22"
     ],
     "titulo_todo.": [
-      "23"
-    ],
-    "titulo_hacer": [
-      "171",
-      "23",
-      "281"
-    ],
-    "titulo_cuáles": [
       "23"
     ],
     "titulo_tienes": [
@@ -384,12 +373,29 @@
     "titulo_planes,": [
       "23"
     ],
+    "titulo_hacer": [
+      "171",
+      "23",
+      "281"
+    ],
+    "titulo_3puede": [
+      "23"
+    ],
+    "titulo_cuáles": [
+      "23"
+    ],
+    "titulo_inmutable,": [
+      "7"
+    ],
+    "titulo_absoluto,": [
+      "7"
+    ],
     "titulo_ahora": [
       "237",
       "313",
       "7"
     ],
-    "titulo_conocimiento": [
+    "titulo_completamente": [
       "7"
     ],
     "titulo_dios,": [
@@ -397,16 +403,10 @@
       "357",
       "7"
     ],
-    "titulo_absoluto,": [
+    "titulo_conocimiento": [
       "7"
     ],
-    "titulo_completamente": [
-      "7"
-    ],
-    "titulo_inmutable,": [
-      "7"
-    ],
-    "titulo_condenación.": [
+    "titulo_santidad.": [
       "12"
     ],
     "titulo_perfecto": [
@@ -415,40 +415,33 @@
     "titulo_necesita": [
       "12"
     ],
-    "titulo_santidad.": [
+    "titulo_condenación.": [
       "12"
+    ],
+    "titulo_juicio": [
+      "13"
     ],
     "titulo_escuchando": [
       "13"
+    ],
+    "titulo_llega": [
+      "13",
+      "241"
+    ],
+    "titulo_lado,": [
+      "13"
+    ],
+    "titulo_hacen": [
+      "13",
+      "315"
     ],
     "titulo_todos": [
       "13",
       "221",
       "315"
     ],
-    "titulo_hacen": [
-      "13",
-      "315"
-    ],
-    "titulo_llega": [
-      "13",
-      "241"
-    ],
-    "titulo_juicio": [
-      "13"
-    ],
-    "titulo_lado,": [
-      "13"
-    ],
-    "titulo_cometido": [
-      "17"
-    ],
     "titulo_fieles": [
       "17"
-    ],
-    "titulo_embargo,": [
-      "17",
-      "289"
     ],
     "titulo_cuando": [
       "17"
@@ -456,24 +449,31 @@
     "titulo_podamos": [
       "17"
     ],
-    "titulo_seremos": [
+    "titulo_embargo,": [
+      "17",
+      "289"
+    ],
+    "titulo_cometido": [
       "17"
     ],
     "titulo_hacerlo,": [
       "17"
     ],
+    "titulo_seremos": [
+      "17"
+    ],
     "titulo_dejarás": [
       "18"
-    ],
-    "titulo_tiempo": [
-      "18",
-      "188"
     ],
     "titulo_nunca": [
       "18"
     ],
     "titulo_pensar": [
       "18"
+    ],
+    "titulo_tiempo": [
+      "18",
+      "188"
     ],
     "titulo_mientras": [
       "19",
@@ -491,13 +491,13 @@
     "titulo_indefensión.": [
       "19"
     ],
+    "titulo_expectación": [
+      "21"
+    ],
     "titulo_esperaremos": [
       "21"
     ],
     "titulo_llenos": [
-      "21"
-    ],
-    "titulo_expectación": [
       "21"
     ],
     "titulo_momento": [
@@ -506,21 +506,18 @@
     "titulo_absoluta": [
       "21"
     ],
-    "titulo_defensas": [
-      "24"
-    ],
-    "titulo_impedir": [
-      "24"
-    ],
     "titulo_propósito": [
       "24",
       "257"
     ],
+    "titulo_defensas": [
+      "24"
+    ],
     "titulo_recibas": [
       "24"
     ],
-    "titulo_nosotros": [
-      "25"
+    "titulo_impedir": [
+      "24"
     ],
     "titulo_acordaremos": [
       "25"
@@ -531,7 +528,13 @@
     "titulo_3pues": [
       "25"
     ],
-    "titulo_existencia.": [
+    "titulo_nosotros": [
+      "25"
+    ],
+    "titulo_4creer": [
+      "33"
+    ],
+    "titulo_creaciones": [
       "33"
     ],
     "titulo_porque": [
@@ -543,20 +546,28 @@
       "89",
       "97"
     ],
+    "titulo_existencia.": [
+      "33"
+    ],
     "titulo_creó.": [
       "33"
     ],
     "titulo_aceptación": [
       "33"
     ],
-    "titulo_4creer": [
-      "33"
-    ],
-    "titulo_creaciones": [
-      "33"
-    ],
     "titulo_temer": [
       "48"
+    ],
+    "titulo_procede": [
+      "347",
+      "52"
+    ],
+    "titulo_proyección.": [
+      "52"
+    ],
+    "titulo_imposible": [
+      "362",
+      "52"
     ],
     "titulo_suposición,": [
       "52"
@@ -564,25 +575,14 @@
     "titulo_enteramente": [
       "52"
     ],
-    "titulo_imposible": [
-      "362",
-      "52"
-    ],
-    "titulo_procede": [
-      "347",
-      "52"
-    ],
     "titulo_también": [
       "174",
       "52"
     ],
-    "titulo_proyección.": [
-      "52"
-    ],
-    "titulo_fusión": [
+    "titulo_trinidad,": [
       "54"
     ],
-    "titulo_trinidad,": [
+    "titulo_trinidad": [
       "54"
     ],
     "titulo_entidad.": [
@@ -591,13 +591,13 @@
     "titulo_santísima": [
       "54"
     ],
-    "titulo_trinidad": [
+    "titulo_fusión": [
       "54"
     ],
-    "titulo_reconoce": [
+    "titulo_ciéndolos.": [
       "56"
     ],
-    "titulo_reconocen": [
+    "titulo_12cuando": [
       "56"
     ],
     "titulo_perfectamente.": [
@@ -609,16 +609,22 @@
     "titulo_ellos": [
       "56"
     ],
+    "titulo_reconocen": [
+      "56"
+    ],
     "titulo_11los": [
       "56"
     ],
-    "titulo_12cuando": [
+    "titulo_reconoce": [
       "56"
     ],
-    "titulo_ciéndolos.": [
-      "56"
+    "titulo_fidedigna.": [
+      "57"
     ],
-    "titulo_milagrosa": [
+    "titulo_percep": [
+      "57"
+    ],
+    "titulo_mentalidad": [
       "57"
     ],
     "titulo_percepción": [
@@ -630,23 +636,8 @@
     "titulo_estado": [
       "57"
     ],
-    "titulo_fidedigna.": [
+    "titulo_milagrosa": [
       "57"
-    ],
-    "titulo_mentalidad": [
-      "57"
-    ],
-    "titulo_percep": [
-      "57"
-    ],
-    "titulo_pocos": [
-      "58"
-    ],
-    "titulo_escuchar.\"": [
-      "58"
-    ],
-    "titulo_tanto,": [
-      "58"
     ],
     "titulo_eligen": [
       "58"
@@ -654,13 +645,29 @@
     "titulo_13por": [
       "58"
     ],
-    "titulo_14los": [
-      "58"
-    ],
     "titulo_correctamen": [
       "58"
     ],
+    "titulo_escuchar.\"": [
+      "58"
+    ],
+    "titulo_14los": [
+      "58"
+    ],
+    "titulo_tanto,": [
+      "58"
+    ],
+    "titulo_pocos": [
+      "58"
+    ],
     "titulo_refiere": [
+      "59"
+    ],
+    "titulo_tiene": [
+      "59",
+      "81"
+    ],
+    "titulo_significado.": [
       "59"
     ],
     "titulo_incongruencias": [
@@ -669,25 +676,12 @@
     "titulo_3tales": [
       "59"
     ],
-    "titulo_significado.": [
-      "59"
-    ],
-    "titulo_tiene": [
-      "59",
-      "81"
+    "titulo_mentes": [
+      "63"
     ],
     "titulo_mundo": [
       "299",
       "63"
-    ],
-    "titulo_mentes": [
-      "63"
-    ],
-    "titulo_menos": [
-      "71"
-    ],
-    "titulo_concibe,": [
-      "71"
     ],
     "titulo_puede": [
       "111",
@@ -699,23 +693,26 @@
       "71",
       "84"
     ],
+    "titulo_menos": [
+      "71"
+    ],
     "titulo_propio,": [
       "71"
     ],
-    "titulo_ataque": [
+    "titulo_concibe,": [
+      "71"
+    ],
+    "titulo_resentimientos": [
       "72"
     ],
     "titulo_abrigar": [
       "307",
       "72"
     ],
-    "titulo_resentimientos": [
+    "titulo_ataque": [
       "72"
     ],
-    "titulo_contigo.": [
-      "81"
-    ],
-    "titulo_profanes": [
+    "titulo_realidad.": [
       "81"
     ],
     "titulo_relación": [
@@ -726,7 +723,10 @@
       "283",
       "81"
     ],
-    "titulo_realidad.": [
+    "titulo_contigo.": [
+      "81"
+    ],
+    "titulo_profanes": [
       "81"
     ],
     "titulo_capítulo": [
@@ -734,46 +734,36 @@
       "255",
       "82"
     ],
-    "titulo_eliges": [
-      "83"
-    ],
-    "titulo_revelación": [
+    "titulo_dicha.": [
       "83"
     ],
     "titulo_experiencia": [
       "83"
     ],
-    "titulo_dicha.": [
+    "titulo_revelación": [
       "83"
     ],
-    "titulo_listo": [
-      "84"
+    "titulo_eliges": [
+      "83"
     ],
-    "titulo_fluir": [
+    "titulo_oponerse": [
       "84"
     ],
     "titulo_parte,": [
-      "84"
-    ],
-    "titulo_11puedes,": [
       "84"
     ],
     "titulo_cualquier": [
       "113",
       "84"
     ],
-    "titulo_oponerse": [
+    "titulo_listo": [
       "84"
     ],
-    "titulo_renunciando": [
-      "85"
+    "titulo_11puedes,": [
+      "84"
     ],
-    "titulo_uentra": [
-      "85"
-    ],
-    "titulo_todavía": [
-      "112",
-      "85"
+    "titulo_fluir": [
+      "84"
     ],
     "titulo_voluntad": [
       "180",
@@ -784,24 +774,27 @@
       "74",
       "85"
     ],
-    "titulo_ella.": [
+    "titulo_uentra": [
+      "85"
+    ],
+    "titulo_renunciando": [
       "85"
     ],
     "titulo_separación": [
+      "85"
+    ],
+    "titulo_ella.": [
+      "85"
+    ],
+    "titulo_todavía": [
+      "112",
       "85"
     ],
     "titulo_implica": [
       "114",
       "86"
     ],
-    "titulo_santo": [
-      "180",
-      "227",
-      "241",
-      "295",
-      "86"
-    ],
-    "titulo_diferente.": [
+    "titulo_dida.": [
       "86"
     ],
     "titulo_6elegir": [
@@ -811,16 +804,26 @@
       "295",
       "86"
     ],
-    "titulo_dida.": [
+    "titulo_diferente.": [
+      "86"
+    ],
+    "titulo_santo": [
+      "180",
+      "227",
+      "241",
+      "295",
       "86"
     ],
     "titulo_restituirlo": [
       "87"
     ],
-    "titulo_reino": [
+    "titulo_devuelve": [
       "87"
     ],
-    "titulo_devuelve": [
+    "titulo_fecta": [
+      "87"
+    ],
+    "titulo_reino": [
       "87"
     ],
     "titulo_integración": [
@@ -830,28 +833,22 @@
       "303",
       "87"
     ],
-    "titulo_fecta": [
-      "87"
-    ],
-    "titulo_habrá": [
-      "89"
-    ],
     "titulo_mente.": [
-      "89"
-    ],
-    "titulo_adentrado": [
       "89"
     ],
     "titulo_peligro": [
       "89"
     ],
+    "titulo_habrá": [
+      "89"
+    ],
     "titulo_reaccionarás": [
       "89"
     ],
-    "titulo_aceptarla,": [
-      "90"
+    "titulo_adentrado": [
+      "89"
     ],
-    "titulo_capacidad": [
+    "titulo_destruir;": [
       "90"
     ],
     "titulo_cambio,": [
@@ -862,7 +859,10 @@
       "357",
       "90"
     ],
-    "titulo_destruir;": [
+    "titulo_capacidad": [
+      "90"
+    ],
+    "titulo_aceptarla,": [
       "90"
     ],
     "titulo_dicha": [
@@ -871,57 +871,54 @@
     "titulo_moran": [
       "93"
     ],
-    "titulo_recuerda": [
+    "titulo_continuamente": [
       "97"
     ],
-    "titulo_continuamente": [
+    "titulo_recuerda": [
       "97"
     ],
     "titulo_motivos": [
       "97"
     ],
-    "titulo_hermanos.": [
+    "titulo_percibi": [
       "108"
     ],
-    "titulo_aliados,": [
+    "titulo_hermanos.": [
       "108"
     ],
     "titulo_aunque": [
       "108",
       "361"
     ],
-    "titulo_ajeno": [
-      "108"
-    ],
     "titulo_sidad": [
       "108"
     ],
-    "titulo_percibi": [
+    "titulo_ajeno": [
       "108"
     ],
-    "titulo_cuerpo": [
-      "111",
-      "363"
+    "titulo_aliados,": [
+      "108"
     ],
     "titulo_mente,": [
-      "111"
-    ],
-    "titulo_cuerpo,": [
-      "111"
-    ],
-    "titulo_ésta.": [
       "111"
     ],
     "titulo_curar": [
       "111"
     ],
+    "titulo_ésta.": [
+      "111"
+    ],
+    "titulo_cuerpo,": [
+      "111"
+    ],
+    "titulo_cuerpo": [
+      "111",
+      "363"
+    ],
     "titulo_conflicto": [
       "112",
       "331",
       "333"
-    ],
-    "titulo_entra": [
-      "112"
     ],
     "titulo_totalmente.": [
       "112"
@@ -932,17 +929,30 @@
     "titulo_5esto": [
       "112"
     ],
-    "titulo_estos.": [
-      "113"
+    "titulo_entra": [
+      "112"
     ],
     "titulo_razón": [
+      "113"
+    ],
+    "titulo_vista,": [
       "113"
     ],
     "titulo_desde": [
       "113"
     ],
-    "titulo_vista,": [
+    "titulo_estos.": [
       "113"
+    ],
+    "titulo_presión": [
+      "114"
+    ],
+    "titulo_elegido": [
+      "114",
+      "329"
+    ],
+    "titulo_deseable.": [
+      "114"
     ],
     "titulo_todo,": [
       "114"
@@ -950,36 +960,32 @@
     "titulo_deseable\"": [
       "114"
     ],
-    "titulo_elegido": [
-      "114",
-      "329"
-    ],
-    "titulo_presión": [
-      "114"
-    ],
-    "titulo_deseable.": [
-      "114"
+    "titulo_tener": [
+      "117",
+      "289"
     ],
     "titulo_esforzarte,": [
-      "117"
-    ],
-    "titulo_invocar": [
-      "117"
-    ],
-    "titulo_eres.": [
       "117"
     ],
     "titulo_8este": [
       "117"
     ],
-    "titulo_tener": [
-      "117",
-      "289"
+    "titulo_invocar": [
+      "117"
     ],
     "titulo_reconocimiento": [
       "117"
     ],
+    "titulo_eres.": [
+      "117"
+    ],
     "titulo_poder": [
+      "134"
+    ],
+    "titulo_permítaseme": [
+      "134"
+    ],
+    "titulo_percibir": [
       "134"
     ],
     "titulo_perdón": [
@@ -988,21 +994,8 @@
       "297",
       "333"
     ],
-    "titulo_percibir": [
-      "134"
-    ],
-    "titulo_permítaseme": [
-      "134"
-    ],
     "titulo_contigo,": [
       "145"
-    ],
-    "titulo_siempre": [
-      "145"
-    ],
-    "titulo_puedas": [
-      "145",
-      "362"
     ],
     "titulo_estoy": [
       "145",
@@ -1014,74 +1007,78 @@
     "titulo_memoria": [
       "145"
     ],
+    "titulo_puedas": [
+      "145",
+      "362"
+    ],
     "titulo_recibir": [
       "145"
     ],
-    "titulo_puesto": [
+    "titulo_siempre": [
+      "145"
+    ],
+    "titulo_mismo.": [
       "171"
     ],
     "titulo_sanado": [
       "171"
     ],
-    "titulo_mismo.": [
+    "titulo_puesto": [
       "171"
     ],
-    "titulo_luación": [
+    "titulo_estuviese": [
       "174"
     ],
     "titulo_aceptaste": [
       "174"
     ],
-    "titulo_estuviese": [
+    "titulo_luación": [
       "174"
-    ],
-    "titulo_3ofrécele": [
-      "180"
-    ],
-    "titulo_creación.": [
-      "180"
-    ],
-    "titulo_dispuesto": [
-      "180",
-      "361"
-    ],
-    "titulo_estar": [
-      "180"
     ],
     "titulo_únicamente": [
       "180",
       "231",
       "321"
     ],
-    "titulo_mismo,": [
-      "181"
+    "titulo_3ofrécele": [
+      "180"
+    ],
+    "titulo_estar": [
+      "180"
+    ],
+    "titulo_dispuesto": [
+      "180",
+      "361"
+    ],
+    "titulo_creación.": [
+      "180"
     ],
     "titulo_atacando": [
+      "181"
+    ],
+    "titulo_odias": [
+      "181"
+    ],
+    "titulo_crees": [
+      "181"
+    ],
+    "titulo_evidente": [
+      "181"
+    ],
+    "titulo_señal": [
+      "181"
+    ],
+    "titulo_mismo,": [
       "181"
     ],
     "titulo_estás": [
       "181",
       "199"
     ],
-    "titulo_crees": [
-      "181"
-    ],
-    "titulo_señal": [
-      "181"
-    ],
-    "titulo_odias": [
-      "181"
-    ],
-    "titulo_evidente": [
-      "181"
-    ],
-    "titulo_obstante,": [
+    "titulo_pequeñez.": [
       "185"
     ],
     "titulo_siendo": [
-      "185"
-    ],
-    "titulo_chispa,": [
       "185"
     ],
     "titulo_grandeza": [
@@ -1090,14 +1087,11 @@
     "titulo_sigue": [
       "185"
     ],
-    "titulo_pequeñez.": [
+    "titulo_chispa,": [
       "185"
     ],
-    "titulo_ambos": [
-      "188"
-    ],
-    "titulo_valores.": [
-      "188"
+    "titulo_obstante,": [
+      "185"
     ],
     "titulo_determinada": [
       "188"
@@ -1105,21 +1099,33 @@
     "titulo_eternidad": [
       "188"
     ],
-    "titulo_priván": [
+    "titulo_valores.": [
+      "188"
+    ],
+    "titulo_ambos": [
+      "188"
+    ],
+    "titulo_cuent": [
       "199"
     ],
-    "titulo_aceptarlo": [
+    "titulo_empequeñeciendo": [
       "199"
     ],
     "titulo_mismo": [
       "199",
       "277"
     ],
-    "titulo_empequeñeciendo": [
+    "titulo_aceptarlo": [
       "199"
     ],
-    "titulo_cuent": [
+    "titulo_priván": [
       "199"
+    ],
+    "titulo_tesoro.": [
+      "213"
+    ],
+    "titulo_pobres": [
+      "213"
     ],
     "titulo_dónde": [
       "213"
@@ -1133,17 +1139,11 @@
     "titulo_enseñarle": [
       "213"
     ],
-    "titulo_tesoro.": [
-      "213"
-    ],
     "titulo_puedes": [
       "213",
       "261"
     ],
     "titulo_mundo,": [
-      "213"
-    ],
-    "titulo_pobres": [
       "213"
     ],
     "titulo_aquieten": [
@@ -1169,13 +1169,13 @@
       "345",
       "365"
     ],
-    "titulo_creado,": [
+    "titulo_culpabilidad": [
       "239"
     ],
     "titulo_haber": [
       "239"
     ],
-    "titulo_culpabilidad": [
+    "titulo_creado,": [
       "239"
     ],
     "titulo_4ninguna": [
@@ -1190,10 +1190,10 @@
     "titulo_salvo": [
       "245"
     ],
-    "titulo_padre.": [
+    "titulo_conmigo,": [
       "245"
     ],
-    "titulo_conmigo,": [
+    "titulo_padre.": [
       "245"
     ],
     "titulo_testimonio": [
@@ -1202,34 +1202,31 @@
     "titulo_espera": [
       "247"
     ],
-    "titulo_llevas": [
-      "247"
-    ],
     "titulo_milagros": [
       "247",
       "355",
       "77"
     ],
-    "titulo_sufrimiento": [
-      "249"
+    "titulo_llevas": [
+      "247"
     ],
-    "titulo_pérdida": [
+    "titulo_sufrimiento": [
       "249"
     ],
     "titulo_sensación": [
       "249"
     ],
-    "titulo_recuerde": [
+    "titulo_pérdida": [
+      "249"
+    ],
+    "titulo_pecado": [
       "259"
     ],
     "titulo_existe": [
       "259"
     ],
-    "titulo_pecado": [
+    "titulo_recuerde": [
       "259"
-    ],
-    "titulo_conformarías": [
-      "261"
     ],
     "titulo_migajas,": [
       "261"
@@ -1238,6 +1235,9 @@
       "261"
     ],
     "titulo_ofrecerte": [
+      "261"
+    ],
+    "titulo_conformarías": [
       "261"
     ],
     "titulo_mansedumbre": [
@@ -1270,27 +1270,27 @@
     "titulo_quietud": [
       "273"
     ],
+    "titulo_sanadora": [
+      "275"
+    ],
     "titulo_protege": [
       "275",
       "337"
     ],
-    "titulo_sanadora": [
-      "275"
+    "titulo_garantiza": [
+      "279"
     ],
     "titulo_libertad": [
       "279",
       "321"
     ],
-    "titulo_garantiza": [
-      "279"
-    ],
-    "titulo_pensamientos,": [
-      "281"
-    ],
     "titulo_nada,": [
       "281"
     ],
     "titulo_excepto": [
+      "281"
+    ],
+    "titulo_pensamientos,": [
       "281"
     ],
     "titulo_identidad": [
@@ -1303,22 +1303,22 @@
     "titulo_clara": [
       "285"
     ],
-    "titulo_radiante": [
-      "285"
-    ],
     "titulo_santidad": [
       "285"
     ],
     "titulo_brilla": [
       "285"
     ],
-    "titulo_feliz": [
-      "289"
+    "titulo_radiante": [
+      "285"
     ],
     "titulo_aceptación.": [
       "289"
     ],
     "titulo_ansiosamente": [
+      "289"
+    ],
+    "titulo_feliz": [
       "289"
     ],
     "titulo_conciencia": [
@@ -1327,22 +1327,19 @@
     "titulo_sosiego": [
       "291"
     ],
+    "titulo_acabó": [
+      "293"
+    ],
     "titulo_miedo": [
       "293",
       "309",
       "323"
-    ],
-    "titulo_acabó": [
-      "293"
     ],
     "titulo_través": [
       "295"
     ],
     "titulo_regalo": [
       "297"
-    ],
-    "titulo_amor.": [
-      "299"
     ],
     "titulo_unirse": [
       "299"
@@ -1353,19 +1350,22 @@
     "titulo_soledad": [
       "299"
     ],
+    "titulo_amor.": [
+      "299"
+    ],
     "titulo_lágrimas": [
       "301"
     ],
     "titulo_enjugará": [
       "301"
     ],
-    "titulo_pareces": [
+    "titulo_destructor": [
       "303"
     ],
     "titulo_ciones": [
       "303"
     ],
-    "titulo_destructor": [
+    "titulo_pareces": [
       "303"
     ],
     "titulo_especiales,": [
@@ -1392,13 +1392,13 @@
     "titulo_juzgo": [
       "311"
     ],
-    "titulo_regalos": [
-      "315"
-    ],
     "titulo_necen": [
       "315"
     ],
     "titulo_hermanos": [
+      "315"
+    ],
+    "titulo_regalos": [
       "315"
     ],
     "titulo_perte": [
@@ -1437,13 +1437,13 @@
       "337",
       "341"
     ],
+    "titulo_propia": [
+      "341"
+    ],
     "titulo_atacar": [
       "341"
     ],
     "titulo_puedo": [
-      "341"
-    ],
-    "titulo_propia": [
       "341"
     ],
     "titulo_ingún": [
@@ -1470,20 +1470,17 @@
     "titulo_boca,": [
       "353"
     ],
-    "titulo_ojos,": [
+    "titulo_manos": [
       "353"
     ],
     "titulo_tienen": [
       "353"
     ],
-    "titulo_manos": [
+    "titulo_ojos,": [
       "353"
     ],
     "titulo_otorga": [
       "355"
-    ],
-    "titulo_vocación": [
-      "357"
     ],
     "titulo_contesta": [
       "357"
@@ -1491,17 +1488,17 @@
     "titulo_hacemos": [
       "357"
     ],
-    "titulo_dolor": [
-      "359"
+    "titulo_vocación": [
+      "357"
     ],
-    "titulo_alguna": [
+    "titulo_dolor": [
       "359"
     ],
     "titulo_respuesta": [
       "359"
     ],
-    "titulo_contempla,": [
-      "361"
+    "titulo_alguna": [
+      "359"
     ],
     "titulo_6este": [
       "361"
@@ -1509,22 +1506,25 @@
     "titulo_ello?": [
       "361"
     ],
-    "titulo_conocer": [
+    "titulo_contempla,": [
+      "361"
+    ],
+    "titulo_bienve": [
       "362"
     ],
     "titulo_separado.": [
       "362"
     ],
-    "titulo_bienve": [
+    "titulo_conocer": [
       "362"
-    ],
-    "titulo_podría": [
-      "363"
     ],
     "titulo_ello.": [
       "363"
     ],
     "titulo_hablar": [
+      "363"
+    ],
+    "titulo_podría": [
       "363"
     ],
     "titulo_subyacente,": [
@@ -1533,10 +1533,10 @@
     "titulo_pendientemente": [
       "364"
     ],
-    "titulo_emplees,": [
+    "titulo_imaginación": [
       "364"
     ],
-    "titulo_imaginación": [
+    "titulo_emplees,": [
       "364"
     ],
     "titulo_confundes": [
@@ -1545,16 +1545,16 @@
     "titulo_cuánta": [
       "364"
     ],
-    "titulo_seguirte": [
+    "titulo_simplemente": [
       "365"
     ],
     "titulo_quien": [
       "365"
     ],
-    "titulo_dirige,": [
+    "titulo_seguirte": [
       "365"
     ],
-    "titulo_simplemente": [
+    "titulo_dirige,": [
       "365"
     ],
     "titulo_derecho": [
@@ -1575,10 +1575,10 @@
     "titulo_salve": [
       "235"
     ],
-    "titulo_juzgaré": [
+    "titulo_ocurra": [
       "243"
     ],
-    "titulo_ocurra": [
+    "titulo_juzgaré": [
       "243"
     ],
     "titulo_necesito": [
@@ -1594,16 +1594,16 @@
     "titulo_aprisione": [
       "277"
     ],
-    "titulo_inventé": [
-      "277"
-    ],
     "titulo_leyes": [
       "277"
     ],
-    "titulo_meta,": [
-      "287"
+    "titulo_inventé": [
+      "277"
     ],
     "titulo_padre": [
+      "287"
+    ],
+    "titulo_meta,": [
       "287"
     ],
     "titulo_única": [
@@ -1615,10 +1615,10 @@
     "titulo_venga": [
       "313"
     ],
-    "titulo_llamar": [
+    "titulo_contestarás": [
       "327"
     ],
-    "titulo_contestarás": [
+    "titulo_llamar": [
       "327"
     ],
     "titulo_hermano": [
@@ -1634,22 +1634,22 @@
     "titulo_impecable": [
       "351"
     ],
-    "titulo_necesa": [
+    "titulo_continúe": [
+      "60"
+    ],
+    "titulo_percepción,": [
       "60"
     ],
     "titulo_2puesto": [
+      "60"
+    ],
+    "titulo_necesa": [
       "60"
     ],
     "titulo_oración": [
       "60"
     ],
     "titulo_habiendo": [
-      "60"
-    ],
-    "titulo_continúe": [
-      "60"
-    ],
-    "titulo_percepción,": [
       "60"
     ]
   },
@@ -1695,9 +1695,9 @@
       "title": "No tengo pensamientos neutros.",
       "word_count": 88784,
       "concepts": [
-        "titulo_pensamientos",
         "titulo_neutros.",
-        "titulo_tengo"
+        "titulo_tengo",
+        "titulo_pensamientos"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_016.txt",
@@ -1744,9 +1744,9 @@
       "title": "Mi men te alberga sólo lo que pienso con Dios.",
       "word_count": 21,
       "concepts": [
+        "titulo_pienso",
         "titulo_dios.",
-        "titulo_alberga",
-        "titulo_pienso"
+        "titulo_alberga"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_142.txt",
@@ -1757,9 +1757,9 @@
       "title": "Mi mente alberga sólo lo que pienso con Dios.",
       "word_count": 24,
       "concepts": [
+        "titulo_pienso",
         "titulo_dios.",
         "titulo_alberga",
-        "titulo_pienso",
         "titulo_mente"
       ],
       "daily_dates": [],
@@ -1771,9 +1771,9 @@
       "title": "Mi mente alberga sólo lo que pienso con Dios.",
       "word_count": 23,
       "concepts": [
+        "titulo_pienso",
         "titulo_dios.",
         "titulo_alberga",
-        "titulo_pienso",
         "titulo_mente"
       ],
       "daily_dates": [],
@@ -1785,9 +1785,9 @@
       "title": "Mi mente alberga sólo lo que pienso con Dios.",
       "word_count": 21,
       "concepts": [
+        "titulo_pienso",
         "titulo_dios.",
         "titulo_alberga",
-        "titulo_pienso",
         "titulo_mente"
       ],
       "daily_dates": [],
@@ -1799,9 +1799,9 @@
       "title": "Mi ment e alberga sólo lo que pienso con Dios.",
       "word_count": 52,
       "concepts": [
+        "titulo_pienso",
         "titulo_dios.",
-        "titulo_alberga",
-        "titulo_pienso"
+        "titulo_alberga"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_148.txt",
@@ -1856,8 +1856,8 @@
       "title": "No soy un cuerpo. Soy libre.",
       "word_count": 68,
       "concepts": [
-        "titulo_cuerpo.",
-        "titulo_libre."
+        "titulo_libre.",
+        "titulo_cuerpo."
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_202.txt",
@@ -1868,8 +1868,8 @@
       "title": "No soy un cuerpo. Soy libre.",
       "word_count": 57,
       "concepts": [
-        "titulo_cuerpo.",
-        "titulo_libre."
+        "titulo_libre.",
+        "titulo_cuerpo."
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_203.txt",
@@ -1891,8 +1891,8 @@
       "title": "No soy un cuerpo. Soy libre.",
       "word_count": 55,
       "concepts": [
-        "titulo_cuerpo.",
-        "titulo_libre."
+        "titulo_libre.",
+        "titulo_cuerpo."
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_206.txt",
@@ -1903,8 +1903,8 @@
       "title": "No soy un cuerpo. Soy libre.",
       "word_count": 67,
       "concepts": [
-        "titulo_cuerpo.",
-        "titulo_libre."
+        "titulo_libre.",
+        "titulo_cuerpo."
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_207.txt",
@@ -1915,8 +1915,8 @@
       "title": "No soy un cuerpo. Soy libre.",
       "word_count": 66,
       "concepts": [
-        "titulo_cuerpo.",
-        "titulo_libre."
+        "titulo_libre.",
+        "titulo_cuerpo."
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_208.txt",
@@ -1927,8 +1927,8 @@
       "title": "No soy un cuerpo. Soy libre.",
       "word_count": 71,
       "concepts": [
-        "titulo_cuerpo.",
-        "titulo_libre."
+        "titulo_libre.",
+        "titulo_cuerpo."
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_209.txt",
@@ -1939,8 +1939,8 @@
       "title": "No soy un cuerpo. Soy libre.",
       "word_count": 146,
       "concepts": [
-        "titulo_cuerpo.",
-        "titulo_libre."
+        "titulo_libre.",
+        "titulo_cuerpo."
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_210.txt",
@@ -1951,8 +1951,8 @@
       "title": "No soy un cuerpo. Soy libre.",
       "word_count": 71,
       "concepts": [
-        "titulo_cuerpo.",
-        "titulo_libre."
+        "titulo_libre.",
+        "titulo_cuerpo."
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_214.txt",
@@ -1963,8 +1963,8 @@
       "title": "No soy un cuerpo. Soy libre.",
       "word_count": 60,
       "concepts": [
-        "titulo_cuerpo.",
-        "titulo_libre."
+        "titulo_libre.",
+        "titulo_cuerpo."
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_215.txt",
@@ -1975,8 +1975,8 @@
       "title": "No soy un cuerpo. Soy libre.",
       "word_count": 57,
       "concepts": [
-        "titulo_cuerpo.",
-        "titulo_libre."
+        "titulo_libre.",
+        "titulo_cuerpo."
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_216.txt",
@@ -1987,8 +1987,8 @@
       "title": "No soy un cuerpo. Soy libre.",
       "word_count": 63,
       "concepts": [
-        "titulo_cuerpo.",
-        "titulo_libre."
+        "titulo_libre.",
+        "titulo_cuerpo."
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_217.txt",
@@ -1999,8 +1999,8 @@
       "title": "No soy un cuerpo. Soy libre.",
       "word_count": 61,
       "concepts": [
-        "titulo_cuerpo.",
-        "titulo_libre."
+        "titulo_libre.",
+        "titulo_cuerpo."
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_218.txt",
@@ -2011,8 +2011,8 @@
       "title": "No soy un cuerpo. Soy libre.",
       "word_count": 69,
       "concepts": [
-        "titulo_cuerpo.",
-        "titulo_libre."
+        "titulo_libre.",
+        "titulo_cuerpo."
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_219.txt",
@@ -2036,8 +2036,8 @@
       "title": "Mi santa visión ve la pureza de todas las cosas.",
       "word_count": 150,
       "concepts": [
-        "titulo_cosas.",
         "titulo_todas",
+        "titulo_cosas.",
         "titulo_visión",
         "titulo_pureza",
         "titulo_santa"
@@ -2051,8 +2051,8 @@
       "title": "Yo soy el medio para la salvación, así como su fin.",
       "word_count": 321,
       "concepts": [
-        "titulo_medio",
-        "titulo_salvación,"
+        "titulo_salvación,",
+        "titulo_medio"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_318.txt",
@@ -2064,8 +2064,8 @@
       "word_count": 178,
       "concepts": [
         "titulo_pensamientos",
-        "titulo_propios",
         "titulo_pueden",
+        "titulo_propios",
         "titulo_afectarme."
       ],
       "daily_dates": [],
@@ -2090,11 +2090,11 @@
       "word_count": 61,
       "concepts": [
         "titulo_durante",
-        "titulo_abstendre",
-        "titulo_elaborar",
-        "titulo_minutos,",
         "titulo_quince",
-        "titulo_ocasiones"
+        "titulo_minutos,",
+        "titulo_abstendre",
+        "titulo_ocasiones",
+        "titulo_elaborar"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_022.txt",
@@ -2105,12 +2105,12 @@
       "title": "Eso es todo. 2Si tienes que hacer planes, ya se te dirá cuáles son. 3Puede que no",
       "word_count": 49,
       "concepts": [
-        "titulo_3puede",
         "titulo_todo.",
-        "titulo_hacer",
-        "titulo_cuáles",
         "titulo_tienes",
-        "titulo_planes,"
+        "titulo_planes,",
+        "titulo_hacer",
+        "titulo_3puede",
+        "titulo_cuáles"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_023.txt",
@@ -2121,12 +2121,12 @@
       "title": "Y ahora el conocimiento de Dios, inmutable, absoluto, puro y completamente",
       "word_count": 1689,
       "concepts": [
-        "titulo_ahora",
-        "titulo_conocimiento",
-        "titulo_dios,",
+        "titulo_inmutable,",
         "titulo_absoluto,",
+        "titulo_ahora",
         "titulo_completamente",
-        "titulo_inmutable,"
+        "titulo_dios,",
+        "titulo_conocimiento"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_007.txt",
@@ -2137,10 +2137,10 @@
       "title": "En él no hay condenación. 2Es perfecto en su santidad. 3No necesita",
       "word_count": 35085,
       "concepts": [
-        "titulo_condenación.",
+        "titulo_santidad.",
         "titulo_perfecto",
         "titulo_necesita",
-        "titulo_santidad."
+        "titulo_condenación."
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_012.txt",
@@ -2151,12 +2151,12 @@
       "title": "Y Su Juicio les llega a todos los que se hacen a un lado, y escuchando",
       "word_count": 1042,
       "concepts": [
-        "titulo_escuchando",
-        "titulo_todos",
-        "titulo_hacen",
-        "titulo_llega",
         "titulo_juicio",
-        "titulo_lado,"
+        "titulo_escuchando",
+        "titulo_llega",
+        "titulo_lado,",
+        "titulo_hacen",
+        "titulo_todos"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_013.txt",
@@ -2167,13 +2167,13 @@
       "title": "Sin embargo, cuando podamos hacerlo, seremos fieles a nues tro cometido",
       "word_count": 57,
       "concepts": [
-        "titulo_cometido",
         "titulo_fieles",
-        "titulo_embargo,",
         "titulo_cuando",
         "titulo_podamos",
-        "titulo_seremos",
-        "titulo_hacerlo,"
+        "titulo_embargo,",
+        "titulo_cometido",
+        "titulo_hacerlo,",
+        "titulo_seremos"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_017.txt",
@@ -2185,9 +2185,9 @@
       "word_count": 81,
       "concepts": [
         "titulo_dejarás",
-        "titulo_tiempo",
         "titulo_nunca",
-        "titulo_pensar"
+        "titulo_pensar",
+        "titulo_tiempo"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_018.txt",
@@ -2213,9 +2213,9 @@
       "title": "Esperaremos hoy con gran expectación ese momento llenos de absoluta",
       "word_count": 71,
       "concepts": [
+        "titulo_expectación",
         "titulo_esperaremos",
         "titulo_llenos",
-        "titulo_expectación",
         "titulo_momento",
         "titulo_absoluta"
       ],
@@ -2229,10 +2229,10 @@
       "word_count": 65,
       "concepts": [
         "titulo_todas",
-        "titulo_defensas",
-        "titulo_impedir",
         "titulo_propósito",
-        "titulo_recibas"
+        "titulo_defensas",
+        "titulo_recibas",
+        "titulo_impedir"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_024.txt",
@@ -2243,10 +2243,10 @@
       "title": "Él se ha acordado de ti. 2Hoy nosotros nos acordaremos de Él. 3Pues ésta es la",
       "word_count": 74,
       "concepts": [
-        "titulo_nosotros",
         "titulo_acordaremos",
         "titulo_acordado",
-        "titulo_3pues"
+        "titulo_3pues",
+        "titulo_nosotros"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_025.txt",
@@ -2257,12 +2257,12 @@
       "title": "creaciones porque Él las creó. 4Creer en algo pro duce la aceptación de su existencia.",
       "word_count": 332054,
       "concepts": [
-        "titulo_existencia.",
-        "titulo_porque",
-        "titulo_creó.",
-        "titulo_aceptación",
         "titulo_4creer",
-        "titulo_creaciones"
+        "titulo_creaciones",
+        "titulo_porque",
+        "titulo_existencia.",
+        "titulo_creó.",
+        "titulo_aceptación"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_033.txt",
@@ -2284,12 +2284,12 @@
       "title": "imposible es esta suposición, y también de que procede enteramente de la proyección.",
       "word_count": 284834,
       "concepts": [
+        "titulo_procede",
+        "titulo_proyección.",
+        "titulo_imposible",
         "titulo_suposición,",
         "titulo_enteramente",
-        "titulo_imposible",
-        "titulo_procede",
-        "titulo_también",
-        "titulo_proyección."
+        "titulo_también"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_052.txt",
@@ -2300,11 +2300,11 @@
       "title": "Santísima Trinidad, pero la Trinidad en sí es una sola entidad. 5No hay con fusión",
       "word_count": 295761,
       "concepts": [
-        "titulo_fusión",
         "titulo_trinidad,",
+        "titulo_trinidad",
         "titulo_entidad.",
         "titulo_santísima",
-        "titulo_trinidad"
+        "titulo_fusión"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_054.txt",
@@ -2315,14 +2315,14 @@
       "title": "cono ciéndolos. 11Los reconoce perfectamente. 12Cuando ellos no se reconocen entre",
       "word_count": 545,
       "concepts": [
-        "titulo_reconoce",
-        "titulo_reconocen",
+        "titulo_ciéndolos.",
+        "titulo_12cuando",
         "titulo_perfectamente.",
         "titulo_entre",
         "titulo_ellos",
+        "titulo_reconocen",
         "titulo_11los",
-        "titulo_12cuando",
-        "titulo_ciéndolos."
+        "titulo_reconoce"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_056.txt",
@@ -2334,12 +2334,12 @@
       "word_count": 585,
       "concepts": [
         "titulo_porque",
-        "titulo_milagrosa",
+        "titulo_fidedigna.",
+        "titulo_percep",
+        "titulo_mentalidad",
         "titulo_percepción",
         "titulo_estado",
-        "titulo_fidedigna.",
-        "titulo_mentalidad",
-        "titulo_percep"
+        "titulo_milagrosa"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_057.txt",
@@ -2350,13 +2350,13 @@
       "title": "pocos los que eligen escuchar.\" 13Por lo tanto, no eligen correctamen te. 14Los",
       "word_count": 498,
       "concepts": [
-        "titulo_pocos",
-        "titulo_escuchar.\"",
-        "titulo_tanto,",
         "titulo_eligen",
         "titulo_13por",
+        "titulo_correctamen",
+        "titulo_escuchar.\"",
         "titulo_14los",
-        "titulo_correctamen"
+        "titulo_tanto,",
+        "titulo_pocos"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_058.txt",
@@ -2369,10 +2369,10 @@
       "concepts": [
         "titulo_percepción",
         "titulo_refiere",
-        "titulo_incongruencias",
-        "titulo_3tales",
+        "titulo_tiene",
         "titulo_significado.",
-        "titulo_tiene"
+        "titulo_incongruencias",
+        "titulo_3tales"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_059.txt",
@@ -2384,8 +2384,8 @@
       "word_count": 33886,
       "concepts": [
         "titulo_todas",
-        "titulo_mundo",
-        "titulo_mentes"
+        "titulo_mentes",
+        "titulo_mundo"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_063.txt",
@@ -2396,10 +2396,10 @@
       "title": "eso es por lo que el amor propio, tal como el ego lo concibe, no puede por menos que",
       "word_count": 311657,
       "concepts": [
-        "titulo_menos",
-        "titulo_concibe,",
         "titulo_puede",
-        "titulo_propio,"
+        "titulo_menos",
+        "titulo_propio,",
+        "titulo_concibe,"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_071.txt",
@@ -2410,9 +2410,9 @@
       "title": "Abrigar resentimientos es un ataque",
       "word_count": 11,
       "concepts": [
-        "titulo_ataque",
+        "titulo_resentimientos",
         "titulo_abrigar",
-        "titulo_resentimientos"
+        "titulo_ataque"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_072.txt",
@@ -2424,11 +2424,11 @@
       "word_count": 531,
       "concepts": [
         "titulo_tiene",
-        "titulo_contigo.",
-        "titulo_profanes",
+        "titulo_realidad.",
         "titulo_relación",
         "titulo_verdadera",
-        "titulo_realidad."
+        "titulo_contigo.",
+        "titulo_profanes"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_081.txt",
@@ -2451,10 +2451,10 @@
       "word_count": 530,
       "concepts": [
         "titulo_porque",
-        "titulo_eliges",
-        "titulo_revelación",
+        "titulo_dicha.",
         "titulo_experiencia",
-        "titulo_dicha."
+        "titulo_revelación",
+        "titulo_eliges"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_083.txt",
@@ -2467,12 +2467,12 @@
       "concepts": [
         "titulo_nada.",
         "titulo_puede",
-        "titulo_listo",
-        "titulo_fluir",
+        "titulo_oponerse",
         "titulo_parte,",
-        "titulo_11puedes,",
         "titulo_cualquier",
-        "titulo_oponerse"
+        "titulo_listo",
+        "titulo_11puedes,",
+        "titulo_fluir"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_084.txt",
@@ -2484,12 +2484,12 @@
       "word_count": 589,
       "concepts": [
         "titulo_porque",
-        "titulo_renunciando",
-        "titulo_uentra",
-        "titulo_todavía",
         "titulo_voluntad",
+        "titulo_uentra",
+        "titulo_renunciando",
+        "titulo_separación",
         "titulo_ella.",
-        "titulo_separación"
+        "titulo_todavía"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_085.txt",
@@ -2502,11 +2502,11 @@
       "concepts": [
         "titulo_mente",
         "titulo_implica",
-        "titulo_santo",
-        "titulo_diferente.",
+        "titulo_dida.",
         "titulo_6elegir",
         "titulo_espíritu",
-        "titulo_dida."
+        "titulo_diferente.",
+        "titulo_santo"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_086.txt",
@@ -2518,11 +2518,11 @@
       "word_count": 403987,
       "concepts": [
         "titulo_restituirlo",
-        "titulo_reino",
         "titulo_devuelve",
+        "titulo_fecta",
+        "titulo_reino",
         "titulo_integración",
-        "titulo_parte",
-        "titulo_fecta"
+        "titulo_parte"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_087.txt",
@@ -2534,11 +2534,11 @@
       "word_count": 561,
       "concepts": [
         "titulo_porque",
-        "titulo_habrá",
         "titulo_mente.",
-        "titulo_adentrado",
         "titulo_peligro",
-        "titulo_reaccionarás"
+        "titulo_habrá",
+        "titulo_reaccionarás",
+        "titulo_adentrado"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_089.txt",
@@ -2549,11 +2549,11 @@
       "title": "verdad está más allá de tu capacidad para destruir; aceptarla, en cambio, está ente -",
       "word_count": 301056,
       "concepts": [
-        "titulo_aceptarla,",
-        "titulo_capacidad",
+        "titulo_destruir;",
         "titulo_cambio,",
         "titulo_verdad",
-        "titulo_destruir;"
+        "titulo_capacidad",
+        "titulo_aceptarla,"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_090.txt",
@@ -2578,8 +2578,8 @@
       "concepts": [
         "titulo_tienes",
         "titulo_porque",
-        "titulo_recuerda",
         "titulo_continuamente",
+        "titulo_recuerda",
         "titulo_motivos"
       ],
       "daily_dates": [],
@@ -2592,12 +2592,12 @@
       "word_count": 464220,
       "concepts": [
         "titulo_mente",
+        "titulo_percibi",
         "titulo_hermanos.",
-        "titulo_aliados,",
         "titulo_aunque",
-        "titulo_ajeno",
         "titulo_sidad",
-        "titulo_percibi"
+        "titulo_ajeno",
+        "titulo_aliados,"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_108.txt",
@@ -2610,11 +2610,11 @@
       "concepts": [
         "titulo_mente",
         "titulo_puede",
-        "titulo_cuerpo",
         "titulo_mente,",
-        "titulo_cuerpo,",
+        "titulo_curar",
         "titulo_ésta.",
-        "titulo_curar"
+        "titulo_cuerpo,",
+        "titulo_cuerpo"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_111.txt",
@@ -2628,10 +2628,10 @@
         "titulo_percepción",
         "titulo_todavía",
         "titulo_conflicto",
-        "titulo_entra",
         "titulo_totalmente.",
         "titulo_invertida",
-        "titulo_5esto"
+        "titulo_5esto",
+        "titulo_entra"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_112.txt",
@@ -2644,10 +2644,10 @@
       "concepts": [
         "titulo_verdadera",
         "titulo_cualquier",
-        "titulo_estos.",
         "titulo_razón",
+        "titulo_vista,",
         "titulo_desde",
-        "titulo_vista,"
+        "titulo_estos."
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_113.txt",
@@ -2659,11 +2659,11 @@
       "word_count": 460664,
       "concepts": [
         "titulo_implica",
-        "titulo_todo,",
-        "titulo_deseable\"",
-        "titulo_elegido",
         "titulo_presión",
-        "titulo_deseable."
+        "titulo_elegido",
+        "titulo_deseable.",
+        "titulo_todo,",
+        "titulo_deseable\""
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_114.txt",
@@ -2675,12 +2675,12 @@
       "word_count": 355127,
       "concepts": [
         "titulo_tienes",
-        "titulo_esforzarte,",
-        "titulo_invocar",
-        "titulo_eres.",
-        "titulo_8este",
         "titulo_tener",
-        "titulo_reconocimiento"
+        "titulo_esforzarte,",
+        "titulo_8este",
+        "titulo_invocar",
+        "titulo_reconocimiento",
+        "titulo_eres."
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_117.txt",
@@ -2692,9 +2692,9 @@
       "word_count": 84003,
       "concepts": [
         "titulo_poder",
-        "titulo_perdón",
+        "titulo_permítaseme",
         "titulo_percibir",
-        "titulo_permítaseme"
+        "titulo_perdón"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_134.txt",
@@ -2717,12 +2717,12 @@
       "word_count": 365214,
       "concepts": [
         "titulo_contigo,",
-        "titulo_siempre",
-        "titulo_puedas",
         "titulo_estoy",
         "titulo_nadie,",
         "titulo_memoria",
-        "titulo_recibir"
+        "titulo_puedas",
+        "titulo_recibir",
+        "titulo_siempre"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_145.txt",
@@ -2735,9 +2735,9 @@
       "concepts": [
         "titulo_hacer",
         "titulo_puede",
-        "titulo_puesto",
+        "titulo_mismo.",
         "titulo_sanado",
-        "titulo_mismo."
+        "titulo_puesto"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_171.txt",
@@ -2751,9 +2751,9 @@
         "titulo_mente",
         "titulo_porque",
         "titulo_también",
-        "titulo_luación",
+        "titulo_estuviese",
         "titulo_aceptaste",
-        "titulo_estuviese"
+        "titulo_luación"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_174.txt",
@@ -2766,11 +2766,11 @@
       "concepts": [
         "titulo_voluntad",
         "titulo_santo",
+        "titulo_únicamente",
         "titulo_3ofrécele",
-        "titulo_creación.",
-        "titulo_dispuesto",
         "titulo_estar",
-        "titulo_únicamente"
+        "titulo_dispuesto",
+        "titulo_creación."
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_180.txt",
@@ -2781,13 +2781,13 @@
       "title": "estás atacando a ti mismo, ello es señal evidente de que odias lo que crees ser. 5Y",
       "word_count": 251030,
       "concepts": [
-        "titulo_mismo,",
         "titulo_atacando",
-        "titulo_estás",
-        "titulo_crees",
-        "titulo_señal",
         "titulo_odias",
-        "titulo_evidente"
+        "titulo_crees",
+        "titulo_evidente",
+        "titulo_señal",
+        "titulo_mismo,",
+        "titulo_estás"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_181.txt",
@@ -2798,12 +2798,12 @@
       "title": "la grandeza a la pequeñez. 6La chispa, no obstante, sigue siendo tan pura como la",
       "word_count": 248600,
       "concepts": [
-        "titulo_obstante,",
+        "titulo_pequeñez.",
         "titulo_siendo",
-        "titulo_chispa,",
         "titulo_grandeza",
         "titulo_sigue",
-        "titulo_pequeñez."
+        "titulo_chispa,",
+        "titulo_obstante,"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_185.txt",
@@ -2816,10 +2816,10 @@
       "concepts": [
         "titulo_pueden",
         "titulo_tiempo",
-        "titulo_ambos",
-        "titulo_valores.",
         "titulo_determinada",
-        "titulo_eternidad"
+        "titulo_eternidad",
+        "titulo_valores.",
+        "titulo_ambos"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_188.txt",
@@ -2831,11 +2831,11 @@
       "word_count": 241039,
       "concepts": [
         "titulo_estás",
-        "titulo_priván",
-        "titulo_aceptarlo",
-        "titulo_mismo",
+        "titulo_cuent",
         "titulo_empequeñeciendo",
-        "titulo_cuent"
+        "titulo_mismo",
+        "titulo_aceptarlo",
+        "titulo_priván"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_199.txt",
@@ -2855,13 +2855,13 @@
       "title": "de las cosas de este mundo, puedes enseñarle a  los pobres dónde está su tesoro. 3Los",
       "word_count": 373348,
       "concepts": [
+        "titulo_tesoro.",
+        "titulo_pobres",
         "titulo_dónde",
         "titulo_cosas",
         "titulo_enseñarle",
-        "titulo_tesoro.",
         "titulo_puedes",
-        "titulo_mundo,",
-        "titulo_pobres"
+        "titulo_mundo,"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_213.txt",
@@ -2944,9 +2944,9 @@
       "word_count": 363464,
       "concepts": [
         "titulo_puede",
-        "titulo_creado,",
-        "titulo_haber",
         "titulo_culpabilidad",
+        "titulo_haber",
+        "titulo_creado,",
         "titulo_4ninguna"
       ],
       "daily_dates": [],
@@ -2974,8 +2974,8 @@
       "concepts": [
         "titulo_estoy",
         "titulo_salvo",
-        "titulo_padre.",
-        "titulo_conmigo,"
+        "titulo_conmigo,",
+        "titulo_padre."
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_245.txt",
@@ -2988,8 +2988,8 @@
       "concepts": [
         "titulo_testimonio",
         "titulo_espera",
-        "titulo_llevas",
-        "titulo_milagros"
+        "titulo_milagros",
+        "titulo_llevas"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_247.txt",
@@ -3002,8 +3002,8 @@
       "concepts": [
         "titulo_perdón",
         "titulo_sufrimiento",
-        "titulo_pérdida",
-        "titulo_sensación"
+        "titulo_sensación",
+        "titulo_pérdida"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_249.txt",
@@ -3037,9 +3037,9 @@
       "title": "Que recuerde que el pecado no existe  ................ ..................................... 1016",
       "word_count": 148831,
       "concepts": [
-        "titulo_recuerde",
+        "titulo_pecado",
         "titulo_existe",
-        "titulo_pecado"
+        "titulo_recuerde"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_259.txt",
@@ -3051,10 +3051,10 @@
       "word_count": 355096,
       "concepts": [
         "titulo_puedes",
-        "titulo_conformarías",
         "titulo_migajas,",
         "titulo_cuenta",
-        "titulo_ofrecerte"
+        "titulo_ofrecerte",
+        "titulo_conformarías"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_261.txt",
@@ -3127,8 +3127,8 @@
       "concepts": [
         "titulo_todas",
         "titulo_cosas",
-        "titulo_protege",
-        "titulo_sanadora"
+        "titulo_sanadora",
+        "titulo_protege"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_275.txt",
@@ -3140,8 +3140,8 @@
       "word_count": 152687,
       "concepts": [
         "titulo_creación",
-        "titulo_libertad",
-        "titulo_garantiza"
+        "titulo_garantiza",
+        "titulo_libertad"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_279.txt",
@@ -3155,9 +3155,9 @@
         "titulo_propios",
         "titulo_hacer",
         "titulo_puede",
-        "titulo_pensamientos,",
         "titulo_nada,",
-        "titulo_excepto"
+        "titulo_excepto",
+        "titulo_pensamientos,"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_281.txt",
@@ -3182,9 +3182,9 @@
       "word_count": 153999,
       "concepts": [
         "titulo_clara",
-        "titulo_radiante",
         "titulo_santidad",
-        "titulo_brilla"
+        "titulo_brilla",
+        "titulo_radiante"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_285.txt",
@@ -3198,9 +3198,9 @@
         "titulo_embargo,",
         "titulo_puede",
         "titulo_tener",
-        "titulo_feliz",
         "titulo_aceptación.",
         "titulo_ansiosamente",
+        "titulo_feliz",
         "titulo_conciencia"
       ],
       "daily_dates": [],
@@ -3224,8 +3224,8 @@
       "word_count": 155673,
       "concepts": [
         "titulo_único",
-        "titulo_miedo",
-        "titulo_acabó"
+        "titulo_acabó",
+        "titulo_miedo"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_293.txt",
@@ -3236,8 +3236,8 @@
       "title": "El Espíritu Santo ve hoy a través de mí  .................................................. 103 8",
       "word_count": 156002,
       "concepts": [
-        "titulo_santo",
         "titulo_espíritu",
+        "titulo_santo",
         "titulo_través"
       ],
       "daily_dates": [],
@@ -3263,10 +3263,10 @@
       "word_count": 339826,
       "concepts": [
         "titulo_mundo",
-        "titulo_amor.",
         "titulo_unirse",
         "titulo_escaparse",
-        "titulo_soledad"
+        "titulo_soledad",
+        "titulo_amor."
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_299.txt",
@@ -3291,9 +3291,9 @@
       "word_count": 338488,
       "concepts": [
         "titulo_parte",
-        "titulo_pareces",
-        "titulo_ciones",
         "titulo_destructor",
+        "titulo_ciones",
+        "titulo_pareces",
         "titulo_especiales,"
       ],
       "daily_dates": [],
@@ -3360,11 +3360,11 @@
       "title": "Todos los regalos que mis hermanos hacen me perte necen  .................... 1050",
       "word_count": 159842,
       "concepts": [
-        "titulo_todos",
         "titulo_hacen",
-        "titulo_regalos",
+        "titulo_todos",
         "titulo_necen",
         "titulo_hermanos",
+        "titulo_regalos",
         "titulo_perte"
       ],
       "daily_dates": [],
@@ -3481,9 +3481,9 @@
       "word_count": 165340,
       "concepts": [
         "titulo_impecabilidad",
+        "titulo_propia",
         "titulo_atacar",
-        "titulo_puedo",
-        "titulo_propia"
+        "titulo_puedo"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_341.txt",
@@ -3534,9 +3534,9 @@
       "word_count": 167373,
       "concepts": [
         "titulo_boca,",
-        "titulo_ojos,",
+        "titulo_manos",
         "titulo_tienen",
-        "titulo_manos"
+        "titulo_ojos,"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_353.txt",
@@ -3561,9 +3561,9 @@
       "concepts": [
         "titulo_dios,",
         "titulo_verdad",
-        "titulo_vocación",
         "titulo_contesta",
-        "titulo_hacemos"
+        "titulo_hacemos",
+        "titulo_vocación"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_357.txt",
@@ -3575,8 +3575,8 @@
       "word_count": 167998,
       "concepts": [
         "titulo_dolor",
-        "titulo_alguna",
-        "titulo_respuesta"
+        "titulo_respuesta",
+        "titulo_alguna"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_359.txt",
@@ -3589,9 +3589,9 @@
       "concepts": [
         "titulo_aunque",
         "titulo_dispuesto",
-        "titulo_contempla,",
         "titulo_6este",
-        "titulo_ello?"
+        "titulo_ello?",
+        "titulo_contempla,"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_361.txt",
@@ -3604,9 +3604,9 @@
       "concepts": [
         "titulo_imposible",
         "titulo_puedas",
-        "titulo_conocer",
+        "titulo_bienve",
         "titulo_separado.",
-        "titulo_bienve"
+        "titulo_conocer"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_362.txt",
@@ -3619,9 +3619,9 @@
       "concepts": [
         "titulo_pueden",
         "titulo_cuerpo",
-        "titulo_podría",
         "titulo_ello.",
         "titulo_hablar",
+        "titulo_podría",
         "titulo_subyacente,"
       ],
       "daily_dates": [],
@@ -3634,8 +3634,8 @@
       "word_count": 146945,
       "concepts": [
         "titulo_pendientemente",
-        "titulo_emplees,",
         "titulo_imaginación",
+        "titulo_emplees,",
         "titulo_confundes",
         "titulo_cuánta"
       ],
@@ -3649,10 +3649,10 @@
       "word_count": 169420,
       "concepts": [
         "titulo_quiero",
-        "titulo_seguirte",
+        "titulo_simplemente",
         "titulo_quien",
-        "titulo_dirige,",
-        "titulo_simplemente"
+        "titulo_seguirte",
+        "titulo_dirige,"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_365.txt",
@@ -3727,8 +3727,8 @@
       "title": "Hoy no juzgaré nada de lo que ocurra  .......................................... ..........  1007",
       "word_count": 146218,
       "concepts": [
-        "titulo_juzgaré",
-        "titulo_ocurra"
+        "titulo_ocurra",
+        "titulo_juzgaré"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_243.txt",
@@ -3766,8 +3766,8 @@
         "titulo_dejes",
         "titulo_mismo",
         "titulo_aprisione",
-        "titulo_inventé",
-        "titulo_leyes"
+        "titulo_leyes",
+        "titulo_inventé"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_277.txt",
@@ -3778,8 +3778,8 @@
       "title": "Tú eres mi única meta, Padre mío, sólo Tú  ............................................ 1033",
       "word_count": 154270,
       "concepts": [
-        "titulo_meta,",
         "titulo_padre",
+        "titulo_meta,",
         "titulo_única"
       ],
       "daily_dates": [],
@@ -3806,8 +3806,8 @@
       "word_count": 162170,
       "concepts": [
         "titulo_necesito",
-        "titulo_llamar",
-        "titulo_contestarás"
+        "titulo_contestarás",
+        "titulo_llamar"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_327.txt",
@@ -3858,12 +3858,12 @@
       "word_count": 317532,
       "concepts": [
         "titulo_mientras",
-        "titulo_necesa",
-        "titulo_2puesto",
-        "titulo_oración",
-        "titulo_habiendo",
         "titulo_continúe",
-        "titulo_percepción,"
+        "titulo_percepción,",
+        "titulo_2puesto",
+        "titulo_necesa",
+        "titulo_oración",
+        "titulo_habiendo"
       ],
       "daily_dates": [],
       "file_path": "lessons_advanced\\lesson_060.txt",

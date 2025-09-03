@@ -130,7 +130,7 @@ El **Sistema de Completación y Validación Integral de Lecciones UCDM** ha sido
 
 #### Script Principal
 ```bash
-python process_missing_lessons.py
+python scripts/process_missing_lessons.py
 ```
 - Procesamiento completo de lecciones faltantes
 - Interfaz interactiva con confirmación
@@ -139,7 +139,7 @@ python process_missing_lessons.py
 
 #### Verificación de Estado
 ```bash
-python process_missing_lessons.py --status
+python scripts/process_missing_lessons.py --status
 ```
 - Estado actual del sistema
 - Cobertura de lecciones
@@ -255,7 +255,7 @@ python process_missing_lessons.py --status
 ## 🔧 HERRAMIENTAS Y UTILIDADES
 
 ### Scripts de Administración
-1. **`process_missing_lessons.py`**: Procesamiento principal
+1. **`scripts/process_missing_lessons.py`**: Procesamiento principal
 2. **`final_system_validation.py`**: Validación completa
 3. **`ucdm_cli.py`**: Interfaz de línea de comandos
 
@@ -309,7 +309,8 @@ tests/
 
 ### Scripts de Ejecución
 ```
-├── process_missing_lessons.py          (NUEVO)    ✅
+├── scripts/
+│   └── process_missing_lessons.py      (NUEVO)    ✅
 ├── final_system_validation.py          (8.2 KB)  ✅
 ├── ucdm_cli.py                         (28.4 KB) ✅
 └── README.md                           (ACTUALIZADO) ✅

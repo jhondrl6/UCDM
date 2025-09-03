@@ -524,14 +524,16 @@ class ComprehensiveValidationPipeline:
         issues = []
         
         # Analizar reporte de legibilidad
-        legibility = quality_report.get("legibility", {})
-        if legibility.get("character_validity", 100) < 100:
-            issues.append("Caracteres inválidos detectados")
+        legibility = quality_report.get("legibility")
+        if legibility and hasattr(legibility, 'character_validity'):
+            if legibility.character_validity < 100:
+                issues.append("Caracteres inválidos detectados")
         
         # Analizar integridad
-        integrity = quality_report.get("integrity", {})
-        if integrity.get("paragraph_completeness", 100) < 100:
-            issues.append("Párrafos incompletos detectados")
+        integrity = quality_report.get("integrity")
+        if integrity and hasattr(integrity, 'paragraph_completeness'):
+            if integrity.paragraph_completeness < 100:
+                issues.append("Párrafos incompletos detectados")
         
         return issues
     

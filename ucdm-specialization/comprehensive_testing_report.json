@@ -1,0 +1,99 @@
+{
+  "timestamp": "2025-09-03 14:50:27",
+  "smoke_tests": {
+    "imports_work": true,
+    "config_files_exist": false,
+    "data_dirs_exist": true,
+    "main_scripts_exist": true
+  },
+  "system_validation": {
+    "results": {
+      "timestamp": "2025-09-03T14:50:27.548506",
+      "file_structure": {
+        "file_config/settings.py": true,
+        "file_extraction/pdf_extractor.py": true,
+        "file_extraction/advanced_lesson_segmenter.py": true,
+        "file_extraction/lesson_indexer.py": true,
+        "file_training/dataset_generator.py": true,
+        "file_training/response_engine.py": true,
+        "file_ucdm_cli.py": true,
+        "file_ollama/Modelfile": true,
+        "file_ollama/setup_model.py": true,
+        "dir_data": true,
+        "dir_data/raw": true,
+        "dir_data/processed": true,
+        "dir_data/training": true,
+        "dir_data/indices": true
+      },
+      "data_extraction": {
+        "pdf_source_exists": true,
+        "extracted_text_exists": true,
+        "lessons_indexed": 161,
+        "concepts_indexed": 437,
+        "integrity_score": 0.4410958904109589,
+        "extraction_log_exists": true
+      },
+      "response_engine": {
+        "engine_loads": true,
+        "data_loaded": true,
+        "structure_correct": true,
+        "response_quality": 1.0,
+        "template_variety": false
+      },
+      "cli_interface": {
+        "cli_file_exists": true,
+        "cli_imports_work": true,
+        "cli_help_works": false
+      },
+      "dataset_generation": {
+        "dataset_file_exists": true,
+        "dataset_size": 0,
+        "examples_count": 0,
+        "structure_variety": false
+      },
+      "performance": {
+        "engine_load_time": 0.0013628005981445312,
+        "response_generation_time": 0.005728006362915039,
+        "cli_startup_time": 0.0
+      },
+      "total_time": 0.05646991729736328
+    },
+    "success": true,
+    "report_file": "C:\\Users\\Jhond\\Github\\UCDM\\ucdm-specialization\\validation_report.txt"
+  },
+  "unit_tests": {
+    "tests_run": 17,
+    "errors": 1,
+    "failures": 2,
+    "success": false,
+    "error_details": [
+      [
+        "test_process_query_concept_based (unit_tests.TestUCDMResponseEngine.test_process_query_concept_based)",
+        "Traceback (most recent call last):\n  File \"C:\\Users\\Jhond\\Github\\UCDM\\ucdm-specialization\\tests\\unit_tests.py\", line 177, in test_process_query_concept_based\n    result = self.engine.process_query(\"Háblame sobre el amor en UCDM\")\n             ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Jhond\\Github\\UCDM\\ucdm-specialization\\training\\response_engine.py\", line 407, in process_query\n    response = self.generate_structured_response(query, query_type, lesson_num)\n  File \"C:\\Users\\Jhond\\Github\\UCDM\\ucdm-specialization\\training\\response_engine.py\", line 354, in generate_structured_response\n    lesson_num = int(random.choice(list(self.lessons_index.keys())))\n                     ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Jhond\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\random.py\", line 351, in choice\n    raise IndexError('Cannot choose from an empty sequence')\nIndexError: Cannot choose from an empty sequence\n"
+      ]
+    ],
+    "failure_details": [
+      [
+        "test_generate_aplicacion_practica (unit_tests.TestUCDMResponseEngine.test_generate_aplicacion_practica)",
+        "Traceback (most recent call last):\n  File \"C:\\Users\\Jhond\\Github\\UCDM\\ucdm-specialization\\tests\\unit_tests.py\", line 111, in test_generate_aplicacion_practica\n    self.assertIn(\"Paso\", aplicacion)\n    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^\nAssertionError: 'Paso' not found in 'APLICACIÓN PRÁCTICA: PASOS VIVOS Y VARIADOS\\n\\nEjercicio 1: Abraza la seguridad: Inicia tu práctica recordando: \"Test Lesson\". Imagina esta verdad como una luz que se extiende desde tu corazón, tocando cada situación que enfrentas hoy, especialmente en una discusión familiar.\\n\\nEjercicio 2: Cambia la perspectiva: Durante el día, cuando notes resistencia, aplica esta lección: ¿Qué pasa si pruebas esto ahora mismo? Observa cómo cambia tu experiencia interna. UCDM enseña que \\'el perdón es la llave de la felicidad\\'.\\n\\nAplicación 3: Integra en tu vida - Variaciones creativas:\\n• **Reflexión nocturna**: Antes de dormir, revisa cómo aplicaste esta enseñanza durante el día\\n• **Aplicación inmediata**: En conversaciones difíciles, recuerda silenciosamente esta lección\\n• **Práctica en movimiento**: Mientras caminas, repite mentalmente esta enseñanza'\n"
+      ],
+      [
+        "test_generate_integracion_experiencial (unit_tests.TestUCDMResponseEngine.test_generate_integracion_experiencial)",
+        "Traceback (most recent call last):\n  File \"C:\\Users\\Jhond\\Github\\UCDM\\ucdm-specialization\\tests\\unit_tests.py\", line 124, in test_generate_integracion_experiencial\n    self.assertIn(\"UCDM\", integracion)\n    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^\nAssertionError: 'UCDM' not found in \"INTEGRACIÓN EXPERIENCIAL: CONEXIÓN VIVA Y REFLEXIVA\\n\\n**Conexión personal con twist**: En tu experiencia diaria: Piensa en alguien con quien tienes dificultades. ¿Cómo cambiaría tu perspectiva si aplicaras esta enseñanza del Curso en esa situación? Según el Curso, 'el amor no tiene opuesto'.\\n\\n**Transformación esperada con invitación**: ¿Cómo se siente esto en tu corazón? Esta comprensión lleva a una libertad profunda, liberando patrones mentales que limitan tu verdadera naturaleza. Experimenta con esta nueva perspectiva y observa los cambios sutiles pero poderosos que surgen en tu experiencia diaria.\"\n"
+      ]
+    ]
+  },
+  "integration_tests": {
+    "cli_functionality": true,
+    "response_engine_integration": true,
+    "data_pipeline": true,
+    "performance_acceptable": true
+  },
+  "performance_benchmarks": {
+    "engine_load_time": 0.0010592937469482422,
+    "simple_response_time": 0.005484104156494141,
+    "complex_response_time": 0.004942417144775391,
+    "multiple_queries_time": 0.01543116569519043
+  },
+  "total_time": 0.4605543613433838
+}

@@ -2,11 +2,11 @@
 
 ## 🌟 Descripción
 
-Sistema completo de procesamiento y consulta inteligente de "Un Curso de Milagros" con modelo de lenguaje especializado basado en Ollama. Proporciona respuestas estructuradas, coherentes y transformadoras basadas en los principios fundamentales de UCDM.
+Sistema de procesamiento y consulta inteligente de "Un Curso de Milagros" con modelo de lenguaje especializado basado en Ollama. Actualmente operativo con 161 lecciones procesadas (44.1% cobertura), proporcionando respuestas estructuradas, coherentes y transformadoras basadas en los principios fundamentales de UCDM.
 
 ## ✨ Características Principales
 
-- **365 Lecciones Completas**: Procesamiento integral de todas las lecciones del UCDM
+- **161 Lecciones Procesadas**: Sistema en desarrollo activo con 44.1% de cobertura completa
 - **Modelo Especializado**: Basado en Gemma 3:4B optimizado para UCDM
 - **Respuestas Estructuradas**: 4 secciones obligatorias (Hook, Aplicación, Integración, Cierre)
 - **Validación de Calidad**: Sistema robusto de verificación de integridad
@@ -117,8 +117,17 @@ python ucdm_cli.py
 
 ## 💻 Uso Diario
 
-### Comandos CLI Disponibles
+### Completar Lecciones Faltantes
+```bash
+# Verificar estado actual del sistema
+cd ucdm-specialization
+python scripts/process_missing_lessons.py --status
 
+# Procesar las 204 lecciones faltantes
+python scripts/process_missing_lessons.py
+```
+
+### Comandos CLI Disponibles
 | Comando | Descripción | Ejemplo |
 |---------|-------------|----------|
 | `leccion [número]` | Consultar lección específica | `leccion 15` |
@@ -127,9 +136,6 @@ python ucdm_cli.py
 | `reflexion` | Reflexión nocturna | `reflexion` |
 | `buscar [texto]` | Búsqueda libre | `buscar milagros` |
 | `validate [--all]` | Validar calidad del sistema | `validate --all` |
-| `complete [--missing]` | Completar lecciones faltantes | `complete --missing` |
-| `report [--quality]` | Generar reportes de calidad | `report --quality` |
-| `metrics [--dashboard]` | Mostrar métricas del sistema | `metrics --dashboard` |
 | `stats` | Estadísticas del sistema | `stats` |
 | `help` | Mostrar ayuda | `help` |
 | `salir` | Salir del programa | `salir` |
@@ -155,16 +161,50 @@ UCDM> Necesito una reflexión sobre el Espíritu Santo
 #### Validación y Mantenimiento
 ```
 UCDM> validate --all
-UCDM> complete --missing
-UCDM> report --quality
-UCDM> metrics --dashboard
+UCDM> stats
+```
+
+### Procesamiento de Lecciones Faltantes
+
+```bash
+# Verificar estado actual (desde directorio ucdm-specialization)
+python scripts/process_missing_lessons.py --status
+
+# Procesar las 204 lecciones restantes
+python scripts/process_missing_lessons.py
+```
+
+## ⚠️ Estado Actual del Sistema
+
+### 🟢 Funcionalidades Operativas
+- ✅ **CLI interactiva completamente funcional**
+- ✅ **Motor de respuestas estructuradas** (4 secciones obligatorias)
+- ✅ **Sistema de validación robusto** (89.3% éxito en tests)
+- ✅ **161 lecciones procesadas y disponibles** (44.1% cobertura)
+- ✅ **437 conceptos únicos indexados**
+- ✅ **Arquitectura completa y estable**
+
+### 🔄 En Desarrollo Activo
+- 🔄 **Completación de 204 lecciones restantes** (hacia 100% cobertura)
+- 🔄 **Optimización de dataset de entrenamiento**
+- 🔄 **Expansión de índices conceptuales**
+- 🔄 **Corrección de formato JSON en dataset**
+
+### 📊 Métricas Actuales del Sistema
+```
+📊 DASHBOARD UCDM:
+   Estado: OPERATIVO_PARCIAL
+   Cobertura: 161/365 (44.1%)
+   Calidad: 89.3% éxito en tests
+   Legibilidad: 100%
+   Integridad: 44.1%
 ```
 
 ## 🏗️ Arquitectura del Sistema
 
 ### Componentes Principales
 
-```mermaid
+```
 graph TD
     subgraph "Capa de Validación"
         QVE[Quality Validation Engine]
@@ -266,7 +306,7 @@ cómo se multiplica en el mundo.
 
 Crea un archivo `.env` en el directorio raíz:
 
-```env
+```
 # Configuración de Ollama
 OLLAMA_HOST=localhost
 OLLAMA_PORT=11434
@@ -287,16 +327,13 @@ STRUCTURE_COMPLIANCE=100.0
 
 El archivo `ollama/Modelfile` define el modelo especializado:
 
-```dockerfile
+```
 FROM gemma:3b
 
 # Configuración específica para UCDM
-TEMPLATE """{{ if .System }}<|im_start|>system
-{{ .System }}<|im_end|>
-{{ end }}{{ if .Prompt }}<|im_start|>user
-{{ .Prompt }}<|im_end|>
-{{ end }}<|im_start|>assistant
-"""
+TEMPLATE """{{ if .System }}```
+
+```"
 
 # Parámetros optimizados para UCDM
 PARAMETER temperature 0.7
@@ -379,7 +416,7 @@ python ucdm_cli.py
 
 Ejemplo de salida:
 ```
-📈 DASHBOARD UCDM:
+📊 DASHBOARD UCDM:
    Estado: EN_PROGRESO
    Cobertura: 115/365 (31.5%)
    Calidad: 95.2/100

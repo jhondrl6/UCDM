@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-03T12:56:28.396523",
+  "timestamp": "2025-09-03T14:50:27.548506",
   "file_structure": {
     "file_config/settings.py": true,
     "file_extraction/pdf_extractor.py": true,
@@ -43,9 +43,9 @@
     "structure_variety": false
   },
   "performance": {
-    "engine_load_time": 0.0013377666473388672,
-    "response_generation_time": 0.0050661563873291016,
+    "engine_load_time": 0.0013628005981445312,
+    "response_generation_time": 0.005728006362915039,
     "cli_startup_time": 0.0
   },
-  "total_time": 0.042859792709350586
+  "total_time": 0.05646991729736328
 }

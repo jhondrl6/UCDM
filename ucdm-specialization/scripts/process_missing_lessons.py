@@ -9,7 +9,8 @@ import json
 from pathlib import Path
 from datetime import datetime
 
-sys.path.append(str(Path(__file__).parent))
+# Ajustar path para importar desde el directorio padre
+sys.path.append(str(Path(__file__).parent.parent))
 from config.settings import *
 from validation.missing_lessons_processor import MissingLessonsProcessor
 from validation.comprehensive_validation_pipeline import ComprehensiveValidationPipeline
@@ -178,7 +179,7 @@ def show_status():
                 print("\n✅ ¡SISTEMA COMPLETO! Todas las 365 lecciones están procesadas")
             else:
                 print(f"\n⚠️  Faltan {missing_count} lecciones por procesar")
-                print("   Ejecuta 'python process_missing_lessons.py' para procesarlas")
+                print("   Ejecuta 'python scripts/process_missing_lessons.py' para procesarlas")
         else:
             print("   No se encontró índice de lecciones")
             print("   El sistema parece no estar inicializado")

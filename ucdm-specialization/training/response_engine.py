@@ -184,7 +184,14 @@ class UCDMResponseEngine:
             return None
         
         lesson_data = self.lessons_index[str(lesson_num)]
-        lesson_file = PROCESSED_DATA_DIR / lesson_data['file_path']
+        
+        # Manejar diferentes estructuras de datos
+        file_path = lesson_data.get('file_path')
+        if not file_path:
+            # Fallback: construir ruta basada en número de lección
+            file_path = f"lessons/lesson_{lesson_num:03d}.txt"
+        
+        lesson_file = PROCESSED_DATA_DIR / file_path
         
         if lesson_file.exists():
             with open(lesson_file, 'r', encoding='utf-8') as f:
