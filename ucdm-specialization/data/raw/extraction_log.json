@@ -1,0 +1,29 @@
+{
+  "extraction_log": [
+    {
+      "method": "PyPDF2",
+      "success": true,
+      "details": "1166 páginas extraídas",
+      "timestamp": "2025-09-02 20:59:22.108993"
+    }
+  ],
+  "validation_results": {
+    "total_chars": 3098777,
+    "total_words": 553142,
+    "lessons_found": 357,
+    "chapters_found": 31,
+    "sections_detected": [
+      "Introducción",
+      "Libro de Ejercicios",
+      "Manual del Maestro",
+      "Clarificación de Términos"
+    ],
+    "integrity_score": 0.9512328767123288,
+    "warnings": [
+      "Solo se encontraron 357/365 lecciones"
+    ]
+  },
+  "content_hash": "ae3fcb879bff366607cef11c01285e64",
+  "file_size": 3098777,
+  "extraction_success": true
+}

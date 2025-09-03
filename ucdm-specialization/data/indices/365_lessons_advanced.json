@@ -1,0 +1,1634 @@
+{
+  "metadata": {
+    "total_lessons": 161,
+    "extraction_date": "2025-09-02 21:03:33.885771",
+    "source": "Un Curso de Milagros - Libro de Ejercicios",
+    "extraction_method": "advanced_multi_strategy",
+    "coverage_percentage": 44.109589041095894
+  },
+  "lessons": {
+    "1": {
+      "number": 1,
+      "title": "Nada de lo que veo en esta habitación [en esta call e,",
+      "word_count": 168745,
+      "char_count": 908664,
+      "position": 1952061,
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9,
+      "file_path": "lessons_advanced\\lesson_001.txt"
+    },
+    "3": {
+      "number": 3,
+      "title": "No entiendo nada d e lo que veo en esta habitación",
+      "word_count": 208,
+      "char_count": 1142,
+      "position": 1955116,
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9,
+      "file_path": "lessons_advanced\\lesson_003.txt"
+    },
+    "4": {
+      "number": 4,
+      "title": "Estos p ensamientos no significan nada.",
+      "word_count": 167993,
+      "char_count": 904592,
+      "position": 1956393,
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9,
+      "file_path": "lessons_advanced\\lesson_004.txt"
+    },
+    "16": {
+      "number": 16,
+      "title": "No tengo pensamientos neutros.",
+      "word_count": 88784,
+      "char_count": 481832,
+      "position": 1987614,
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9,
+      "file_path": "lessons_advanced\\lesson_016.txt"
+    },
+    "49": {
+      "number": 49,
+      "title": "La Voz de Dios me habla durante todo el día.",
+      "word_count": 397,
+      "char_count": 2225,
+      "position": 2082022,
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9,
+      "file_path": "lessons_advanced\\lesson_049.txt"
+    },
+    "50": {
+      "number": 50,
+      "title": "El Amor de Dios es mi sustento.",
+      "word_count": 867,
+      "char_count": 4818,
+      "position": 2084372,
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9,
+      "file_path": "lessons_advanced\\lesson_050.txt"
+    },
+    "64": {
+      "number": 64,
+      "title": "No dejes que me olvide de mi función.",
+      "word_count": 689,
+      "char_count": 3709,
+      "position": 2121520,
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9,
+      "file_path": "lessons_advanced\\lesson_064.txt"
+    },
+    "142": {
+      "number": 142,
+      "title": "Mi men te alberga sólo lo que pienso con Dios.",
+      "word_count": 21,
+      "char_count": 106,
+      "position": 2461399,
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9,
+      "file_path": "lessons_advanced\\lesson_142.txt"
+    },
+    "143": {
+      "number": 143,
+      "title": "Mi mente alberga sólo lo que pienso con Dios.",
+      "word_count": 24,
+      "char_count": 106,
+      "position": 2461584,
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9,
+      "file_path": "lessons_advanced\\lesson_143.txt"
+    },
+    "146": {
+      "number": 146,
+      "title": "Mi mente alberga sólo lo que pienso con Dios.",
+      "word_count": 23,
+      "char_count": 131,
+      "position": 2462116,
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9,
+      "file_path": "lessons_advanced\\lesson_146.txt"
+    },
+    "147": {
+      "number": 147,
+      "title": "Mi mente alberga sólo lo que pienso con Dios.",
+      "word_count": 21,
+      "char_count": 108,
+      "position": 2462325,
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9,
+      "file_path": "lessons_advanced\\lesson_147.txt"
+    },
+    "148": {
+      "number": 148,
+      "title": "Mi ment e alberga sólo lo que pienso con Dios.",
+      "word_count": 52,
+      "char_count": 268,
+      "position": 2462513,
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9,
+      "file_path": "lessons_advanced\\lesson_148.txt"
+    },
+    "172": {
+      "number": 172,
+      "title": "Dios es sólo Amor y, por ende, eso es lo que soy yo.",
+      "word_count": 43,
+      "char_count": 203,
+      "position": 2588971,
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9,
+      "file_path": "lessons_advanced\\lesson_172.txt"
+    },
+    "175": {
+      "number": 175,
+      "title": "Dios es sólo Amor y, por ende, eso es lo que soy yo.",
+      "word_count": 51,
+      "char_count": 222,
+      "position": 2589879,
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9,
+      "file_path": "lessons_advanced\\lesson_175.txt"
+    },
+    "176": {
+      "number": 176,
+      "title": "Dios es sólo Amor y, por ende, eso es lo que soy yo.",
+      "word_count": 109,
+      "char_count": 484,
+      "position": 2590193,
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9,
+      "file_path": "lessons_advanced\\lesson_176.txt"
+    },
+    "178": {
+      "number": 178,
+      "title": "Dios es sólo Amor y, por ende, eso es lo que soy y o.",
+      "word_count": 47,
+      "char_count": 210,
+      "position": 2590804,
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9,
+      "file_path": "lessons_advanced\\lesson_178.txt"
+    },
+    "202": {
+      "number": 202,
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 68,
+      "char_count": 339,
+      "position": 2716101,
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9,
+      "file_path": "lessons_advanced\\lesson_202.txt"
+    },
+    "203": {
+      "number": 203,
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 57,
+      "char_count": 272,
+      "position": 2716541,
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9,
+      "file_path": "lessons_advanced\\lesson_203.txt"
+    },
+    "204": {
+      "number": 204,
+      "title": "No soy un cuerpo. Soy lib re.",
+      "word_count": 157,
+      "char_count": 751,
+      "position": 2716880,
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9,
+      "file_path": "lessons_advanced\\lesson_204.txt"
+    },
+    "206": {
+      "number": 206,
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 55,
+      "char_count": 270,
+      "position": 2717757,
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9,
+      "file_path": "lessons_advanced\\lesson_206.txt"
+    },
+    "207": {
+      "number": 207,
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 67,
+      "char_count": 343,
+      "position": 2718127,
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9,
+      "file_path": "lessons_advanced\\lesson_207.txt"
+    },
+    "208": {
+      "number": 208,
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 66,
+      "char_count": 334,
+      "position": 2718538,
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9,
+      "file_path": "lessons_advanced\\lesson_208.txt"
+    },
+    "209": {
+      "number": 209,
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 71,
+      "char_count": 322,
+      "position": 2718973,
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9,
+      "file_path": "lessons_advanced\\lesson_209.txt"
+    },
+    "210": {
+      "number": 210,
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 146,
+      "char_count": 699,
+      "position": 2719365,
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9,
+      "file_path": "lessons_advanced\\lesson_210.txt"
+    },
+    "214": {
+      "number": 214,
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 71,
+      "char_count": 336,
+      "position": 2721136,
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9,
+      "file_path": "lessons_advanced\\lesson_214.txt"
+    },
+    "215": {
+      "number": 215,
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 60,
+      "char_count": 291,
+      "position": 2721570,
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9,
+      "file_path": "lessons_advanced\\lesson_215.txt"
+    },
+    "216": {
+      "number": 216,
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 57,
+      "char_count": 267,
+      "position": 2721929,
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9,
+      "file_path": "lessons_advanced\\lesson_216.txt"
+    },
+    "217": {
+      "number": 217,
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 63,
+      "char_count": 318,
+      "position": 2722295,
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9,
+      "file_path": "lessons_advanced\\lesson_217.txt"
+    },
+    "218": {
+      "number": 218,
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 61,
+      "char_count": 311,
+      "position": 2722683,
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9,
+      "file_path": "lessons_advanced\\lesson_218.txt"
+    },
+    "219": {
+      "number": 219,
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 69,
+      "char_count": 342,
+      "position": 2723090,
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9,
+      "file_path": "lessons_advanced\\lesson_219.txt"
+    },
+    "262": {
+      "number": 262,
+      "title": "No dejes q ue hoy perciba diferencias.",
+      "word_count": 158,
+      "char_count": 797,
+      "position": 2775769,
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9,
+      "file_path": "lessons_advanced\\lesson_262.txt"
+    },
+    "263": {
+      "number": 263,
+      "title": "Mi santa visión ve la pureza de todas las cosas.",
+      "word_count": 150,
+      "char_count": 801,
+      "position": 2776672,
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9,
+      "file_path": "lessons_advanced\\lesson_263.txt"
+    },
+    "318": {
+      "number": 318,
+      "title": "Yo soy el medio para la salvación, así como su fin.",
+      "word_count": 321,
+      "char_count": 1715,
+      "position": 2838325,
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9,
+      "file_path": "lessons_advanced\\lesson_318.txt"
+    },
+    "338": {
+      "number": 338,
+      "title": "Sólo mis propios pensamientos pueden afectarme.",
+      "word_count": 178,
+      "char_count": 1018,
+      "position": 2862653,
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9,
+      "file_path": "lessons_advanced\\lesson_338.txt"
+    },
+    "339": {
+      "number": 339,
+      "title": "Se me concederá todo lo que pida.",
+      "word_count": 164,
+      "char_count": 870,
+      "position": 2863775,
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9,
+      "file_path": "lessons_advanced\\lesson_339.txt"
+    },
+    "22": {
+      "number": 22,
+      "title": "Durante quince minutos, en dos ocasiones hoy, nos abstendre mos de elaborar",
+      "word_count": 61,
+      "char_count": 340,
+      "position": 2415974,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_022.txt"
+    },
+    "23": {
+      "number": 23,
+      "title": "Eso es todo. 2Si tienes que hacer planes, ya se te dirá cuáles son. 3Puede que no",
+      "word_count": 49,
+      "char_count": 265,
+      "position": 2416406,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_023.txt"
+    },
+    "7": {
+      "number": 7,
+      "title": "Y ahora el conocimiento de Dios, inmutable, absoluto, puro y completamente",
+      "word_count": 1689,
+      "char_count": 8931,
+      "position": 3085789,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_007.txt"
+    },
+    "12": {
+      "number": 12,
+      "title": "En él no hay condenación. 2Es perfecto en su santidad. 3No necesita",
+      "word_count": 35085,
+      "char_count": 184871,
+      "position": 2700811,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_012.txt"
+    },
+    "13": {
+      "number": 13,
+      "title": "Y Su Juicio les llega a todos los que se hacen a un lado, y escuchando",
+      "word_count": 1042,
+      "char_count": 5880,
+      "position": 2989140,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_013.txt"
+    },
+    "17": {
+      "number": 17,
+      "title": "Sin embargo, cuando podamos hacerlo, seremos fieles a nues tro cometido",
+      "word_count": 57,
+      "char_count": 303,
+      "position": 2486851,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_017.txt"
+    },
+    "18": {
+      "number": 18,
+      "title": "Con el tiempo y la práctica nunca más dejarás de pensar en Él o de oír Su",
+      "word_count": 81,
+      "char_count": 439,
+      "position": 2487237,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_018.txt"
+    },
+    "19": {
+      "number": 19,
+      "title": "Nuestro tema de hoy es nuestra indefensión. 2Nos revestimos de ella mientras",
+      "word_count": 83,
+      "char_count": 498,
+      "position": 2487765,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_019.txt"
+    },
+    "21": {
+      "number": 21,
+      "title": "Esperaremos hoy con gran expectación ese momento llenos de absoluta",
+      "word_count": 71,
+      "char_count": 389,
+      "position": 2415505,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_021.txt"
+    },
+    "24": {
+      "number": 24,
+      "title": "El propósito de todas tus defensas ha sido impedir que recibas lo que has de",
+      "word_count": 65,
+      "char_count": 379,
+      "position": 2416766,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_024.txt"
+    },
+    "25": {
+      "number": 25,
+      "title": "Él se ha acordado de ti. 2Hoy nosotros nos acordaremos de Él. 3Pues ésta es la",
+      "word_count": 74,
+      "char_count": 386,
+      "position": 2417235,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_025.txt"
+    },
+    "33": {
+      "number": 33,
+      "title": "creaciones porque Él las creó. 4Creer en algo pro duce la aceptación de su existencia.",
+      "word_count": 332054,
+      "char_count": 1789197,
+      "position": 86852,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_033.txt"
+    },
+    "48": {
+      "number": 48,
+      "title": "No hay nada que temer  .............................................. .................. ....... 686",
+      "word_count": 27012,
+      "char_count": 165030,
+      "position": 1910274,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_048.txt"
+    },
+    "52": {
+      "number": 52,
+      "title": "imposible es esta suposición, y también de que procede enteramente de la proyección.",
+      "word_count": 284834,
+      "char_count": 1532841,
+      "position": 146672,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_052.txt"
+    },
+    "54": {
+      "number": 54,
+      "title": "Santísima Trinidad, pero la Trinidad en sí es una sola entidad. 5No hay con fusión",
+      "word_count": 295761,
+      "char_count": 1589506,
+      "position": 153230,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_054.txt"
+    },
+    "56": {
+      "number": 56,
+      "title": "cono ciéndolos. 11Los reconoce perfectamente. 12Cuando ellos no se reconocen entre",
+      "word_count": 545,
+      "char_count": 3079,
+      "position": 159829,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_056.txt"
+    },
+    "57": {
+      "number": 57,
+      "title": "percepción fidedigna. 4Es un estado de mentalidad milagrosa porque sana la percep -",
+      "word_count": 585,
+      "char_count": 3359,
+      "position": 163048,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_057.txt"
+    },
+    "58": {
+      "number": 58,
+      "title": "pocos los que eligen escuchar.\" 13Por lo tanto, no eligen correctamen te. 14Los",
+      "word_count": 498,
+      "char_count": 2948,
+      "position": 166544,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_058.txt"
+    },
+    "59": {
+      "number": 59,
+      "title": "se refiere a la percepción que se tiene del significado. 3Tales incongruencias son el",
+      "word_count": 556,
+      "char_count": 3237,
+      "position": 169631,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_059.txt"
+    },
+    "63": {
+      "number": 63,
+      "title": "La luz del mundo le brin da paz a todas las mentes",
+      "word_count": 33886,
+      "char_count": 200781,
+      "position": 1912060,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_063.txt"
+    },
+    "71": {
+      "number": 71,
+      "title": "eso es por lo que el amor propio, tal como el ego lo concibe, no puede por menos que",
+      "word_count": 311657,
+      "char_count": 1675222,
+      "position": 206966,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_071.txt"
+    },
+    "72": {
+      "number": 72,
+      "title": "Abrigar resentimientos es un ataque",
+      "word_count": 11,
+      "char_count": 89,
+      "position": 1912999,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_072.txt"
+    },
+    "81": {
+      "number": 81,
+      "title": "verdadera relación que tiene contigo. 6Ésa es tu realidad. 7No la profanes ni la",
+      "word_count": 531,
+      "char_count": 2975,
+      "position": 239326,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_081.txt"
+    },
+    "82": {
+      "number": 82,
+      "title": "Capítulo 5",
+      "word_count": 429,
+      "char_count": 2359,
+      "position": 242432,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_082.txt"
+    },
+    "83": {
+      "number": 83,
+      "title": "porque la revelación es una experiencia de pura dicha. 4Si no eliges ser",
+      "word_count": 530,
+      "char_count": 2957,
+      "position": 244870,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_083.txt"
+    },
+    "84": {
+      "number": 84,
+      "title": "listo para fluir a cualquier parte, pero no puede oponerse a nada. 11Puedes, por",
+      "word_count": 499,
+      "char_count": 2854,
+      "position": 247959,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_084.txt"
+    },
+    "85": {
+      "number": 85,
+      "title": "separación renunciando a ella. 5Tu voluntad se enc uentra todavía en ti porque Dios",
+      "word_count": 589,
+      "char_count": 3177,
+      "position": 250957,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_085.txt"
+    },
+    "86": {
+      "number": 86,
+      "title": "diferente. 6Elegir implica que la mente está divi dida. 7El Espíritu Santo es una de",
+      "word_count": 617,
+      "char_count": 3305,
+      "position": 254277,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_086.txt"
+    },
+    "87": {
+      "number": 87,
+      "title": "parte del Reino que la de restituirlo a la per fecta integración que  le devuelve la",
+      "word_count": 403987,
+      "char_count": 2190634,
+      "position": 257723,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_087.txt"
+    },
+    "89": {
+      "number": 89,
+      "title": "reaccionarás con saña porque la idea de peligro se habrá adentrado en tu mente.",
+      "word_count": 561,
+      "char_count": 2999,
+      "position": 264165,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_089.txt"
+    },
+    "90": {
+      "number": 90,
+      "title": "verdad está más allá de tu capacidad para destruir; aceptarla, en cambio, está ente -",
+      "word_count": 301056,
+      "char_count": 1618089,
+      "position": 267302,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_090.txt"
+    },
+    "93": {
+      "number": 93,
+      "title": "La luz, la dicha y la paz moran en mí  .......................................... ....... 766",
+      "word_count": 53444,
+      "char_count": 306182,
+      "position": 1915392,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_093.txt"
+    },
+    "97": {
+      "number": 97,
+      "title": "de ti porque te ama. 6Su Voz te recuerda continuamente que tienes motivos para",
+      "word_count": 297163,
+      "char_count": 1596360,
+      "position": 290094,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_097.txt"
+    },
+    "108": {
+      "number": 108,
+      "title": "sidad de aliados, aunque no de hermanos. 5Al percibi r en tu mente algo ajeno a sí",
+      "word_count": 464220,
+      "char_count": 2507956,
+      "position": 322854,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_108.txt"
+    },
+    "111": {
+      "number": 111,
+      "title": "ésta. 6Si la mente puede curar al cuerpo, pero el cuerpo no puede curar a la mente,",
+      "word_count": 566,
+      "char_count": 3074,
+      "position": 332903,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_111.txt"
+    },
+    "112": {
+      "number": 112,
+      "title": "totalmente. 5Esto entra en conflicto con la percepción invertida que todavía no has",
+      "word_count": 539,
+      "char_count": 3034,
+      "position": 336118,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_112.txt"
+    },
+    "113": {
+      "number": 113,
+      "title": "de estos. 9Ésa es la verdadera razón de que, desde cualquier punt o de vista, la pri -",
+      "word_count": 552,
+      "char_count": 3023,
+      "position": 339294,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_113.txt"
+    },
+    "114": {
+      "number": 114,
+      "title": "elegido la más deseable. 5Con todo, la ex presión \"más deseable\" aún implica que lo",
+      "word_count": 460664,
+      "char_count": 2488666,
+      "position": 342463,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_114.txt"
+    },
+    "117": {
+      "number": 117,
+      "title": "tener que esforzarte, e invocar al Ser que tienes y que eres. 8Este reconocimiento no",
+      "word_count": 355127,
+      "char_count": 1924461,
+      "position": 352277,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_117.txt"
+    },
+    "134": {
+      "number": 134,
+      "title": "Permítaseme poder percibir el perdón tal como es  ..............................  846",
+      "word_count": 84003,
+      "char_count": 467671,
+      "position": 1919775,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_134.txt"
+    },
+    "141": {
+      "number": 141,
+      "title": "Capítulo 8",
+      "word_count": 367376,
+      "char_count": 1990125,
+      "position": 425020,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_141.txt"
+    },
+    "145": {
+      "number": 145,
+      "title": "nadie, para que así la puedas recibir tú. 8Yo estoy siempre contigo, en memoria",
+      "word_count": 365214,
+      "char_count": 1978362,
+      "position": 437641,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_145.txt"
+    },
+    "171": {
+      "number": 171,
+      "title": "sanado no puede hacer eso por él, puesto que no lo puede hacer para sí mismo. 4La",
+      "word_count": 373033,
+      "char_count": 2019602,
+      "position": 520978,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_171.txt"
+    },
+    "174": {
+      "number": 174,
+      "title": "también en tu mente porque aceptaste que estuviese ahí. 5La eva luación que él hace",
+      "word_count": 371504,
+      "char_count": 2011217,
+      "position": 530363,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_174.txt"
+    },
+    "180": {
+      "number": 180,
+      "title": "creación. 3Ofrécele al Espí ritu Santo únicamente tu voluntad de estar dispuesto a",
+      "word_count": 534,
+      "char_count": 2894,
+      "position": 547907,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_180.txt"
+    },
+    "181": {
+      "number": 181,
+      "title": "estás atacando a ti mismo, ello es señal evidente de que odias lo que crees ser. 5Y",
+      "word_count": 251030,
+      "char_count": 1349362,
+      "position": 550941,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_181.txt"
+    },
+    "185": {
+      "number": 185,
+      "title": "la grandeza a la pequeñez. 6La chispa, no obstante, sigue siendo tan pura como la",
+      "word_count": 248600,
+      "char_count": 1336530,
+      "position": 564386,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_185.txt"
+    },
+    "188": {
+      "number": 188,
+      "title": "determinada por lo que valores. 8El tiempo y la eternidad no pueden ser ambos rea -",
+      "word_count": 246814,
+      "char_count": 1327286,
+      "position": 574135,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_188.txt"
+    },
+    "199": {
+      "number": 199,
+      "title": "ses cuent a de que al aceptarlo te estás empequeñeciendo y priván dote a ti mismo de",
+      "word_count": 241039,
+      "char_count": 1297117,
+      "position": 606064,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_199.txt"
+    },
+    "200": {
+      "number": 200,
+      "title": "No hay más paz que la paz de Dios  ................................................ .......... 976",
+      "word_count": 139411,
+      "char_count": 762617,
+      "position": 1927068,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_200.txt"
+    },
+    "213": {
+      "number": 213,
+      "title": "de las cosas de este mundo, puedes enseñarle a  los pobres dónde está su tesoro. 3Los",
+      "word_count": 373348,
+      "char_count": 2020931,
+      "position": 650168,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_213.txt"
+    },
+    "221": {
+      "number": 221,
+      "title": "Que mi mente esté en paz y que todos mis pensamientos se aquieten  ..... 994",
+      "word_count": 142355,
+      "char_count": 775841,
+      "position": 1930097,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_221.txt"
+    },
+    "223": {
+      "number": 223,
+      "title": "Dios es mi vida. No tengo otra vida que la Suya  ...................................... 995",
+      "word_count": 142637,
+      "char_count": 777306,
+      "position": 1930280,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_223.txt"
+    },
+    "225": {
+      "number": 225,
+      "title": "Diso es mi Padre, y Su Hijo lo ama  ...................................... .................... 996",
+      "word_count": 142923,
+      "char_count": 778671,
+      "position": 1930484,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_225.txt"
+    },
+    "227": {
+      "number": 227,
+      "title": "Éste es el instanto santo de mi liberación  ................................................. 997",
+      "word_count": 143193,
+      "char_count": 780065,
+      "position": 1930689,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_227.txt"
+    },
+    "233": {
+      "number": 233,
+      "title": "Hoy le doy mi vida a Dios para que Él la guíe  .......................................  1001",
+      "word_count": 144393,
+      "char_count": 785992,
+      "position": 1931471,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_233.txt"
+    },
+    "237": {
+      "number": 237,
+      "title": "Ahora quiero ser tal como Dios em creó  .................................... ............  1003",
+      "word_count": 144967,
+      "char_count": 788803,
+      "position": 1931875,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_237.txt"
+    },
+    "239": {
+      "number": 239,
+      "title": "Él es tal como fue creado, no puede haber culpabilidad en Él. 4Ninguna nube de",
+      "word_count": 363464,
+      "char_count": 1967346,
+      "position": 733112,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_239.txt"
+    },
+    "241": {
+      "number": 241,
+      "title": "En este instante santo llega la salvación  .................................... ............. 1006",
+      "word_count": 145948,
+      "char_count": 793684,
+      "position": 1932422,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_241.txt"
+    },
+    "245": {
+      "number": 245,
+      "title": "Tu paz está conmigo, Padre. Estoy a salvo  ..................................... ........ 1008",
+      "word_count": 146490,
+      "char_count": 796397,
+      "position": 1932832,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_245.txt"
+    },
+    "247": {
+      "number": 247,
+      "title": "espera a que des testimonio de Su Hijo y de Él. 5Los milagros que llevas a cabo en la",
+      "word_count": 360226,
+      "char_count": 1949860,
+      "position": 759491,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_247.txt"
+    },
+    "249": {
+      "number": 249,
+      "title": "El perdón pone fin a todo sufrimiento  y a toda sensación de pérdida  .... 1010",
+      "word_count": 147024,
+      "char_count": 799011,
+      "position": 1933255,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_249.txt"
+    },
+    "255": {
+      "number": 255,
+      "title": "Capítulo 14",
+      "word_count": 357231,
+      "char_count": 1933536,
+      "position": 784757,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_255.txt"
+    },
+    "257": {
+      "number": 257,
+      "title": "Que no me olvide de mi propósito  .......................................................... 1015",
+      "word_count": 148553,
+      "char_count": 806691,
+      "position": 1934207,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_257.txt"
+    },
+    "259": {
+      "number": 259,
+      "title": "Que recuerde que el pecado no existe  ................ ..................................... 1016",
+      "word_count": 148831,
+      "char_count": 808171,
+      "position": 1934415,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_259.txt"
+    },
+    "261": {
+      "number": 261,
+      "title": "conformarías con unas migajas, que es  todo lo que por tu cuenta puedes ofrecerte a",
+      "word_count": 355096,
+      "char_count": 1922183,
+      "position": 803587,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_261.txt"
+    },
+    "265": {
+      "number": 265,
+      "title": "Lo único que veo es la mansedumbre de la creación  .............................. 1020",
+      "word_count": 150132,
+      "char_count": 814590,
+      "position": 1935171,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_265.txt"
+    },
+    "267": {
+      "number": 267,
+      "title": "Mi corazón late en la paz de Dios  ........................................................... 1021",
+      "word_count": 150439,
+      "char_count": 816038,
+      "position": 1935370,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_267.txt"
+    },
+    "269": {
+      "number": 269,
+      "title": "Mi vi sta va en busca de la faz de Cristo  .................................................. 1022",
+      "word_count": 150721,
+      "char_count": 817479,
+      "position": 1935573,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_269.txt"
+    },
+    "271": {
+      "number": 271,
+      "title": "Hoy sólo utilizaré la visión de Cristo  ...................................................... 1024",
+      "word_count": 151496,
+      "char_count": 821245,
+      "position": 1935911,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_271.txt"
+    },
+    "273": {
+      "number": 273,
+      "title": "Mía es la quietud d e la paz de Dios  ........................................................ 1025",
+      "word_count": 151782,
+      "char_count": 822737,
+      "position": 1936109,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_273.txt"
+    },
+    "275": {
+      "number": 275,
+      "title": "La sanadora Voz de Dios protege hoy todas las cosas  ........................... 1026",
+      "word_count": 152063,
+      "char_count": 824162,
+      "position": 1936305,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_275.txt"
+    },
+    "279": {
+      "number": 279,
+      "title": "La libertad  de la creación garantiza la mía  ............................................. 1028",
+      "word_count": 152687,
+      "char_count": 827297,
+      "position": 1936679,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_279.txt"
+    },
+    "281": {
+      "number": 281,
+      "title": "Nada, excepto mis propios pensamientos, me puede hacer daño  ........... 1030",
+      "word_count": 153409,
+      "char_count": 831016,
+      "position": 1936999,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_281.txt"
+    },
+    "283": {
+      "number": 283,
+      "title": "Mi verdadera Identidad reside en Ti  ............. .......................................... 1031",
+      "word_count": 153684,
+      "char_count": 832339,
+      "position": 1937191,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_283.txt"
+    },
+    "285": {
+      "number": 285,
+      "title": "Mi santidad brilla clara y radiante hoy  ................................................... 1032",
+      "word_count": 153999,
+      "char_count": 833937,
+      "position": 1937395,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_285.txt"
+    },
+    "289": {
+      "number": 289,
+      "title": "ansiosamente tu aceptación. 9Sin embargo, no puede s tener una conciencia feliz de",
+      "word_count": 343701,
+      "char_count": 1860627,
+      "position": 894993,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_289.txt"
+    },
+    "291": {
+      "number": 291,
+      "title": "Éste es un día de sosiego y de paz  .......................................................... 1036",
+      "word_count": 155344,
+      "char_count": 840598,
+      "position": 1938125,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_291.txt"
+    },
+    "293": {
+      "number": 293,
+      "title": "El miedo ya se acabó y lo único que hay aquí es amor  .......................... 1037",
+      "word_count": 155673,
+      "char_count": 842353,
+      "position": 1938340,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_293.txt"
+    },
+    "295": {
+      "number": 295,
+      "title": "El Espíritu Santo ve hoy a través de mí  .................................................. 103 8",
+      "word_count": 156002,
+      "char_count": 843983,
+      "position": 1938533,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_295.txt"
+    },
+    "297": {
+      "number": 297,
+      "title": "El perdón es el único regalo que doy  ...................................................... 1039",
+      "word_count": 156276,
+      "char_count": 845356,
+      "position": 1938739,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_297.txt"
+    },
+    "299": {
+      "number": 299,
+      "title": "a todo el mundo a escaparse de la soledad y a unirse a ti en tu amor. 9Y todo el",
+      "word_count": 339826,
+      "char_count": 1838949,
+      "position": 928206,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_299.txt"
+    },
+    "301": {
+      "number": 301,
+      "title": "Y Dios M ismo enjugará todas las lágrimas ............... ............................. 1042",
+      "word_count": 157277,
+      "char_count": 850486,
+      "position": 1939269,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_301.txt"
+    },
+    "303": {
+      "number": 303,
+      "title": "en tus rela ciones especiales, en las que en parte pareces ser destructor y en parte",
+      "word_count": 338488,
+      "char_count": 1831692,
+      "position": 941537,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_303.txt"
+    },
+    "305": {
+      "number": 305,
+      "title": "Hay una paz que Cristo nos concede  ................................ ...................... 1044",
+      "word_count": 157874,
+      "char_count": 853463,
+      "position": 1939674,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_305.txt"
+    },
+    "307": {
+      "number": 307,
+      "title": "Abrigar deseos conflictivos no puede ser mi voluntad  ........................... 1045",
+      "word_count": 158176,
+      "char_count": 854976,
+      "position": 1939879,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_307.txt"
+    },
+    "309": {
+      "number": 309,
+      "title": "Hoy no tendré miedo de mirar dentro de mí  ......................... .................. 1046",
+      "word_count": 158477,
+      "char_count": 856480,
+      "position": 1940077,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_309.txt"
+    },
+    "311": {
+      "number": 311,
+      "title": "Juzgo todas las cosas como quiero que sean  ......... .................................. 1048",
+      "word_count": 159229,
+      "char_count": 860280,
+      "position": 1940403,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_311.txt"
+    },
+    "315": {
+      "number": 315,
+      "title": "Todos los regalos que mis hermanos hacen me perte necen  .................... 1050",
+      "word_count": 159842,
+      "char_count": 863519,
+      "position": 1940811,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_315.txt"
+    },
+    "317": {
+      "number": 317,
+      "title": "Sigo el camino que se me ha señalado  .................... ................................ 1051",
+      "word_count": 160173,
+      "char_count": 865237,
+      "position": 1940988,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_317.txt"
+    },
+    "321": {
+      "number": 321,
+      "title": "Padre, mi libertad reside únicamente en Ti  ......................... ....................  1054",
+      "word_count": 161183,
+      "char_count": 870395,
+      "position": 1941537,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_321.txt"
+    },
+    "323": {
+      "number": 323,
+      "title": "Gustosamente ―sacrifico‖ el miedo  ........................................ .................  1055",
+      "word_count": 161486,
+      "char_count": 871956,
+      "position": 1941740,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_323.txt"
+    },
+    "325": {
+      "number": 325,
+      "title": "Todas las cosas que creo ver son reflejos de ideas  ............... ..................  1056",
+      "word_count": 161824,
+      "char_count": 873732,
+      "position": 1941945,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_325.txt"
+    },
+    "329": {
+      "number": 329,
+      "title": "He elegido ya lo que Tu Voluntad dispone  ................................... ......... 1058",
+      "word_count": 162521,
+      "char_count": 877363,
+      "position": 1942345,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_329.txt"
+    },
+    "331": {
+      "number": 331,
+      "title": "El conflicto no existe, pues mi voluntad es la Tuya  ...................... ......... 1060",
+      "word_count": 163280,
+      "char_count": 881198,
+      "position": 1942681,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_331.txt"
+    },
+    "333": {
+      "number": 333,
+      "title": "El perdón pone fin al sueño de conflicto  ..................................... ...........  1061",
+      "word_count": 163596,
+      "char_count": 882882,
+      "position": 1942877,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_333.txt"
+    },
+    "337": {
+      "number": 337,
+      "title": "Mi impecabilidad me protege de todo daño  ............................... .............  1063",
+      "word_count": 164282,
+      "char_count": 886358,
+      "position": 1943278,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_337.txt"
+    },
+    "341": {
+      "number": 341,
+      "title": "Tan sólo puedo atacar mi propia impecabilidad ,",
+      "word_count": 165340,
+      "char_count": 891858,
+      "position": 1943807,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_341.txt"
+    },
+    "343": {
+      "number": 343,
+      "title": "No se me pide que haga n ingún sacrificio para",
+      "word_count": 165631,
+      "char_count": 893335,
+      "position": 1944109,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_343.txt"
+    },
+    "345": {
+      "number": 345,
+      "title": "Hoy sólo ofrezco milagros, pues quiero que retornen a mí . ...................  1068",
+      "word_count": 165943,
+      "char_count": 894946,
+      "position": 1944416,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_345.txt"
+    },
+    "347": {
+      "number": 347,
+      "title": "La ira procede de los juicios. Y los juici os son el",
+      "word_count": 166275,
+      "char_count": 896620,
+      "position": 1944646,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_347.txt"
+    },
+    "353": {
+      "number": 353,
+      "title": "Mis ojos, mi boca, mis manos y mis pies tienen hoy un solo",
+      "word_count": 167373,
+      "char_count": 902224,
+      "position": 1945975,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_353.txt"
+    },
+    "355": {
+      "number": 355,
+      "title": "La paz, la di cha y los milagros que otorga ré",
+      "word_count": 167551,
+      "char_count": 903025,
+      "position": 1946409,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_355.txt"
+    },
+    "357": {
+      "number": 357,
+      "title": "La verdad contesta toda in vocación que le hacemos a Dios,",
+      "word_count": 167739,
+      "char_count": 903933,
+      "position": 1946816,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_357.txt"
+    },
+    "359": {
+      "number": 359,
+      "title": "La respuesta de Dios es alguna f orma de paz. Todo dolor",
+      "word_count": 167998,
+      "char_count": 905214,
+      "position": 1947248,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_359.txt"
+    },
+    "361": {
+      "number": 361,
+      "title": "contempla, que aunque no ve nada está dispuesto a dar la vida por ello? 6Este",
+      "word_count": 581,
+      "char_count": 3158,
+      "position": 1124912,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_361.txt"
+    },
+    "362": {
+      "number": 362,
+      "title": "bienve nida al amor por separado. 4Es tan imposible que tú puedas conocer a Dios",
+      "word_count": 536,
+      "char_count": 2911,
+      "position": 1128206,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_362.txt"
+    },
+    "363": {
+      "number": 363,
+      "title": "subyacente, pues el cuerpo no podría hablar de ello. 6Sus ojos no  lo pueden",
+      "word_count": 583,
+      "char_count": 3219,
+      "position": 1131257,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_363.txt"
+    },
+    "364": {
+      "number": 364,
+      "title": "e inde pendientemente de cuánta imaginación emplees, no lo confundes con el",
+      "word_count": 146945,
+      "char_count": 798007,
+      "position": 1134605,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_364.txt"
+    },
+    "365": {
+      "number": 365,
+      "title": "Sé Tú Quien dirige, pues quiero simplemente seguirte ,",
+      "word_count": 169420,
+      "char_count": 912648,
+      "position": 1947909,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_365.txt"
+    },
+    "74": {
+      "number": 74,
+      "title": "No hay más voluntad que la de Dios  .................................... ..............  736",
+      "word_count": 49910,
+      "char_count": 288503,
+      "position": 1913257,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_074.txt"
+    },
+    "77": {
+      "number": 77,
+      "title": "Tengo derecho a los milagros  .................................................... ......... 742",
+      "word_count": 61704,
+      "char_count": 351434,
+      "position": 1913561,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_077.txt"
+    },
+    "229": {
+      "number": 229,
+      "title": "El Amor, que es lo que me creó, es lo que soy  ......................................... 998",
+      "word_count": 143447,
+      "char_count": 781312,
+      "position": 1930944,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_229.txt"
+    },
+    "231": {
+      "number": 231,
+      "title": "Padre, mi voluntad es únicamente recordarte  ......................................... 1000",
+      "word_count": 144111,
+      "char_count": 784600,
+      "position": 1931274,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_231.txt"
+    },
+    "235": {
+      "number": 235,
+      "title": "Dios, en Su misericordia, dispone que yo me salve  ................ ................  1002",
+      "word_count": 144697,
+      "char_count": 787524,
+      "position": 1931681,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_235.txt"
+    },
+    "243": {
+      "number": 243,
+      "title": "Hoy no juzgaré nada de lo que ocurra  .......................................... ..........  1007",
+      "word_count": 146218,
+      "char_count": 795032,
+      "position": 1932627,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_243.txt"
+    },
+    "251": {
+      "number": 251,
+      "title": "No necesito nada más que la verdad  ....................... ................................ 1012",
+      "word_count": 147720,
+      "char_count": 802526,
+      "position": 1933570,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_251.txt"
+    },
+    "253": {
+      "number": 253,
+      "title": "Mi Ser es amo y señor del universo  ........................................................ 1013",
+      "word_count": 147991,
+      "char_count": 803797,
+      "position": 1933788,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_253.txt"
+    },
+    "277": {
+      "number": 277,
+      "title": "No dejes que aprisione a Tu Hijo con leyes que yo mismo inventé  ....... 1027",
+      "word_count": 152400,
+      "char_count": 825894,
+      "position": 1936491,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_277.txt"
+    },
+    "287": {
+      "number": 287,
+      "title": "Tú eres mi única meta, Padre mío, sólo Tú  ............................................ 1033",
+      "word_count": 154270,
+      "char_count": 835283,
+      "position": 1937597,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_287.txt"
+    },
+    "313": {
+      "number": 313,
+      "title": "Que venga a mí ahora una nueva percepción  ............... ........................... 1049",
+      "word_count": 159531,
+      "char_count": 861873,
+      "position": 1940606,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_313.txt"
+    },
+    "327": {
+      "number": 327,
+      "title": "No necesito más que llamar y Tú me contestarás  ..................... ..............  1057",
+      "word_count": 162170,
+      "char_count": 875482,
+      "position": 1942148,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_327.txt"
+    },
+    "335": {
+      "number": 335,
+      "title": "Elijo ver la impecabilidad de mi hermano  ....................................... ....... 1062",
+      "word_count": 163909,
+      "char_count": 884462,
+      "position": 1943082,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_335.txt"
+    },
+    "349": {
+      "number": 349,
+      "title": "Hoy dejo que la visión de Cristo con temple todas",
+      "word_count": 166508,
+      "char_count": 897809,
+      "position": 1945081,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_349.txt"
+    },
+    "351": {
+      "number": 351,
+      "title": "Mi hermano impecable es mi guía a la paz.",
+      "word_count": 167183,
+      "char_count": 901322,
+      "position": 1945582,
+      "extraction_method": "number_pattern",
+      "confidence": 0.7,
+      "file_path": "lessons_advanced\\lesson_351.txt"
+    },
+    "60": {
+      "number": 60,
+      "title": "10.  Mientras continúe habiendo percepción, la oración será necesa ria. 2Puesto que la",
+      "word_count": 317532,
+      "char_count": 1707429,
+      "position": 173007,
+      "extraction_method": "sequential_search",
+      "confidence": 0.6,
+      "file_path": "lessons_advanced\\lesson_060.txt"
+    }
+  },
+  "statistics": {
+    "methods_used": {
+      "traditional_pattern": 35,
+      "number_pattern": 125,
+      "sequential_search": 1
+    },
+    "confidence_distribution": {
+      "high": 35,
+      "medium": 126,
+      "low": 0
+    },
+    "quality_metrics": {}
+  }
+}

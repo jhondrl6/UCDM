@@ -1,0 +1,1044 @@
+{
+  "metadata": {
+    "total_lessons": 115,
+    "extraction_date": "2025-09-02 21:00:39.045368",
+    "source": "Un Curso de Milagros - Libro de Ejercicios"
+  },
+  "lessons": {
+    "1": {
+      "number": 1,
+      "title": "Nada de lo que veo en esta habitación [en esta call e,",
+      "word_count": 529,
+      "char_count": 2909,
+      "position": 1952061,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_001.txt"
+    },
+    "3": {
+      "number": 3,
+      "title": "No entiendo nada d e lo que veo en esta habitación",
+      "word_count": 208,
+      "char_count": 1161,
+      "position": 1955116,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_003.txt"
+    },
+    "4": {
+      "number": 4,
+      "title": "Estos p ensamientos no significan nada.",
+      "word_count": 5307,
+      "char_count": 30377,
+      "position": 1956393,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_004.txt"
+    },
+    "16": {
+      "number": 16,
+      "title": "No tengo pensamientos neutros.",
+      "word_count": 16370,
+      "char_count": 92417,
+      "position": 1987614,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_016.txt"
+    },
+    "49": {
+      "number": 49,
+      "title": "La Voz de Dios me habla durante todo el día.",
+      "word_count": 397,
+      "char_count": 2259,
+      "position": 2082022,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_049.txt"
+    },
+    "50": {
+      "number": 50,
+      "title": "El Amor de Dios es mi sustento.",
+      "word_count": 867,
+      "char_count": 4887,
+      "position": 2084372,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_050.txt"
+    },
+    "51": {
+      "number": 51,
+      "title": "El repaso de hoy abarca las siguientes ideas:",
+      "word_count": 5718,
+      "char_count": 30945,
+      "position": 2089368,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_051.txt"
+    },
+    "64": {
+      "number": 64,
+      "title": "No dejes que me olvide de mi función.",
+      "word_count": 689,
+      "char_count": 3767,
+      "position": 2121520,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_064.txt"
+    },
+    "65": {
+      "number": 65,
+      "title": "Mi única función es la que Dios me dio.",
+      "word_count": 19172,
+      "char_count": 106881,
+      "position": 2125418,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_065.txt"
+    },
+    "94": {
+      "number": 94,
+      "title": "Soy tal como Dios me creó.",
+      "word_count": 12950,
+      "char_count": 70328,
+      "position": 2233887,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_094.txt"
+    },
+    "110": {
+      "number": 110,
+      "title": "Soy tal como Dios me creó.",
+      "word_count": 2444,
+      "char_count": 13204,
+      "position": 2305252,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_110.txt"
+    },
+    "116": {
+      "number": 116,
+      "title": "Para los repasos de mañana y noche:",
+      "word_count": 229,
+      "char_count": 1226,
+      "position": 2318949,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_116.txt"
+    },
+    "118": {
+      "number": 118,
+      "title": "Para los repasos de mañana y noche:",
+      "word_count": 15365,
+      "char_count": 83705,
+      "position": 2320343,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_118.txt"
+    },
+    "135": {
+      "number": 135,
+      "title": "Si me defiendo he sido atacado.",
+      "word_count": 9988,
+      "char_count": 55468,
+      "position": 2405209,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_135.txt"
+    },
+    "142": {
+      "number": 142,
+      "title": "Mi men te alberga sólo lo que pienso con Dios.",
+      "word_count": 21,
+      "char_count": 106,
+      "position": 2461399,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_142.txt"
+    },
+    "143": {
+      "number": 143,
+      "title": "Mi mente alberga sólo lo que pienso con Dios.",
+      "word_count": 24,
+      "char_count": 106,
+      "position": 2461584,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_143.txt"
+    },
+    "144": {
+      "number": 144,
+      "title": "Mi mente alberga sólo lo que pienso con Dios.",
+      "word_count": 51,
+      "char_count": 251,
+      "position": 2461769,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_144.txt"
+    },
+    "146": {
+      "number": 146,
+      "title": "Mi mente alberga sólo lo que pienso con Dios.",
+      "word_count": 23,
+      "char_count": 131,
+      "position": 2462116,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_146.txt"
+    },
+    "147": {
+      "number": 147,
+      "title": "Mi mente alberga sólo lo que pienso con Dios.",
+      "word_count": 21,
+      "char_count": 108,
+      "position": 2462325,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_147.txt"
+    },
+    "148": {
+      "number": 148,
+      "title": "Mi ment e alberga sólo lo que pienso con Dios.",
+      "word_count": 52,
+      "char_count": 278,
+      "position": 2462513,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_148.txt"
+    },
+    "150": {
+      "number": 150,
+      "title": "Mi mente alberga sólo lo que pienso con Dios.",
+      "word_count": 22849,
+      "char_count": 124326,
+      "position": 2462886,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_150.txt"
+    },
+    "172": {
+      "number": 172,
+      "title": "Dios es sólo Amor y, por ende, eso es lo que soy yo.",
+      "word_count": 43,
+      "char_count": 208,
+      "position": 2588971,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_172.txt"
+    },
+    "173": {
+      "number": 173,
+      "title": "Dios es sólo Amor y, por ende, eso es lo que soy yo.",
+      "word_count": 110,
+      "char_count": 503,
+      "position": 2589267,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_173.txt"
+    },
+    "175": {
+      "number": 175,
+      "title": "Dios es sólo Amor y, por ende, eso es lo que soy yo.",
+      "word_count": 51,
+      "char_count": 227,
+      "position": 2589879,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_175.txt"
+    },
+    "176": {
+      "number": 176,
+      "title": "Dios es sólo Amor y, por ende, eso es lo que soy yo.",
+      "word_count": 109,
+      "char_count": 502,
+      "position": 2590193,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_176.txt"
+    },
+    "178": {
+      "number": 178,
+      "title": "Dios es sólo Amor y, por ende, eso es lo que soy y o.",
+      "word_count": 47,
+      "char_count": 215,
+      "position": 2590804,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_178.txt"
+    },
+    "179": {
+      "number": 179,
+      "title": "Dios es sólo Amor y, p or ende, eso es lo que soy yo.",
+      "word_count": 22585,
+      "char_count": 123558,
+      "position": 2591106,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_179.txt"
+    },
+    "202": {
+      "number": 202,
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 68,
+      "char_count": 354,
+      "position": 2716101,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_202.txt"
+    },
+    "203": {
+      "number": 203,
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 57,
+      "char_count": 283,
+      "position": 2716541,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_203.txt"
+    },
+    "204": {
+      "number": 204,
+      "title": "No soy un cuerpo. Soy lib re.",
+      "word_count": 157,
+      "char_count": 783,
+      "position": 2716880,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_204.txt"
+    },
+    "206": {
+      "number": 206,
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 55,
+      "char_count": 284,
+      "position": 2717757,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_206.txt"
+    },
+    "207": {
+      "number": 207,
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 67,
+      "char_count": 355,
+      "position": 2718127,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_207.txt"
+    },
+    "208": {
+      "number": 208,
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 66,
+      "char_count": 349,
+      "position": 2718538,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_208.txt"
+    },
+    "209": {
+      "number": 209,
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 71,
+      "char_count": 334,
+      "position": 2718973,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_209.txt"
+    },
+    "210": {
+      "number": 210,
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 146,
+      "char_count": 729,
+      "position": 2719365,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_210.txt"
+    },
+    "212": {
+      "number": 212,
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 163,
+      "char_count": 858,
+      "position": 2720184,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_212.txt"
+    },
+    "214": {
+      "number": 214,
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 71,
+      "char_count": 352,
+      "position": 2721136,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_214.txt"
+    },
+    "215": {
+      "number": 215,
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 60,
+      "char_count": 303,
+      "position": 2721570,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_215.txt"
+    },
+    "216": {
+      "number": 216,
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 57,
+      "char_count": 281,
+      "position": 2721929,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_216.txt"
+    },
+    "217": {
+      "number": 217,
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 63,
+      "char_count": 330,
+      "position": 2722295,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_217.txt"
+    },
+    "218": {
+      "number": 218,
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 61,
+      "char_count": 326,
+      "position": 2722683,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_218.txt"
+    },
+    "219": {
+      "number": 219,
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 69,
+      "char_count": 354,
+      "position": 2723090,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_219.txt"
+    },
+    "220": {
+      "number": 220,
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 1748,
+      "char_count": 9834,
+      "position": 2723500,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_220.txt"
+    },
+    "222": {
+      "number": 222,
+      "title": "Dios está conmi go. Vivo y me muevo en Él.",
+      "word_count": 298,
+      "char_count": 1644,
+      "position": 2733568,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_222.txt"
+    },
+    "224": {
+      "number": 224,
+      "title": "Dios es mi Padre y Él ama a Su Hijo.",
+      "word_count": 302,
+      "char_count": 1563,
+      "position": 2735307,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_224.txt"
+    },
+    "226": {
+      "number": 226,
+      "title": "Mi hogar me aguarda. Me apresuraré a llegar a él.",
+      "word_count": 284,
+      "char_count": 1569,
+      "position": 2736960,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_226.txt"
+    },
+    "228": {
+      "number": 228,
+      "title": "Dios no  me ha condenado. Por lo tanto,",
+      "word_count": 279,
+      "char_count": 1481,
+      "position": 2738642,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_228.txt"
+    },
+    "230": {
+      "number": 230,
+      "title": "Ahora busc aré y hallaré la paz de Dios.",
+      "word_count": 683,
+      "char_count": 3623,
+      "position": 2740215,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_230.txt"
+    },
+    "232": {
+      "number": 232,
+      "title": "Permanece en mi mente todo el día, Padre mío.",
+      "word_count": 301,
+      "char_count": 1566,
+      "position": 2743969,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_232.txt"
+    },
+    "234": {
+      "number": 234,
+      "title": "Padre, hoy vuelvo a ser Tu Hijo.",
+      "word_count": 321,
+      "char_count": 1730,
+      "position": 2745645,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_234.txt"
+    },
+    "236": {
+      "number": 236,
+      "title": "Gobierno mi mente, la cual sólo yo debo gobernar.",
+      "word_count": 285,
+      "char_count": 1447,
+      "position": 2747463,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_236.txt"
+    },
+    "238": {
+      "number": 238,
+      "title": "La salvación depende de mi decisión.",
+      "word_count": 277,
+      "char_count": 1436,
+      "position": 2749016,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_238.txt"
+    },
+    "240": {
+      "number": 240,
+      "title": "El miedo, de la clase que sea, no está justificado.",
+      "word_count": 741,
+      "char_count": 3975,
+      "position": 2750554,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_240.txt"
+    },
+    "242": {
+      "number": 242,
+      "title": "Este día se lo dedico a Dios. Es el regalo que le hago.",
+      "word_count": 286,
+      "char_count": 1517,
+      "position": 2754677,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_242.txt"
+    },
+    "244": {
+      "number": 244,
+      "title": "No estoy en peligro en ningún lugar del mundo.",
+      "word_count": 289,
+      "char_count": 1542,
+      "position": 2756305,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_244.txt"
+    },
+    "246": {
+      "number": 246,
+      "title": "Amar a mi Padre es amar a Su Hijo.",
+      "word_count": 274,
+      "char_count": 1392,
+      "position": 2757958,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_246.txt"
+    },
+    "248": {
+      "number": 248,
+      "title": "Lo que sufre no forma parte de mí.",
+      "word_count": 293,
+      "char_count": 1603,
+      "position": 2759447,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_248.txt"
+    },
+    "250": {
+      "number": 250,
+      "title": "Que no vea ninguna limitación en mí.",
+      "word_count": 718,
+      "char_count": 3864,
+      "position": 2761149,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_250.txt"
+    },
+    "252": {
+      "number": 252,
+      "title": "El Hijo de Dios es mi Ident idad.",
+      "word_count": 285,
+      "char_count": 1477,
+      "position": 2765146,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_252.txt"
+    },
+    "254": {
+      "number": 254,
+      "title": "Que se acalle en mí toda voz que no sea la de Dios.",
+      "word_count": 274,
+      "char_count": 1490,
+      "position": 2766716,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_254.txt"
+    },
+    "256": {
+      "number": 256,
+      "title": "Dios es mi único objetivo hoy.",
+      "word_count": 316,
+      "char_count": 1789,
+      "position": 2768318,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_256.txt"
+    },
+    "258": {
+      "number": 258,
+      "title": "Que recuerde que Dios es mi o bjetivo.",
+      "word_count": 291,
+      "char_count": 1674,
+      "position": 2770189,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_258.txt"
+    },
+    "260": {
+      "number": 260,
+      "title": "Que recuerde que Dios me creó.",
+      "word_count": 689,
+      "char_count": 3695,
+      "position": 2771958,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_260.txt"
+    },
+    "262": {
+      "number": 262,
+      "title": "No dejes q ue hoy perciba diferencias.",
+      "word_count": 158,
+      "char_count": 810,
+      "position": 2775769,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_262.txt"
+    },
+    "263": {
+      "number": 263,
+      "title": "Mi santa visión ve la pureza de todas las cosas.",
+      "word_count": 150,
+      "char_count": 813,
+      "position": 2776672,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_263.txt"
+    },
+    "264": {
+      "number": 264,
+      "title": "El Amor de Dios me rodea.",
+      "word_count": 345,
+      "char_count": 1800,
+      "position": 2777562,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_264.txt"
+    },
+    "266": {
+      "number": 266,
+      "title": "Mi santo Ser mora en ti, Hijo de Dios.",
+      "word_count": 321,
+      "char_count": 1643,
+      "position": 2779440,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_266.txt"
+    },
+    "268": {
+      "number": 268,
+      "title": "Que todas las cosas sean exactamente como son.",
+      "word_count": 299,
+      "char_count": 1620,
+      "position": 2781178,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_268.txt"
+    },
+    "270": {
+      "number": 270,
+      "title": "Hoy no utilizaré los ojos del cuerpo.",
+      "word_count": 796,
+      "char_count": 4122,
+      "position": 2782900,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_270.txt"
+    },
+    "272": {
+      "number": 272,
+      "title": "¿Cómo iban a pode r satisfacer las ilusiones al Hijo de Dios?",
+      "word_count": 301,
+      "char_count": 1652,
+      "position": 2787145,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_272.txt"
+    },
+    "274": {
+      "number": 274,
+      "title": "Este día le pertenece al Amor. Hoy no tendré miedo de nada.",
+      "word_count": 297,
+      "char_count": 1572,
+      "position": 2788915,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_274.txt"
+    },
+    "276": {
+      "number": 276,
+      "title": "Se me ha da do la Palabra de Dios para que la comparta.",
+      "word_count": 356,
+      "char_count": 1881,
+      "position": 2790607,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_276.txt"
+    },
+    "278": {
+      "number": 278,
+      "title": "Si estoy aprisionado, mi Padre no es libre.",
+      "word_count": 301,
+      "char_count": 1588,
+      "position": 2792597,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_278.txt"
+    },
+    "280": {
+      "number": 280,
+      "title": "¿Qué límites podría imponerle yo al Hijo d e Dios?",
+      "word_count": 744,
+      "char_count": 4025,
+      "position": 2794282,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_280.txt"
+    },
+    "282": {
+      "number": 282,
+      "title": "Hoy no tendré miedo del amor.",
+      "word_count": 288,
+      "char_count": 1529,
+      "position": 2798452,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_282.txt"
+    },
+    "284": {
+      "number": 284,
+      "title": "Puedo elegir cambiar todos los pensamientos que me causan dolor.",
+      "word_count": 324,
+      "char_count": 1761,
+      "position": 2800071,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_284.txt"
+    },
+    "286": {
+      "number": 286,
+      "title": "La quietud del Cielo envuelve hoy mi corazón.",
+      "word_count": 286,
+      "char_count": 1521,
+      "position": 2801951,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_286.txt"
+    },
+    "288": {
+      "number": 288,
+      "title": "Que me olvide hoy del pasado  de mi hermano.",
+      "word_count": 335,
+      "char_count": 1753,
+      "position": 2803575,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_288.txt"
+    },
+    "290": {
+      "number": 290,
+      "title": "Lo único que veo es mi actual fe licidad.",
+      "word_count": 778,
+      "char_count": 4095,
+      "position": 2805428,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_290.txt"
+    },
+    "292": {
+      "number": 292,
+      "title": "Todo tendrá un desenlace feliz.",
+      "word_count": 348,
+      "char_count": 1952,
+      "position": 2809646,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_292.txt"
+    },
+    "294": {
+      "number": 294,
+      "title": "Mi cuerpo es algo completamente neutro.",
+      "word_count": 345,
+      "char_count": 1823,
+      "position": 2811682,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_294.txt"
+    },
+    "296": {
+      "number": 296,
+      "title": "El Espíritu Santo habla hoy a través de mí.",
+      "word_count": 288,
+      "char_count": 1559,
+      "position": 2813592,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_296.txt"
+    },
+    "298": {
+      "number": 298,
+      "title": "Te amo, Padre, y am o también a Tu Hijo.",
+      "word_count": 288,
+      "char_count": 1566,
+      "position": 2815247,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_298.txt"
+    },
+    "300": {
+      "number": 300,
+      "title": "Este mundo dura tan sólo un instante.",
+      "word_count": 750,
+      "char_count": 4088,
+      "position": 2816917,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_300.txt"
+    },
+    "302": {
+      "number": 302,
+      "title": "Donde antes había tinieblas ahora contemplo la luz.",
+      "word_count": 334,
+      "char_count": 1791,
+      "position": 2821133,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_302.txt"
+    },
+    "304": {
+      "number": 304,
+      "title": "Que mi mundo no nuble la visión de Cristo.",
+      "word_count": 292,
+      "char_count": 1549,
+      "position": 2823032,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_304.txt"
+    },
+    "306": {
+      "number": 306,
+      "title": "El regalo de Cristo es lo único que busco hoy.",
+      "word_count": 317,
+      "char_count": 1686,
+      "position": 2824679,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_306.txt"
+    },
+    "308": {
+      "number": 308,
+      "title": "Este instante es el único tiempo que existe.",
+      "word_count": 318,
+      "char_count": 1687,
+      "position": 2826468,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_308.txt"
+    },
+    "310": {
+      "number": 310,
+      "title": "Paso este día sin miedo y lleno de amor.",
+      "word_count": 778,
+      "char_count": 4142,
+      "position": 2828261,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_310.txt"
+    },
+    "312": {
+      "number": 312,
+      "title": "Veo todas las cosas como quiero que sean.",
+      "word_count": 319,
+      "char_count": 1778,
+      "position": 2832534,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_312.txt"
+    },
+    "314": {
+      "number": 314,
+      "title": "Busco un futuro diferente del pasado.",
+      "word_count": 328,
+      "char_count": 1828,
+      "position": 2834410,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_314.txt"
+    },
+    "316": {
+      "number": 316,
+      "title": "Todos los regalos que les hago a mis hermanos me pertenecen.",
+      "word_count": 346,
+      "char_count": 1874,
+      "position": 2836329,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_316.txt"
+    },
+    "318": {
+      "number": 318,
+      "title": "Yo soy el medio para la salvación, así como su fin.",
+      "word_count": 321,
+      "char_count": 1747,
+      "position": 2838325,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_318.txt"
+    },
+    "320": {
+      "number": 320,
+      "title": "Mi Padre me da todo poder.",
+      "word_count": 724,
+      "char_count": 3954,
+      "position": 2840176,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_320.txt"
+    },
+    "322": {
+      "number": 322,
+      "title": "Tan sólo puedo renunciar a lo que nunca fue real.",
+      "word_count": 315,
+      "char_count": 1741,
+      "position": 2844249,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_322.txt"
+    },
+    "324": {
+      "number": 324,
+      "title": "No quiero ser guía. Quiero ser simplemente un seguidor.",
+      "word_count": 356,
+      "char_count": 1942,
+      "position": 2846096,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_324.txt"
+    },
+    "326": {
+      "number": 326,
+      "title": "He de ser por siempre un Efecto de Dios.",
+      "word_count": 363,
+      "char_count": 1937,
+      "position": 2848153,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_326.txt"
+    },
+    "328": {
+      "number": 328,
+      "title": "Elijo estar en segundo lugar para obtener el primero.",
+      "word_count": 368,
+      "char_count": 2054,
+      "position": 2850181,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_328.txt"
+    },
+    "330": {
+      "number": 330,
+      "title": "Hoy no volveré a hacerme daño.",
+      "word_count": 787,
+      "char_count": 4196,
+      "position": 2852340,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_330.txt"
+    },
+    "332": {
+      "number": 332,
+      "title": "El miedo aprisiona al mundo. El perdón lo libera.",
+      "word_count": 332,
+      "char_count": 1862,
+      "position": 2856660,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_332.txt"
+    },
+    "334": {
+      "number": 334,
+      "title": "Hoy reclamo los regalos que el perdón otorga.",
+      "word_count": 328,
+      "char_count": 1761,
+      "position": 2858623,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_334.txt"
+    },
+    "336": {
+      "number": 336,
+      "title": "El perdón me enseña que todas las mentes están unidas.",
+      "word_count": 388,
+      "char_count": 2063,
+      "position": 2860482,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_336.txt"
+    },
+    "338": {
+      "number": 338,
+      "title": "Sólo mis propios pensamientos pueden afectarme.",
+      "word_count": 178,
+      "char_count": 1035,
+      "position": 2862653,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_338.txt"
+    },
+    "339": {
+      "number": 339,
+      "title": "Se me concederá todo lo que pida.",
+      "word_count": 164,
+      "char_count": 882,
+      "position": 2863775,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_339.txt"
+    },
+    "340": {
+      "number": 340,
+      "title": "Hoy puedo liberarme de todo sufrimiento.",
+      "word_count": 748,
+      "char_count": 4024,
+      "position": 2864720,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_340.txt"
+    },
+    "342": {
+      "number": 342,
+      "title": "Dejo que el perdón descanse sobre todas las cosas,",
+      "word_count": 329,
+      "char_count": 1752,
+      "position": 2868867,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_342.txt"
+    },
+    "344": {
+      "number": 344,
+      "title": "Hoy aprendo la ley d el amor: que lo que le doy a  mi",
+      "word_count": 354,
+      "char_count": 1929,
+      "position": 2870729,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_344.txt"
+    },
+    "346": {
+      "number": 346,
+      "title": "Hoy me envuelve la paz  de Dios,",
+      "word_count": 361,
+      "char_count": 1869,
+      "position": 2872761,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_346.txt"
+    },
+    "348": {
+      "number": 348,
+      "title": "Ni mi ira ni mi temor tienen razón de ser, pues Tú me",
+      "word_count": 284,
+      "char_count": 1587,
+      "position": 2874713,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_348.txt"
+    },
+    "350": {
+      "number": 350,
+      "title": "Los milagros son un reflejo del e terno Amor de Dios.",
+      "word_count": 733,
+      "char_count": 4003,
+      "position": 2876407,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_350.txt"
+    },
+    "352": {
+      "number": 352,
+      "title": "Los juicios  son lo o puesto al amor. De los",
+      "word_count": 245,
+      "char_count": 1278,
+      "position": 2880562,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_352.txt"
+    },
+    "354": {
+      "number": 354,
+      "title": "Cristo y yo nos enco ntramos unidos en paz y seguros",
+      "word_count": 234,
+      "char_count": 1181,
+      "position": 2881947,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_354.txt"
+    },
+    "356": {
+      "number": 356,
+      "title": "La enfermedad no es s ino otro nombre para el pecado.",
+      "word_count": 244,
+      "char_count": 1288,
+      "position": 2883252,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_356.txt"
+    },
+    "358": {
+      "number": 358,
+      "title": "Ninguna invocación a Dios puede dejar de s er oída o",
+      "word_count": 315,
+      "char_count": 1672,
+      "position": 2884656,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_358.txt"
+    },
+    "360": {
+      "number": 360,
+      "title": "Que la paz sea conmigo, el santo Hijo de Dios.",
+      "word_count": 1506,
+      "char_count": 8145,
+      "position": 2886441,
+      "section": "Libro de Ejercicios",
+      "file_path": "lessons\\lesson_360.txt"
+    }
+  }
+}

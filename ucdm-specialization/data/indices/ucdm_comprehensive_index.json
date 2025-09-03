@@ -1,0 +1,3874 @@
+{
+  "metadata": {
+    "creation_date": "2025-09-02 21:06:49.260862",
+    "total_lessons": 161,
+    "total_concepts": 437,
+    "avg_concepts_per_lesson": 3.78,
+    "coverage_percentage": 44.109589041095894
+  },
+  "date_mapping": {
+    "01-01": 1,
+    "01-02": 2,
+    "01-03": 3,
+    "01-04": 4,
+    "01-05": 5,
+    "01-06": 6,
+    "01-07": 7,
+    "01-08": 8,
+    "01-09": 9,
+    "01-10": 10,
+    "01-11": 11,
+    "01-12": 12,
+    "01-13": 13,
+    "01-14": 14,
+    "01-15": 15,
+    "01-16": 16,
+    "01-17": 17,
+    "01-18": 18,
+    "01-19": 19,
+    "01-20": 20,
+    "01-21": 21,
+    "01-22": 22,
+    "01-23": 23,
+    "01-24": 24,
+    "01-25": 25,
+    "01-26": 26,
+    "01-27": 27,
+    "01-28": 28,
+    "01-29": 29,
+    "01-30": 30,
+    "01-31": 31,
+    "02-01": 32,
+    "02-02": 33,
+    "02-03": 34,
+    "02-04": 35,
+    "02-05": 36,
+    "02-06": 37,
+    "02-07": 38,
+    "02-08": 39,
+    "02-09": 40,
+    "02-10": 41,
+    "02-11": 42,
+    "02-12": 43,
+    "02-13": 44,
+    "02-14": 45,
+    "02-15": 46,
+    "02-16": 47,
+    "02-17": 48,
+    "02-18": 49,
+    "02-19": 50,
+    "02-20": 51,
+    "02-21": 52,
+    "02-22": 53,
+    "02-23": 54,
+    "02-24": 55,
+    "02-25": 56,
+    "02-26": 57,
+    "02-27": 58,
+    "02-28": 59,
+    "02-29": 60,
+    "03-01": 61,
+    "03-02": 62,
+    "03-03": 63,
+    "03-04": 64,
+    "03-05": 65,
+    "03-06": 66,
+    "03-07": 67,
+    "03-08": 68,
+    "03-09": 69,
+    "03-10": 70,
+    "03-11": 71,
+    "03-12": 72,
+    "03-13": 73,
+    "03-14": 74,
+    "03-15": 75,
+    "03-16": 76,
+    "03-17": 77,
+    "03-18": 78,
+    "03-19": 79,
+    "03-20": 80,
+    "03-21": 81,
+    "03-22": 82,
+    "03-23": 83,
+    "03-24": 84,
+    "03-25": 85,
+    "03-26": 86,
+    "03-27": 87,
+    "03-28": 88,
+    "03-29": 89,
+    "03-30": 90,
+    "03-31": 91,
+    "04-01": 92,
+    "04-02": 93,
+    "04-03": 94,
+    "04-04": 95,
+    "04-05": 96,
+    "04-06": 97,
+    "04-07": 98,
+    "04-08": 99,
+    "04-09": 100,
+    "04-10": 101,
+    "04-11": 102,
+    "04-12": 103,
+    "04-13": 104,
+    "04-14": 105,
+    "04-15": 106,
+    "04-16": 107,
+    "04-17": 108,
+    "04-18": 109,
+    "04-19": 110,
+    "04-20": 111,
+    "04-21": 112,
+    "04-22": 113,
+    "04-23": 114,
+    "04-24": 115,
+    "04-25": 116,
+    "04-26": 117,
+    "04-27": 118,
+    "04-28": 119,
+    "04-29": 120,
+    "04-30": 121,
+    "05-01": 122,
+    "05-02": 123,
+    "05-03": 124,
+    "05-04": 125,
+    "05-05": 126,
+    "05-06": 127,
+    "05-07": 128,
+    "05-08": 129,
+    "05-09": 130,
+    "05-10": 131,
+    "05-11": 132,
+    "05-12": 133,
+    "05-13": 134,
+    "05-14": 135,
+    "05-15": 136,
+    "05-16": 137,
+    "05-17": 138,
+    "05-18": 139,
+    "05-19": 140,
+    "05-20": 141,
+    "05-21": 142,
+    "05-22": 143,
+    "05-23": 144,
+    "05-24": 145,
+    "05-25": 146,
+    "05-26": 147,
+    "05-27": 148,
+    "05-28": 149,
+    "05-29": 150,
+    "05-30": 151,
+    "05-31": 152,
+    "06-01": 153,
+    "06-02": 154,
+    "06-03": 155,
+    "06-04": 156,
+    "06-05": 157,
+    "06-06": 158,
+    "06-07": 159,
+    "06-08": 160,
+    "06-09": 161
+  },
+  "concept_index": {
+    "titulo_habitación": [
+      "1",
+      "3"
+    ],
+    "titulo_entiendo": [
+      "3"
+    ],
+    "titulo_significan": [
+      "4"
+    ],
+    "titulo_estos": [
+      "4"
+    ],
+    "titulo_nada.": [
+      "4",
+      "84"
+    ],
+    "titulo_ensamientos": [
+      "4"
+    ],
+    "titulo_pensamientos": [
+      "16",
+      "221",
+      "338"
+    ],
+    "titulo_neutros.": [
+      "16"
+    ],
+    "titulo_tengo": [
+      "16",
+      "223",
+      "77"
+    ],
+    "titulo_habla": [
+      "49"
+    ],
+    "titulo_durante": [
+      "22",
+      "49"
+    ],
+    "titulo_sustento.": [
+      "50"
+    ],
+    "titulo_olvide": [
+      "257",
+      "64"
+    ],
+    "titulo_función.": [
+      "64"
+    ],
+    "titulo_dejes": [
+      "262",
+      "277",
+      "64"
+    ],
+    "titulo_dios.": [
+      "142",
+      "143",
+      "146",
+      "147",
+      "148"
+    ],
+    "titulo_alberga": [
+      "142",
+      "143",
+      "146",
+      "147",
+      "148"
+    ],
+    "titulo_pienso": [
+      "142",
+      "143",
+      "146",
+      "147",
+      "148"
+    ],
+    "titulo_mente": [
+      "108",
+      "111",
+      "143",
+      "146",
+      "147",
+      "174",
+      "221",
+      "86"
+    ],
+    "titulo_ende,": [
+      "172",
+      "175",
+      "176",
+      "178"
+    ],
+    "titulo_cuerpo.": [
+      "202",
+      "203",
+      "204",
+      "206",
+      "207",
+      "208",
+      "209",
+      "210",
+      "214",
+      "215",
+      "216",
+      "217",
+      "218",
+      "219"
+    ],
+    "titulo_libre.": [
+      "202",
+      "203",
+      "206",
+      "207",
+      "208",
+      "209",
+      "210",
+      "214",
+      "215",
+      "216",
+      "217",
+      "218",
+      "219"
+    ],
+    "titulo_diferencias.": [
+      "262"
+    ],
+    "titulo_perciba": [
+      "262"
+    ],
+    "titulo_cosas.": [
+      "263"
+    ],
+    "titulo_todas": [
+      "24",
+      "263",
+      "275",
+      "301",
+      "311",
+      "325",
+      "349",
+      "63"
+    ],
+    "titulo_visión": [
+      "263",
+      "271",
+      "349"
+    ],
+    "titulo_pureza": [
+      "263"
+    ],
+    "titulo_santa": [
+      "263"
+    ],
+    "titulo_medio": [
+      "318"
+    ],
+    "titulo_salvación,": [
+      "318"
+    ],
+    "titulo_propios": [
+      "281",
+      "338"
+    ],
+    "titulo_pueden": [
+      "188",
+      "338",
+      "363"
+    ],
+    "titulo_afectarme.": [
+      "338"
+    ],
+    "titulo_concederá": [
+      "339"
+    ],
+    "titulo_pida.": [
+      "339"
+    ],
+    "titulo_abstendre": [
+      "22"
+    ],
+    "titulo_elaborar": [
+      "22"
+    ],
+    "titulo_minutos,": [
+      "22"
+    ],
+    "titulo_quince": [
+      "22"
+    ],
+    "titulo_ocasiones": [
+      "22"
+    ],
+    "titulo_3puede": [
+      "23"
+    ],
+    "titulo_todo.": [
+      "23"
+    ],
+    "titulo_hacer": [
+      "171",
+      "23",
+      "281"
+    ],
+    "titulo_cuáles": [
+      "23"
+    ],
+    "titulo_tienes": [
+      "117",
+      "23",
+      "97"
+    ],
+    "titulo_planes,": [
+      "23"
+    ],
+    "titulo_ahora": [
+      "237",
+      "313",
+      "7"
+    ],
+    "titulo_conocimiento": [
+      "7"
+    ],
+    "titulo_dios,": [
+      "235",
+      "357",
+      "7"
+    ],
+    "titulo_absoluto,": [
+      "7"
+    ],
+    "titulo_completamente": [
+      "7"
+    ],
+    "titulo_inmutable,": [
+      "7"
+    ],
+    "titulo_condenación.": [
+      "12"
+    ],
+    "titulo_perfecto": [
+      "12"
+    ],
+    "titulo_necesita": [
+      "12"
+    ],
+    "titulo_santidad.": [
+      "12"
+    ],
+    "titulo_escuchando": [
+      "13"
+    ],
+    "titulo_todos": [
+      "13",
+      "221",
+      "315"
+    ],
+    "titulo_hacen": [
+      "13",
+      "315"
+    ],
+    "titulo_llega": [
+      "13",
+      "241"
+    ],
+    "titulo_juicio": [
+      "13"
+    ],
+    "titulo_lado,": [
+      "13"
+    ],
+    "titulo_cometido": [
+      "17"
+    ],
+    "titulo_fieles": [
+      "17"
+    ],
+    "titulo_embargo,": [
+      "17",
+      "289"
+    ],
+    "titulo_cuando": [
+      "17"
+    ],
+    "titulo_podamos": [
+      "17"
+    ],
+    "titulo_seremos": [
+      "17"
+    ],
+    "titulo_hacerlo,": [
+      "17"
+    ],
+    "titulo_dejarás": [
+      "18"
+    ],
+    "titulo_tiempo": [
+      "18",
+      "188"
+    ],
+    "titulo_nunca": [
+      "18"
+    ],
+    "titulo_pensar": [
+      "18"
+    ],
+    "titulo_mientras": [
+      "19",
+      "60"
+    ],
+    "titulo_nuestro": [
+      "19"
+    ],
+    "titulo_nuestra": [
+      "19"
+    ],
+    "titulo_revestimos": [
+      "19"
+    ],
+    "titulo_indefensión.": [
+      "19"
+    ],
+    "titulo_esperaremos": [
+      "21"
+    ],
+    "titulo_llenos": [
+      "21"
+    ],
+    "titulo_expectación": [
+      "21"
+    ],
+    "titulo_momento": [
+      "21"
+    ],
+    "titulo_absoluta": [
+      "21"
+    ],
+    "titulo_defensas": [
+      "24"
+    ],
+    "titulo_impedir": [
+      "24"
+    ],
+    "titulo_propósito": [
+      "24",
+      "257"
+    ],
+    "titulo_recibas": [
+      "24"
+    ],
+    "titulo_nosotros": [
+      "25"
+    ],
+    "titulo_acordaremos": [
+      "25"
+    ],
+    "titulo_acordado": [
+      "25"
+    ],
+    "titulo_3pues": [
+      "25"
+    ],
+    "titulo_existencia.": [
+      "33"
+    ],
+    "titulo_porque": [
+      "174",
+      "33",
+      "57",
+      "83",
+      "85",
+      "89",
+      "97"
+    ],
+    "titulo_creó.": [
+      "33"
+    ],
+    "titulo_aceptación": [
+      "33"
+    ],
+    "titulo_4creer": [
+      "33"
+    ],
+    "titulo_creaciones": [
+      "33"
+    ],
+    "titulo_temer": [
+      "48"
+    ],
+    "titulo_suposición,": [
+      "52"
+    ],
+    "titulo_enteramente": [
+      "52"
+    ],
+    "titulo_imposible": [
+      "362",
+      "52"
+    ],
+    "titulo_procede": [
+      "347",
+      "52"
+    ],
+    "titulo_también": [
+      "174",
+      "52"
+    ],
+    "titulo_proyección.": [
+      "52"
+    ],
+    "titulo_fusión": [
+      "54"
+    ],
+    "titulo_trinidad,": [
+      "54"
+    ],
+    "titulo_entidad.": [
+      "54"
+    ],
+    "titulo_santísima": [
+      "54"
+    ],
+    "titulo_trinidad": [
+      "54"
+    ],
+    "titulo_reconoce": [
+      "56"
+    ],
+    "titulo_reconocen": [
+      "56"
+    ],
+    "titulo_perfectamente.": [
+      "56"
+    ],
+    "titulo_entre": [
+      "56"
+    ],
+    "titulo_ellos": [
+      "56"
+    ],
+    "titulo_11los": [
+      "56"
+    ],
+    "titulo_12cuando": [
+      "56"
+    ],
+    "titulo_ciéndolos.": [
+      "56"
+    ],
+    "titulo_milagrosa": [
+      "57"
+    ],
+    "titulo_percepción": [
+      "112",
+      "313",
+      "57",
+      "59"
+    ],
+    "titulo_estado": [
+      "57"
+    ],
+    "titulo_fidedigna.": [
+      "57"
+    ],
+    "titulo_mentalidad": [
+      "57"
+    ],
+    "titulo_percep": [
+      "57"
+    ],
+    "titulo_pocos": [
+      "58"
+    ],
+    "titulo_escuchar.\"": [
+      "58"
+    ],
+    "titulo_tanto,": [
+      "58"
+    ],
+    "titulo_eligen": [
+      "58"
+    ],
+    "titulo_13por": [
+      "58"
+    ],
+    "titulo_14los": [
+      "58"
+    ],
+    "titulo_correctamen": [
+      "58"
+    ],
+    "titulo_refiere": [
+      "59"
+    ],
+    "titulo_incongruencias": [
+      "59"
+    ],
+    "titulo_3tales": [
+      "59"
+    ],
+    "titulo_significado.": [
+      "59"
+    ],
+    "titulo_tiene": [
+      "59",
+      "81"
+    ],
+    "titulo_mundo": [
+      "299",
+      "63"
+    ],
+    "titulo_mentes": [
+      "63"
+    ],
+    "titulo_menos": [
+      "71"
+    ],
+    "titulo_concibe,": [
+      "71"
+    ],
+    "titulo_puede": [
+      "111",
+      "171",
+      "239",
+      "281",
+      "289",
+      "307",
+      "71",
+      "84"
+    ],
+    "titulo_propio,": [
+      "71"
+    ],
+    "titulo_ataque": [
+      "72"
+    ],
+    "titulo_abrigar": [
+      "307",
+      "72"
+    ],
+    "titulo_resentimientos": [
+      "72"
+    ],
+    "titulo_contigo.": [
+      "81"
+    ],
+    "titulo_profanes": [
+      "81"
+    ],
+    "titulo_relación": [
+      "81"
+    ],
+    "titulo_verdadera": [
+      "113",
+      "283",
+      "81"
+    ],
+    "titulo_realidad.": [
+      "81"
+    ],
+    "titulo_capítulo": [
+      "141",
+      "255",
+      "82"
+    ],
+    "titulo_eliges": [
+      "83"
+    ],
+    "titulo_revelación": [
+      "83"
+    ],
+    "titulo_experiencia": [
+      "83"
+    ],
+    "titulo_dicha.": [
+      "83"
+    ],
+    "titulo_listo": [
+      "84"
+    ],
+    "titulo_fluir": [
+      "84"
+    ],
+    "titulo_parte,": [
+      "84"
+    ],
+    "titulo_11puedes,": [
+      "84"
+    ],
+    "titulo_cualquier": [
+      "113",
+      "84"
+    ],
+    "titulo_oponerse": [
+      "84"
+    ],
+    "titulo_renunciando": [
+      "85"
+    ],
+    "titulo_uentra": [
+      "85"
+    ],
+    "titulo_todavía": [
+      "112",
+      "85"
+    ],
+    "titulo_voluntad": [
+      "180",
+      "231",
+      "307",
+      "329",
+      "331",
+      "74",
+      "85"
+    ],
+    "titulo_ella.": [
+      "85"
+    ],
+    "titulo_separación": [
+      "85"
+    ],
+    "titulo_implica": [
+      "114",
+      "86"
+    ],
+    "titulo_santo": [
+      "180",
+      "227",
+      "241",
+      "295",
+      "86"
+    ],
+    "titulo_diferente.": [
+      "86"
+    ],
+    "titulo_6elegir": [
+      "86"
+    ],
+    "titulo_espíritu": [
+      "295",
+      "86"
+    ],
+    "titulo_dida.": [
+      "86"
+    ],
+    "titulo_restituirlo": [
+      "87"
+    ],
+    "titulo_reino": [
+      "87"
+    ],
+    "titulo_devuelve": [
+      "87"
+    ],
+    "titulo_integración": [
+      "87"
+    ],
+    "titulo_parte": [
+      "303",
+      "87"
+    ],
+    "titulo_fecta": [
+      "87"
+    ],
+    "titulo_habrá": [
+      "89"
+    ],
+    "titulo_mente.": [
+      "89"
+    ],
+    "titulo_adentrado": [
+      "89"
+    ],
+    "titulo_peligro": [
+      "89"
+    ],
+    "titulo_reaccionarás": [
+      "89"
+    ],
+    "titulo_aceptarla,": [
+      "90"
+    ],
+    "titulo_capacidad": [
+      "90"
+    ],
+    "titulo_cambio,": [
+      "90"
+    ],
+    "titulo_verdad": [
+      "251",
+      "357",
+      "90"
+    ],
+    "titulo_destruir;": [
+      "90"
+    ],
+    "titulo_dicha": [
+      "93"
+    ],
+    "titulo_moran": [
+      "93"
+    ],
+    "titulo_recuerda": [
+      "97"
+    ],
+    "titulo_continuamente": [
+      "97"
+    ],
+    "titulo_motivos": [
+      "97"
+    ],
+    "titulo_hermanos.": [
+      "108"
+    ],
+    "titulo_aliados,": [
+      "108"
+    ],
+    "titulo_aunque": [
+      "108",
+      "361"
+    ],
+    "titulo_ajeno": [
+      "108"
+    ],
+    "titulo_sidad": [
+      "108"
+    ],
+    "titulo_percibi": [
+      "108"
+    ],
+    "titulo_cuerpo": [
+      "111",
+      "363"
+    ],
+    "titulo_mente,": [
+      "111"
+    ],
+    "titulo_cuerpo,": [
+      "111"
+    ],
+    "titulo_ésta.": [
+      "111"
+    ],
+    "titulo_curar": [
+      "111"
+    ],
+    "titulo_conflicto": [
+      "112",
+      "331",
+      "333"
+    ],
+    "titulo_entra": [
+      "112"
+    ],
+    "titulo_totalmente.": [
+      "112"
+    ],
+    "titulo_invertida": [
+      "112"
+    ],
+    "titulo_5esto": [
+      "112"
+    ],
+    "titulo_estos.": [
+      "113"
+    ],
+    "titulo_razón": [
+      "113"
+    ],
+    "titulo_desde": [
+      "113"
+    ],
+    "titulo_vista,": [
+      "113"
+    ],
+    "titulo_todo,": [
+      "114"
+    ],
+    "titulo_deseable\"": [
+      "114"
+    ],
+    "titulo_elegido": [
+      "114",
+      "329"
+    ],
+    "titulo_presión": [
+      "114"
+    ],
+    "titulo_deseable.": [
+      "114"
+    ],
+    "titulo_esforzarte,": [
+      "117"
+    ],
+    "titulo_invocar": [
+      "117"
+    ],
+    "titulo_eres.": [
+      "117"
+    ],
+    "titulo_8este": [
+      "117"
+    ],
+    "titulo_tener": [
+      "117",
+      "289"
+    ],
+    "titulo_reconocimiento": [
+      "117"
+    ],
+    "titulo_poder": [
+      "134"
+    ],
+    "titulo_perdón": [
+      "134",
+      "249",
+      "297",
+      "333"
+    ],
+    "titulo_percibir": [
+      "134"
+    ],
+    "titulo_permítaseme": [
+      "134"
+    ],
+    "titulo_contigo,": [
+      "145"
+    ],
+    "titulo_siempre": [
+      "145"
+    ],
+    "titulo_puedas": [
+      "145",
+      "362"
+    ],
+    "titulo_estoy": [
+      "145",
+      "245"
+    ],
+    "titulo_nadie,": [
+      "145"
+    ],
+    "titulo_memoria": [
+      "145"
+    ],
+    "titulo_recibir": [
+      "145"
+    ],
+    "titulo_puesto": [
+      "171"
+    ],
+    "titulo_sanado": [
+      "171"
+    ],
+    "titulo_mismo.": [
+      "171"
+    ],
+    "titulo_luación": [
+      "174"
+    ],
+    "titulo_aceptaste": [
+      "174"
+    ],
+    "titulo_estuviese": [
+      "174"
+    ],
+    "titulo_3ofrécele": [
+      "180"
+    ],
+    "titulo_creación.": [
+      "180"
+    ],
+    "titulo_dispuesto": [
+      "180",
+      "361"
+    ],
+    "titulo_estar": [
+      "180"
+    ],
+    "titulo_únicamente": [
+      "180",
+      "231",
+      "321"
+    ],
+    "titulo_mismo,": [
+      "181"
+    ],
+    "titulo_atacando": [
+      "181"
+    ],
+    "titulo_estás": [
+      "181",
+      "199"
+    ],
+    "titulo_crees": [
+      "181"
+    ],
+    "titulo_señal": [
+      "181"
+    ],
+    "titulo_odias": [
+      "181"
+    ],
+    "titulo_evidente": [
+      "181"
+    ],
+    "titulo_obstante,": [
+      "185"
+    ],
+    "titulo_siendo": [
+      "185"
+    ],
+    "titulo_chispa,": [
+      "185"
+    ],
+    "titulo_grandeza": [
+      "185"
+    ],
+    "titulo_sigue": [
+      "185"
+    ],
+    "titulo_pequeñez.": [
+      "185"
+    ],
+    "titulo_ambos": [
+      "188"
+    ],
+    "titulo_valores.": [
+      "188"
+    ],
+    "titulo_determinada": [
+      "188"
+    ],
+    "titulo_eternidad": [
+      "188"
+    ],
+    "titulo_priván": [
+      "199"
+    ],
+    "titulo_aceptarlo": [
+      "199"
+    ],
+    "titulo_mismo": [
+      "199",
+      "277"
+    ],
+    "titulo_empequeñeciendo": [
+      "199"
+    ],
+    "titulo_cuent": [
+      "199"
+    ],
+    "titulo_dónde": [
+      "213"
+    ],
+    "titulo_cosas": [
+      "213",
+      "275",
+      "311",
+      "325"
+    ],
+    "titulo_enseñarle": [
+      "213"
+    ],
+    "titulo_tesoro.": [
+      "213"
+    ],
+    "titulo_puedes": [
+      "213",
+      "261"
+    ],
+    "titulo_mundo,": [
+      "213"
+    ],
+    "titulo_pobres": [
+      "213"
+    ],
+    "titulo_aquieten": [
+      "221"
+    ],
+    "titulo_vida.": [
+      "223"
+    ],
+    "titulo_padre,": [
+      "225",
+      "231",
+      "321"
+    ],
+    "titulo_liberación": [
+      "227"
+    ],
+    "titulo_instanto": [
+      "227"
+    ],
+    "titulo_quiero": [
+      "237",
+      "311",
+      "345",
+      "365"
+    ],
+    "titulo_creado,": [
+      "239"
+    ],
+    "titulo_haber": [
+      "239"
+    ],
+    "titulo_culpabilidad": [
+      "239"
+    ],
+    "titulo_4ninguna": [
+      "239"
+    ],
+    "titulo_salvación": [
+      "241"
+    ],
+    "titulo_instante": [
+      "241"
+    ],
+    "titulo_salvo": [
+      "245"
+    ],
+    "titulo_padre.": [
+      "245"
+    ],
+    "titulo_conmigo,": [
+      "245"
+    ],
+    "titulo_testimonio": [
+      "247"
+    ],
+    "titulo_espera": [
+      "247"
+    ],
+    "titulo_llevas": [
+      "247"
+    ],
+    "titulo_milagros": [
+      "247",
+      "355",
+      "77"
+    ],
+    "titulo_sufrimiento": [
+      "249"
+    ],
+    "titulo_pérdida": [
+      "249"
+    ],
+    "titulo_sensación": [
+      "249"
+    ],
+    "titulo_recuerde": [
+      "259"
+    ],
+    "titulo_existe": [
+      "259"
+    ],
+    "titulo_pecado": [
+      "259"
+    ],
+    "titulo_conformarías": [
+      "261"
+    ],
+    "titulo_migajas,": [
+      "261"
+    ],
+    "titulo_cuenta": [
+      "261"
+    ],
+    "titulo_ofrecerte": [
+      "261"
+    ],
+    "titulo_mansedumbre": [
+      "265"
+    ],
+    "titulo_creación": [
+      "265",
+      "279"
+    ],
+    "titulo_único": [
+      "265",
+      "293",
+      "297"
+    ],
+    "titulo_corazón": [
+      "267"
+    ],
+    "titulo_busca": [
+      "269"
+    ],
+    "titulo_cristo": [
+      "269",
+      "271",
+      "305",
+      "349"
+    ],
+    "titulo_utilizaré": [
+      "271"
+    ],
+    "titulo_quietud": [
+      "273"
+    ],
+    "titulo_protege": [
+      "275",
+      "337"
+    ],
+    "titulo_sanadora": [
+      "275"
+    ],
+    "titulo_libertad": [
+      "279",
+      "321"
+    ],
+    "titulo_garantiza": [
+      "279"
+    ],
+    "titulo_pensamientos,": [
+      "281"
+    ],
+    "titulo_nada,": [
+      "281"
+    ],
+    "titulo_excepto": [
+      "281"
+    ],
+    "titulo_identidad": [
+      "283"
+    ],
+    "titulo_reside": [
+      "283",
+      "321"
+    ],
+    "titulo_clara": [
+      "285"
+    ],
+    "titulo_radiante": [
+      "285"
+    ],
+    "titulo_santidad": [
+      "285"
+    ],
+    "titulo_brilla": [
+      "285"
+    ],
+    "titulo_feliz": [
+      "289"
+    ],
+    "titulo_aceptación.": [
+      "289"
+    ],
+    "titulo_ansiosamente": [
+      "289"
+    ],
+    "titulo_conciencia": [
+      "289"
+    ],
+    "titulo_sosiego": [
+      "291"
+    ],
+    "titulo_miedo": [
+      "293",
+      "309",
+      "323"
+    ],
+    "titulo_acabó": [
+      "293"
+    ],
+    "titulo_través": [
+      "295"
+    ],
+    "titulo_regalo": [
+      "297"
+    ],
+    "titulo_amor.": [
+      "299"
+    ],
+    "titulo_unirse": [
+      "299"
+    ],
+    "titulo_escaparse": [
+      "299"
+    ],
+    "titulo_soledad": [
+      "299"
+    ],
+    "titulo_lágrimas": [
+      "301"
+    ],
+    "titulo_enjugará": [
+      "301"
+    ],
+    "titulo_pareces": [
+      "303"
+    ],
+    "titulo_ciones": [
+      "303"
+    ],
+    "titulo_destructor": [
+      "303"
+    ],
+    "titulo_especiales,": [
+      "303"
+    ],
+    "titulo_concede": [
+      "305"
+    ],
+    "titulo_deseos": [
+      "307"
+    ],
+    "titulo_conflictivos": [
+      "307"
+    ],
+    "titulo_tendré": [
+      "309"
+    ],
+    "titulo_mirar": [
+      "309"
+    ],
+    "titulo_dentro": [
+      "309"
+    ],
+    "titulo_juzgo": [
+      "311"
+    ],
+    "titulo_regalos": [
+      "315"
+    ],
+    "titulo_necen": [
+      "315"
+    ],
+    "titulo_hermanos": [
+      "315"
+    ],
+    "titulo_perte": [
+      "315"
+    ],
+    "titulo_señalado": [
+      "317"
+    ],
+    "titulo_camino": [
+      "317"
+    ],
+    "titulo_gustosamente": [
+      "323"
+    ],
+    "titulo_―sacrifico‖": [
+      "323"
+    ],
+    "titulo_ideas": [
+      "325"
+    ],
+    "titulo_reflejos": [
+      "325"
+    ],
+    "titulo_dispone": [
+      "235",
+      "329"
+    ],
+    "titulo_existe,": [
+      "331"
+    ],
+    "titulo_sueño": [
+      "333"
+    ],
+    "titulo_impecabilidad": [
+      "335",
+      "337",
+      "341"
+    ],
+    "titulo_atacar": [
+      "341"
+    ],
+    "titulo_puedo": [
+      "341"
+    ],
+    "titulo_propia": [
+      "341"
+    ],
+    "titulo_ingún": [
+      "343"
+    ],
+    "titulo_sacrificio": [
+      "343"
+    ],
+    "titulo_retornen": [
+      "345"
+    ],
+    "titulo_milagros,": [
+      "345"
+    ],
+    "titulo_ofrezco": [
+      "345"
+    ],
+    "titulo_juicios.": [
+      "347"
+    ],
+    "titulo_juici": [
+      "347"
+    ],
+    "titulo_boca,": [
+      "353"
+    ],
+    "titulo_ojos,": [
+      "353"
+    ],
+    "titulo_tienen": [
+      "353"
+    ],
+    "titulo_manos": [
+      "353"
+    ],
+    "titulo_otorga": [
+      "355"
+    ],
+    "titulo_vocación": [
+      "357"
+    ],
+    "titulo_contesta": [
+      "357"
+    ],
+    "titulo_hacemos": [
+      "357"
+    ],
+    "titulo_dolor": [
+      "359"
+    ],
+    "titulo_alguna": [
+      "359"
+    ],
+    "titulo_respuesta": [
+      "359"
+    ],
+    "titulo_contempla,": [
+      "361"
+    ],
+    "titulo_6este": [
+      "361"
+    ],
+    "titulo_ello?": [
+      "361"
+    ],
+    "titulo_conocer": [
+      "362"
+    ],
+    "titulo_separado.": [
+      "362"
+    ],
+    "titulo_bienve": [
+      "362"
+    ],
+    "titulo_podría": [
+      "363"
+    ],
+    "titulo_ello.": [
+      "363"
+    ],
+    "titulo_hablar": [
+      "363"
+    ],
+    "titulo_subyacente,": [
+      "363"
+    ],
+    "titulo_pendientemente": [
+      "364"
+    ],
+    "titulo_emplees,": [
+      "364"
+    ],
+    "titulo_imaginación": [
+      "364"
+    ],
+    "titulo_confundes": [
+      "364"
+    ],
+    "titulo_cuánta": [
+      "364"
+    ],
+    "titulo_seguirte": [
+      "365"
+    ],
+    "titulo_quien": [
+      "365"
+    ],
+    "titulo_dirige,": [
+      "365"
+    ],
+    "titulo_simplemente": [
+      "365"
+    ],
+    "titulo_derecho": [
+      "77"
+    ],
+    "titulo_creó,": [
+      "229"
+    ],
+    "titulo_amor,": [
+      "229"
+    ],
+    "titulo_recordarte": [
+      "231"
+    ],
+    "titulo_misericordia,": [
+      "235"
+    ],
+    "titulo_salve": [
+      "235"
+    ],
+    "titulo_juzgaré": [
+      "243"
+    ],
+    "titulo_ocurra": [
+      "243"
+    ],
+    "titulo_necesito": [
+      "251",
+      "327"
+    ],
+    "titulo_señor": [
+      "253"
+    ],
+    "titulo_universo": [
+      "253"
+    ],
+    "titulo_aprisione": [
+      "277"
+    ],
+    "titulo_inventé": [
+      "277"
+    ],
+    "titulo_leyes": [
+      "277"
+    ],
+    "titulo_meta,": [
+      "287"
+    ],
+    "titulo_padre": [
+      "287"
+    ],
+    "titulo_única": [
+      "287"
+    ],
+    "titulo_nueva": [
+      "313"
+    ],
+    "titulo_venga": [
+      "313"
+    ],
+    "titulo_llamar": [
+      "327"
+    ],
+    "titulo_contestarás": [
+      "327"
+    ],
+    "titulo_hermano": [
+      "335",
+      "351"
+    ],
+    "titulo_elijo": [
+      "335"
+    ],
+    "titulo_temple": [
+      "349"
+    ],
+    "titulo_impecable": [
+      "351"
+    ],
+    "titulo_necesa": [
+      "60"
+    ],
+    "titulo_2puesto": [
+      "60"
+    ],
+    "titulo_oración": [
+      "60"
+    ],
+    "titulo_habiendo": [
+      "60"
+    ],
+    "titulo_continúe": [
+      "60"
+    ],
+    "titulo_percepción,": [
+      "60"
+    ]
+  },
+  "lesson_details": {
+    "1": {
+      "title": "Nada de lo que veo en esta habitación [en esta call e,",
+      "word_count": 168745,
+      "concepts": [
+        "titulo_habitación"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_001.txt",
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9
+    },
+    "3": {
+      "title": "No entiendo nada d e lo que veo en esta habitación",
+      "word_count": 208,
+      "concepts": [
+        "titulo_habitación",
+        "titulo_entiendo"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_003.txt",
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9
+    },
+    "4": {
+      "title": "Estos p ensamientos no significan nada.",
+      "word_count": 167993,
+      "concepts": [
+        "titulo_significan",
+        "titulo_estos",
+        "titulo_nada.",
+        "titulo_ensamientos"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_004.txt",
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9
+    },
+    "16": {
+      "title": "No tengo pensamientos neutros.",
+      "word_count": 88784,
+      "concepts": [
+        "titulo_pensamientos",
+        "titulo_neutros.",
+        "titulo_tengo"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_016.txt",
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9
+    },
+    "49": {
+      "title": "La Voz de Dios me habla durante todo el día.",
+      "word_count": 397,
+      "concepts": [
+        "titulo_habla",
+        "titulo_durante"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_049.txt",
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9
+    },
+    "50": {
+      "title": "El Amor de Dios es mi sustento.",
+      "word_count": 867,
+      "concepts": [
+        "titulo_sustento."
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_050.txt",
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9
+    },
+    "64": {
+      "title": "No dejes que me olvide de mi función.",
+      "word_count": 689,
+      "concepts": [
+        "titulo_olvide",
+        "titulo_función.",
+        "titulo_dejes"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_064.txt",
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9
+    },
+    "142": {
+      "title": "Mi men te alberga sólo lo que pienso con Dios.",
+      "word_count": 21,
+      "concepts": [
+        "titulo_dios.",
+        "titulo_alberga",
+        "titulo_pienso"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_142.txt",
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9
+    },
+    "143": {
+      "title": "Mi mente alberga sólo lo que pienso con Dios.",
+      "word_count": 24,
+      "concepts": [
+        "titulo_dios.",
+        "titulo_alberga",
+        "titulo_pienso",
+        "titulo_mente"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_143.txt",
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9
+    },
+    "146": {
+      "title": "Mi mente alberga sólo lo que pienso con Dios.",
+      "word_count": 23,
+      "concepts": [
+        "titulo_dios.",
+        "titulo_alberga",
+        "titulo_pienso",
+        "titulo_mente"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_146.txt",
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9
+    },
+    "147": {
+      "title": "Mi mente alberga sólo lo que pienso con Dios.",
+      "word_count": 21,
+      "concepts": [
+        "titulo_dios.",
+        "titulo_alberga",
+        "titulo_pienso",
+        "titulo_mente"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_147.txt",
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9
+    },
+    "148": {
+      "title": "Mi ment e alberga sólo lo que pienso con Dios.",
+      "word_count": 52,
+      "concepts": [
+        "titulo_dios.",
+        "titulo_alberga",
+        "titulo_pienso"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_148.txt",
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9
+    },
+    "172": {
+      "title": "Dios es sólo Amor y, por ende, eso es lo que soy yo.",
+      "word_count": 43,
+      "concepts": [
+        "titulo_ende,"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_172.txt",
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9
+    },
+    "175": {
+      "title": "Dios es sólo Amor y, por ende, eso es lo que soy yo.",
+      "word_count": 51,
+      "concepts": [
+        "titulo_ende,"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_175.txt",
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9
+    },
+    "176": {
+      "title": "Dios es sólo Amor y, por ende, eso es lo que soy yo.",
+      "word_count": 109,
+      "concepts": [
+        "titulo_ende,"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_176.txt",
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9
+    },
+    "178": {
+      "title": "Dios es sólo Amor y, por ende, eso es lo que soy y o.",
+      "word_count": 47,
+      "concepts": [
+        "titulo_ende,"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_178.txt",
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9
+    },
+    "202": {
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 68,
+      "concepts": [
+        "titulo_cuerpo.",
+        "titulo_libre."
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_202.txt",
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9
+    },
+    "203": {
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 57,
+      "concepts": [
+        "titulo_cuerpo.",
+        "titulo_libre."
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_203.txt",
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9
+    },
+    "204": {
+      "title": "No soy un cuerpo. Soy lib re.",
+      "word_count": 157,
+      "concepts": [
+        "titulo_cuerpo."
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_204.txt",
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9
+    },
+    "206": {
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 55,
+      "concepts": [
+        "titulo_cuerpo.",
+        "titulo_libre."
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_206.txt",
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9
+    },
+    "207": {
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 67,
+      "concepts": [
+        "titulo_cuerpo.",
+        "titulo_libre."
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_207.txt",
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9
+    },
+    "208": {
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 66,
+      "concepts": [
+        "titulo_cuerpo.",
+        "titulo_libre."
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_208.txt",
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9
+    },
+    "209": {
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 71,
+      "concepts": [
+        "titulo_cuerpo.",
+        "titulo_libre."
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_209.txt",
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9
+    },
+    "210": {
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 146,
+      "concepts": [
+        "titulo_cuerpo.",
+        "titulo_libre."
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_210.txt",
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9
+    },
+    "214": {
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 71,
+      "concepts": [
+        "titulo_cuerpo.",
+        "titulo_libre."
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_214.txt",
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9
+    },
+    "215": {
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 60,
+      "concepts": [
+        "titulo_cuerpo.",
+        "titulo_libre."
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_215.txt",
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9
+    },
+    "216": {
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 57,
+      "concepts": [
+        "titulo_cuerpo.",
+        "titulo_libre."
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_216.txt",
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9
+    },
+    "217": {
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 63,
+      "concepts": [
+        "titulo_cuerpo.",
+        "titulo_libre."
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_217.txt",
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9
+    },
+    "218": {
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 61,
+      "concepts": [
+        "titulo_cuerpo.",
+        "titulo_libre."
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_218.txt",
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9
+    },
+    "219": {
+      "title": "No soy un cuerpo. Soy libre.",
+      "word_count": 69,
+      "concepts": [
+        "titulo_cuerpo.",
+        "titulo_libre."
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_219.txt",
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9
+    },
+    "262": {
+      "title": "No dejes q ue hoy perciba diferencias.",
+      "word_count": 158,
+      "concepts": [
+        "titulo_dejes",
+        "titulo_diferencias.",
+        "titulo_perciba"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_262.txt",
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9
+    },
+    "263": {
+      "title": "Mi santa visión ve la pureza de todas las cosas.",
+      "word_count": 150,
+      "concepts": [
+        "titulo_cosas.",
+        "titulo_todas",
+        "titulo_visión",
+        "titulo_pureza",
+        "titulo_santa"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_263.txt",
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9
+    },
+    "318": {
+      "title": "Yo soy el medio para la salvación, así como su fin.",
+      "word_count": 321,
+      "concepts": [
+        "titulo_medio",
+        "titulo_salvación,"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_318.txt",
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9
+    },
+    "338": {
+      "title": "Sólo mis propios pensamientos pueden afectarme.",
+      "word_count": 178,
+      "concepts": [
+        "titulo_pensamientos",
+        "titulo_propios",
+        "titulo_pueden",
+        "titulo_afectarme."
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_338.txt",
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9
+    },
+    "339": {
+      "title": "Se me concederá todo lo que pida.",
+      "word_count": 164,
+      "concepts": [
+        "titulo_concederá",
+        "titulo_pida."
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_339.txt",
+      "extraction_method": "traditional_pattern",
+      "confidence": 0.9
+    },
+    "22": {
+      "title": "Durante quince minutos, en dos ocasiones hoy, nos abstendre mos de elaborar",
+      "word_count": 61,
+      "concepts": [
+        "titulo_durante",
+        "titulo_abstendre",
+        "titulo_elaborar",
+        "titulo_minutos,",
+        "titulo_quince",
+        "titulo_ocasiones"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_022.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "23": {
+      "title": "Eso es todo. 2Si tienes que hacer planes, ya se te dirá cuáles son. 3Puede que no",
+      "word_count": 49,
+      "concepts": [
+        "titulo_3puede",
+        "titulo_todo.",
+        "titulo_hacer",
+        "titulo_cuáles",
+        "titulo_tienes",
+        "titulo_planes,"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_023.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "7": {
+      "title": "Y ahora el conocimiento de Dios, inmutable, absoluto, puro y completamente",
+      "word_count": 1689,
+      "concepts": [
+        "titulo_ahora",
+        "titulo_conocimiento",
+        "titulo_dios,",
+        "titulo_absoluto,",
+        "titulo_completamente",
+        "titulo_inmutable,"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_007.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "12": {
+      "title": "En él no hay condenación. 2Es perfecto en su santidad. 3No necesita",
+      "word_count": 35085,
+      "concepts": [
+        "titulo_condenación.",
+        "titulo_perfecto",
+        "titulo_necesita",
+        "titulo_santidad."
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_012.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "13": {
+      "title": "Y Su Juicio les llega a todos los que se hacen a un lado, y escuchando",
+      "word_count": 1042,
+      "concepts": [
+        "titulo_escuchando",
+        "titulo_todos",
+        "titulo_hacen",
+        "titulo_llega",
+        "titulo_juicio",
+        "titulo_lado,"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_013.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "17": {
+      "title": "Sin embargo, cuando podamos hacerlo, seremos fieles a nues tro cometido",
+      "word_count": 57,
+      "concepts": [
+        "titulo_cometido",
+        "titulo_fieles",
+        "titulo_embargo,",
+        "titulo_cuando",
+        "titulo_podamos",
+        "titulo_seremos",
+        "titulo_hacerlo,"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_017.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "18": {
+      "title": "Con el tiempo y la práctica nunca más dejarás de pensar en Él o de oír Su",
+      "word_count": 81,
+      "concepts": [
+        "titulo_dejarás",
+        "titulo_tiempo",
+        "titulo_nunca",
+        "titulo_pensar"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_018.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "19": {
+      "title": "Nuestro tema de hoy es nuestra indefensión. 2Nos revestimos de ella mientras",
+      "word_count": 83,
+      "concepts": [
+        "titulo_mientras",
+        "titulo_nuestro",
+        "titulo_nuestra",
+        "titulo_revestimos",
+        "titulo_indefensión."
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_019.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "21": {
+      "title": "Esperaremos hoy con gran expectación ese momento llenos de absoluta",
+      "word_count": 71,
+      "concepts": [
+        "titulo_esperaremos",
+        "titulo_llenos",
+        "titulo_expectación",
+        "titulo_momento",
+        "titulo_absoluta"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_021.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "24": {
+      "title": "El propósito de todas tus defensas ha sido impedir que recibas lo que has de",
+      "word_count": 65,
+      "concepts": [
+        "titulo_todas",
+        "titulo_defensas",
+        "titulo_impedir",
+        "titulo_propósito",
+        "titulo_recibas"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_024.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "25": {
+      "title": "Él se ha acordado de ti. 2Hoy nosotros nos acordaremos de Él. 3Pues ésta es la",
+      "word_count": 74,
+      "concepts": [
+        "titulo_nosotros",
+        "titulo_acordaremos",
+        "titulo_acordado",
+        "titulo_3pues"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_025.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "33": {
+      "title": "creaciones porque Él las creó. 4Creer en algo pro duce la aceptación de su existencia.",
+      "word_count": 332054,
+      "concepts": [
+        "titulo_existencia.",
+        "titulo_porque",
+        "titulo_creó.",
+        "titulo_aceptación",
+        "titulo_4creer",
+        "titulo_creaciones"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_033.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "48": {
+      "title": "No hay nada que temer  .............................................. .................. ....... 686",
+      "word_count": 27012,
+      "concepts": [
+        "titulo_temer"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_048.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "52": {
+      "title": "imposible es esta suposición, y también de que procede enteramente de la proyección.",
+      "word_count": 284834,
+      "concepts": [
+        "titulo_suposición,",
+        "titulo_enteramente",
+        "titulo_imposible",
+        "titulo_procede",
+        "titulo_también",
+        "titulo_proyección."
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_052.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "54": {
+      "title": "Santísima Trinidad, pero la Trinidad en sí es una sola entidad. 5No hay con fusión",
+      "word_count": 295761,
+      "concepts": [
+        "titulo_fusión",
+        "titulo_trinidad,",
+        "titulo_entidad.",
+        "titulo_santísima",
+        "titulo_trinidad"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_054.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "56": {
+      "title": "cono ciéndolos. 11Los reconoce perfectamente. 12Cuando ellos no se reconocen entre",
+      "word_count": 545,
+      "concepts": [
+        "titulo_reconoce",
+        "titulo_reconocen",
+        "titulo_perfectamente.",
+        "titulo_entre",
+        "titulo_ellos",
+        "titulo_11los",
+        "titulo_12cuando",
+        "titulo_ciéndolos."
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_056.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "57": {
+      "title": "percepción fidedigna. 4Es un estado de mentalidad milagrosa porque sana la percep -",
+      "word_count": 585,
+      "concepts": [
+        "titulo_porque",
+        "titulo_milagrosa",
+        "titulo_percepción",
+        "titulo_estado",
+        "titulo_fidedigna.",
+        "titulo_mentalidad",
+        "titulo_percep"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_057.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "58": {
+      "title": "pocos los que eligen escuchar.\" 13Por lo tanto, no eligen correctamen te. 14Los",
+      "word_count": 498,
+      "concepts": [
+        "titulo_pocos",
+        "titulo_escuchar.\"",
+        "titulo_tanto,",
+        "titulo_eligen",
+        "titulo_13por",
+        "titulo_14los",
+        "titulo_correctamen"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_058.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "59": {
+      "title": "se refiere a la percepción que se tiene del significado. 3Tales incongruencias son el",
+      "word_count": 556,
+      "concepts": [
+        "titulo_percepción",
+        "titulo_refiere",
+        "titulo_incongruencias",
+        "titulo_3tales",
+        "titulo_significado.",
+        "titulo_tiene"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_059.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "63": {
+      "title": "La luz del mundo le brin da paz a todas las mentes",
+      "word_count": 33886,
+      "concepts": [
+        "titulo_todas",
+        "titulo_mundo",
+        "titulo_mentes"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_063.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "71": {
+      "title": "eso es por lo que el amor propio, tal como el ego lo concibe, no puede por menos que",
+      "word_count": 311657,
+      "concepts": [
+        "titulo_menos",
+        "titulo_concibe,",
+        "titulo_puede",
+        "titulo_propio,"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_071.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "72": {
+      "title": "Abrigar resentimientos es un ataque",
+      "word_count": 11,
+      "concepts": [
+        "titulo_ataque",
+        "titulo_abrigar",
+        "titulo_resentimientos"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_072.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "81": {
+      "title": "verdadera relación que tiene contigo. 6Ésa es tu realidad. 7No la profanes ni la",
+      "word_count": 531,
+      "concepts": [
+        "titulo_tiene",
+        "titulo_contigo.",
+        "titulo_profanes",
+        "titulo_relación",
+        "titulo_verdadera",
+        "titulo_realidad."
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_081.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "82": {
+      "title": "Capítulo 5",
+      "word_count": 429,
+      "concepts": [
+        "titulo_capítulo"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_082.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "83": {
+      "title": "porque la revelación es una experiencia de pura dicha. 4Si no eliges ser",
+      "word_count": 530,
+      "concepts": [
+        "titulo_porque",
+        "titulo_eliges",
+        "titulo_revelación",
+        "titulo_experiencia",
+        "titulo_dicha."
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_083.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "84": {
+      "title": "listo para fluir a cualquier parte, pero no puede oponerse a nada. 11Puedes, por",
+      "word_count": 499,
+      "concepts": [
+        "titulo_nada.",
+        "titulo_puede",
+        "titulo_listo",
+        "titulo_fluir",
+        "titulo_parte,",
+        "titulo_11puedes,",
+        "titulo_cualquier",
+        "titulo_oponerse"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_084.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "85": {
+      "title": "separación renunciando a ella. 5Tu voluntad se enc uentra todavía en ti porque Dios",
+      "word_count": 589,
+      "concepts": [
+        "titulo_porque",
+        "titulo_renunciando",
+        "titulo_uentra",
+        "titulo_todavía",
+        "titulo_voluntad",
+        "titulo_ella.",
+        "titulo_separación"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_085.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "86": {
+      "title": "diferente. 6Elegir implica que la mente está divi dida. 7El Espíritu Santo es una de",
+      "word_count": 617,
+      "concepts": [
+        "titulo_mente",
+        "titulo_implica",
+        "titulo_santo",
+        "titulo_diferente.",
+        "titulo_6elegir",
+        "titulo_espíritu",
+        "titulo_dida."
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_086.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "87": {
+      "title": "parte del Reino que la de restituirlo a la per fecta integración que  le devuelve la",
+      "word_count": 403987,
+      "concepts": [
+        "titulo_restituirlo",
+        "titulo_reino",
+        "titulo_devuelve",
+        "titulo_integración",
+        "titulo_parte",
+        "titulo_fecta"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_087.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "89": {
+      "title": "reaccionarás con saña porque la idea de peligro se habrá adentrado en tu mente.",
+      "word_count": 561,
+      "concepts": [
+        "titulo_porque",
+        "titulo_habrá",
+        "titulo_mente.",
+        "titulo_adentrado",
+        "titulo_peligro",
+        "titulo_reaccionarás"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_089.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "90": {
+      "title": "verdad está más allá de tu capacidad para destruir; aceptarla, en cambio, está ente -",
+      "word_count": 301056,
+      "concepts": [
+        "titulo_aceptarla,",
+        "titulo_capacidad",
+        "titulo_cambio,",
+        "titulo_verdad",
+        "titulo_destruir;"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_090.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "93": {
+      "title": "La luz, la dicha y la paz moran en mí  .......................................... ....... 766",
+      "word_count": 53444,
+      "concepts": [
+        "titulo_dicha",
+        "titulo_moran"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_093.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "97": {
+      "title": "de ti porque te ama. 6Su Voz te recuerda continuamente que tienes motivos para",
+      "word_count": 297163,
+      "concepts": [
+        "titulo_tienes",
+        "titulo_porque",
+        "titulo_recuerda",
+        "titulo_continuamente",
+        "titulo_motivos"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_097.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "108": {
+      "title": "sidad de aliados, aunque no de hermanos. 5Al percibi r en tu mente algo ajeno a sí",
+      "word_count": 464220,
+      "concepts": [
+        "titulo_mente",
+        "titulo_hermanos.",
+        "titulo_aliados,",
+        "titulo_aunque",
+        "titulo_ajeno",
+        "titulo_sidad",
+        "titulo_percibi"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_108.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "111": {
+      "title": "ésta. 6Si la mente puede curar al cuerpo, pero el cuerpo no puede curar a la mente,",
+      "word_count": 566,
+      "concepts": [
+        "titulo_mente",
+        "titulo_puede",
+        "titulo_cuerpo",
+        "titulo_mente,",
+        "titulo_cuerpo,",
+        "titulo_ésta.",
+        "titulo_curar"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_111.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "112": {
+      "title": "totalmente. 5Esto entra en conflicto con la percepción invertida que todavía no has",
+      "word_count": 539,
+      "concepts": [
+        "titulo_percepción",
+        "titulo_todavía",
+        "titulo_conflicto",
+        "titulo_entra",
+        "titulo_totalmente.",
+        "titulo_invertida",
+        "titulo_5esto"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_112.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "113": {
+      "title": "de estos. 9Ésa es la verdadera razón de que, desde cualquier punt o de vista, la pri -",
+      "word_count": 552,
+      "concepts": [
+        "titulo_verdadera",
+        "titulo_cualquier",
+        "titulo_estos.",
+        "titulo_razón",
+        "titulo_desde",
+        "titulo_vista,"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_113.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "114": {
+      "title": "elegido la más deseable. 5Con todo, la ex presión \"más deseable\" aún implica que lo",
+      "word_count": 460664,
+      "concepts": [
+        "titulo_implica",
+        "titulo_todo,",
+        "titulo_deseable\"",
+        "titulo_elegido",
+        "titulo_presión",
+        "titulo_deseable."
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_114.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "117": {
+      "title": "tener que esforzarte, e invocar al Ser que tienes y que eres. 8Este reconocimiento no",
+      "word_count": 355127,
+      "concepts": [
+        "titulo_tienes",
+        "titulo_esforzarte,",
+        "titulo_invocar",
+        "titulo_eres.",
+        "titulo_8este",
+        "titulo_tener",
+        "titulo_reconocimiento"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_117.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "134": {
+      "title": "Permítaseme poder percibir el perdón tal como es  ..............................  846",
+      "word_count": 84003,
+      "concepts": [
+        "titulo_poder",
+        "titulo_perdón",
+        "titulo_percibir",
+        "titulo_permítaseme"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_134.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "141": {
+      "title": "Capítulo 8",
+      "word_count": 367376,
+      "concepts": [
+        "titulo_capítulo"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_141.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "145": {
+      "title": "nadie, para que así la puedas recibir tú. 8Yo estoy siempre contigo, en memoria",
+      "word_count": 365214,
+      "concepts": [
+        "titulo_contigo,",
+        "titulo_siempre",
+        "titulo_puedas",
+        "titulo_estoy",
+        "titulo_nadie,",
+        "titulo_memoria",
+        "titulo_recibir"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_145.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "171": {
+      "title": "sanado no puede hacer eso por él, puesto que no lo puede hacer para sí mismo. 4La",
+      "word_count": 373033,
+      "concepts": [
+        "titulo_hacer",
+        "titulo_puede",
+        "titulo_puesto",
+        "titulo_sanado",
+        "titulo_mismo."
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_171.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "174": {
+      "title": "también en tu mente porque aceptaste que estuviese ahí. 5La eva luación que él hace",
+      "word_count": 371504,
+      "concepts": [
+        "titulo_mente",
+        "titulo_porque",
+        "titulo_también",
+        "titulo_luación",
+        "titulo_aceptaste",
+        "titulo_estuviese"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_174.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "180": {
+      "title": "creación. 3Ofrécele al Espí ritu Santo únicamente tu voluntad de estar dispuesto a",
+      "word_count": 534,
+      "concepts": [
+        "titulo_voluntad",
+        "titulo_santo",
+        "titulo_3ofrécele",
+        "titulo_creación.",
+        "titulo_dispuesto",
+        "titulo_estar",
+        "titulo_únicamente"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_180.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "181": {
+      "title": "estás atacando a ti mismo, ello es señal evidente de que odias lo que crees ser. 5Y",
+      "word_count": 251030,
+      "concepts": [
+        "titulo_mismo,",
+        "titulo_atacando",
+        "titulo_estás",
+        "titulo_crees",
+        "titulo_señal",
+        "titulo_odias",
+        "titulo_evidente"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_181.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "185": {
+      "title": "la grandeza a la pequeñez. 6La chispa, no obstante, sigue siendo tan pura como la",
+      "word_count": 248600,
+      "concepts": [
+        "titulo_obstante,",
+        "titulo_siendo",
+        "titulo_chispa,",
+        "titulo_grandeza",
+        "titulo_sigue",
+        "titulo_pequeñez."
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_185.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "188": {
+      "title": "determinada por lo que valores. 8El tiempo y la eternidad no pueden ser ambos rea -",
+      "word_count": 246814,
+      "concepts": [
+        "titulo_pueden",
+        "titulo_tiempo",
+        "titulo_ambos",
+        "titulo_valores.",
+        "titulo_determinada",
+        "titulo_eternidad"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_188.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "199": {
+      "title": "ses cuent a de que al aceptarlo te estás empequeñeciendo y priván dote a ti mismo de",
+      "word_count": 241039,
+      "concepts": [
+        "titulo_estás",
+        "titulo_priván",
+        "titulo_aceptarlo",
+        "titulo_mismo",
+        "titulo_empequeñeciendo",
+        "titulo_cuent"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_199.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "200": {
+      "title": "No hay más paz que la paz de Dios  ................................................ .......... 976",
+      "word_count": 139411,
+      "concepts": [],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_200.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "213": {
+      "title": "de las cosas de este mundo, puedes enseñarle a  los pobres dónde está su tesoro. 3Los",
+      "word_count": 373348,
+      "concepts": [
+        "titulo_dónde",
+        "titulo_cosas",
+        "titulo_enseñarle",
+        "titulo_tesoro.",
+        "titulo_puedes",
+        "titulo_mundo,",
+        "titulo_pobres"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_213.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "221": {
+      "title": "Que mi mente esté en paz y que todos mis pensamientos se aquieten  ..... 994",
+      "word_count": 142355,
+      "concepts": [
+        "titulo_pensamientos",
+        "titulo_mente",
+        "titulo_todos",
+        "titulo_aquieten"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_221.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "223": {
+      "title": "Dios es mi vida. No tengo otra vida que la Suya  ...................................... 995",
+      "word_count": 142637,
+      "concepts": [
+        "titulo_tengo",
+        "titulo_vida."
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_223.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "225": {
+      "title": "Diso es mi Padre, y Su Hijo lo ama  ...................................... .................... 996",
+      "word_count": 142923,
+      "concepts": [
+        "titulo_padre,"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_225.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "227": {
+      "title": "Éste es el instanto santo de mi liberación  ................................................. 997",
+      "word_count": 143193,
+      "concepts": [
+        "titulo_santo",
+        "titulo_liberación",
+        "titulo_instanto"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_227.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "233": {
+      "title": "Hoy le doy mi vida a Dios para que Él la guíe  .......................................  1001",
+      "word_count": 144393,
+      "concepts": [],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_233.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "237": {
+      "title": "Ahora quiero ser tal como Dios em creó  .................................... ............  1003",
+      "word_count": 144967,
+      "concepts": [
+        "titulo_ahora",
+        "titulo_quiero"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_237.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "239": {
+      "title": "Él es tal como fue creado, no puede haber culpabilidad en Él. 4Ninguna nube de",
+      "word_count": 363464,
+      "concepts": [
+        "titulo_puede",
+        "titulo_creado,",
+        "titulo_haber",
+        "titulo_culpabilidad",
+        "titulo_4ninguna"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_239.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "241": {
+      "title": "En este instante santo llega la salvación  .................................... ............. 1006",
+      "word_count": 145948,
+      "concepts": [
+        "titulo_llega",
+        "titulo_santo",
+        "titulo_salvación",
+        "titulo_instante"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_241.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "245": {
+      "title": "Tu paz está conmigo, Padre. Estoy a salvo  ..................................... ........ 1008",
+      "word_count": 146490,
+      "concepts": [
+        "titulo_estoy",
+        "titulo_salvo",
+        "titulo_padre.",
+        "titulo_conmigo,"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_245.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "247": {
+      "title": "espera a que des testimonio de Su Hijo y de Él. 5Los milagros que llevas a cabo en la",
+      "word_count": 360226,
+      "concepts": [
+        "titulo_testimonio",
+        "titulo_espera",
+        "titulo_llevas",
+        "titulo_milagros"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_247.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "249": {
+      "title": "El perdón pone fin a todo sufrimiento  y a toda sensación de pérdida  .... 1010",
+      "word_count": 147024,
+      "concepts": [
+        "titulo_perdón",
+        "titulo_sufrimiento",
+        "titulo_pérdida",
+        "titulo_sensación"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_249.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "255": {
+      "title": "Capítulo 14",
+      "word_count": 357231,
+      "concepts": [
+        "titulo_capítulo"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_255.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "257": {
+      "title": "Que no me olvide de mi propósito  .......................................................... 1015",
+      "word_count": 148553,
+      "concepts": [
+        "titulo_olvide",
+        "titulo_propósito"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_257.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "259": {
+      "title": "Que recuerde que el pecado no existe  ................ ..................................... 1016",
+      "word_count": 148831,
+      "concepts": [
+        "titulo_recuerde",
+        "titulo_existe",
+        "titulo_pecado"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_259.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "261": {
+      "title": "conformarías con unas migajas, que es  todo lo que por tu cuenta puedes ofrecerte a",
+      "word_count": 355096,
+      "concepts": [
+        "titulo_puedes",
+        "titulo_conformarías",
+        "titulo_migajas,",
+        "titulo_cuenta",
+        "titulo_ofrecerte"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_261.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "265": {
+      "title": "Lo único que veo es la mansedumbre de la creación  .............................. 1020",
+      "word_count": 150132,
+      "concepts": [
+        "titulo_mansedumbre",
+        "titulo_creación",
+        "titulo_único"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_265.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "267": {
+      "title": "Mi corazón late en la paz de Dios  ........................................................... 1021",
+      "word_count": 150439,
+      "concepts": [
+        "titulo_corazón"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_267.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "269": {
+      "title": "Mi vi sta va en busca de la faz de Cristo  .................................................. 1022",
+      "word_count": 150721,
+      "concepts": [
+        "titulo_busca",
+        "titulo_cristo"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_269.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "271": {
+      "title": "Hoy sólo utilizaré la visión de Cristo  ...................................................... 1024",
+      "word_count": 151496,
+      "concepts": [
+        "titulo_visión",
+        "titulo_cristo",
+        "titulo_utilizaré"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_271.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "273": {
+      "title": "Mía es la quietud d e la paz de Dios  ........................................................ 1025",
+      "word_count": 151782,
+      "concepts": [
+        "titulo_quietud"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_273.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "275": {
+      "title": "La sanadora Voz de Dios protege hoy todas las cosas  ........................... 1026",
+      "word_count": 152063,
+      "concepts": [
+        "titulo_todas",
+        "titulo_cosas",
+        "titulo_protege",
+        "titulo_sanadora"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_275.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "279": {
+      "title": "La libertad  de la creación garantiza la mía  ............................................. 1028",
+      "word_count": 152687,
+      "concepts": [
+        "titulo_creación",
+        "titulo_libertad",
+        "titulo_garantiza"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_279.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "281": {
+      "title": "Nada, excepto mis propios pensamientos, me puede hacer daño  ........... 1030",
+      "word_count": 153409,
+      "concepts": [
+        "titulo_propios",
+        "titulo_hacer",
+        "titulo_puede",
+        "titulo_pensamientos,",
+        "titulo_nada,",
+        "titulo_excepto"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_281.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "283": {
+      "title": "Mi verdadera Identidad reside en Ti  ............. .......................................... 1031",
+      "word_count": 153684,
+      "concepts": [
+        "titulo_verdadera",
+        "titulo_identidad",
+        "titulo_reside"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_283.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "285": {
+      "title": "Mi santidad brilla clara y radiante hoy  ................................................... 1032",
+      "word_count": 153999,
+      "concepts": [
+        "titulo_clara",
+        "titulo_radiante",
+        "titulo_santidad",
+        "titulo_brilla"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_285.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "289": {
+      "title": "ansiosamente tu aceptación. 9Sin embargo, no puede s tener una conciencia feliz de",
+      "word_count": 343701,
+      "concepts": [
+        "titulo_embargo,",
+        "titulo_puede",
+        "titulo_tener",
+        "titulo_feliz",
+        "titulo_aceptación.",
+        "titulo_ansiosamente",
+        "titulo_conciencia"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_289.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "291": {
+      "title": "Éste es un día de sosiego y de paz  .......................................................... 1036",
+      "word_count": 155344,
+      "concepts": [
+        "titulo_sosiego"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_291.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "293": {
+      "title": "El miedo ya se acabó y lo único que hay aquí es amor  .......................... 1037",
+      "word_count": 155673,
+      "concepts": [
+        "titulo_único",
+        "titulo_miedo",
+        "titulo_acabó"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_293.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "295": {
+      "title": "El Espíritu Santo ve hoy a través de mí  .................................................. 103 8",
+      "word_count": 156002,
+      "concepts": [
+        "titulo_santo",
+        "titulo_espíritu",
+        "titulo_través"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_295.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "297": {
+      "title": "El perdón es el único regalo que doy  ...................................................... 1039",
+      "word_count": 156276,
+      "concepts": [
+        "titulo_perdón",
+        "titulo_único",
+        "titulo_regalo"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_297.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "299": {
+      "title": "a todo el mundo a escaparse de la soledad y a unirse a ti en tu amor. 9Y todo el",
+      "word_count": 339826,
+      "concepts": [
+        "titulo_mundo",
+        "titulo_amor.",
+        "titulo_unirse",
+        "titulo_escaparse",
+        "titulo_soledad"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_299.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "301": {
+      "title": "Y Dios M ismo enjugará todas las lágrimas ............... ............................. 1042",
+      "word_count": 157277,
+      "concepts": [
+        "titulo_todas",
+        "titulo_lágrimas",
+        "titulo_enjugará"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_301.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "303": {
+      "title": "en tus rela ciones especiales, en las que en parte pareces ser destructor y en parte",
+      "word_count": 338488,
+      "concepts": [
+        "titulo_parte",
+        "titulo_pareces",
+        "titulo_ciones",
+        "titulo_destructor",
+        "titulo_especiales,"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_303.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "305": {
+      "title": "Hay una paz que Cristo nos concede  ................................ ...................... 1044",
+      "word_count": 157874,
+      "concepts": [
+        "titulo_cristo",
+        "titulo_concede"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_305.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "307": {
+      "title": "Abrigar deseos conflictivos no puede ser mi voluntad  ........................... 1045",
+      "word_count": 158176,
+      "concepts": [
+        "titulo_puede",
+        "titulo_abrigar",
+        "titulo_voluntad",
+        "titulo_deseos",
+        "titulo_conflictivos"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_307.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "309": {
+      "title": "Hoy no tendré miedo de mirar dentro de mí  ......................... .................. 1046",
+      "word_count": 158477,
+      "concepts": [
+        "titulo_miedo",
+        "titulo_tendré",
+        "titulo_mirar",
+        "titulo_dentro"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_309.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "311": {
+      "title": "Juzgo todas las cosas como quiero que sean  ......... .................................. 1048",
+      "word_count": 159229,
+      "concepts": [
+        "titulo_todas",
+        "titulo_cosas",
+        "titulo_quiero",
+        "titulo_juzgo"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_311.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "315": {
+      "title": "Todos los regalos que mis hermanos hacen me perte necen  .................... 1050",
+      "word_count": 159842,
+      "concepts": [
+        "titulo_todos",
+        "titulo_hacen",
+        "titulo_regalos",
+        "titulo_necen",
+        "titulo_hermanos",
+        "titulo_perte"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_315.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "317": {
+      "title": "Sigo el camino que se me ha señalado  .................... ................................ 1051",
+      "word_count": 160173,
+      "concepts": [
+        "titulo_señalado",
+        "titulo_camino"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_317.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "321": {
+      "title": "Padre, mi libertad reside únicamente en Ti  ......................... ....................  1054",
+      "word_count": 161183,
+      "concepts": [
+        "titulo_únicamente",
+        "titulo_padre,",
+        "titulo_libertad",
+        "titulo_reside"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_321.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "323": {
+      "title": "Gustosamente ―sacrifico‖ el miedo  ........................................ .................  1055",
+      "word_count": 161486,
+      "concepts": [
+        "titulo_miedo",
+        "titulo_gustosamente",
+        "titulo_―sacrifico‖"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_323.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "325": {
+      "title": "Todas las cosas que creo ver son reflejos de ideas  ............... ..................  1056",
+      "word_count": 161824,
+      "concepts": [
+        "titulo_todas",
+        "titulo_cosas",
+        "titulo_ideas",
+        "titulo_reflejos"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_325.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "329": {
+      "title": "He elegido ya lo que Tu Voluntad dispone  ................................... ......... 1058",
+      "word_count": 162521,
+      "concepts": [
+        "titulo_voluntad",
+        "titulo_elegido",
+        "titulo_dispone"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_329.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "331": {
+      "title": "El conflicto no existe, pues mi voluntad es la Tuya  ...................... ......... 1060",
+      "word_count": 163280,
+      "concepts": [
+        "titulo_voluntad",
+        "titulo_conflicto",
+        "titulo_existe,"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_331.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "333": {
+      "title": "El perdón pone fin al sueño de conflicto  ..................................... ...........  1061",
+      "word_count": 163596,
+      "concepts": [
+        "titulo_conflicto",
+        "titulo_perdón",
+        "titulo_sueño"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_333.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "337": {
+      "title": "Mi impecabilidad me protege de todo daño  ............................... .............  1063",
+      "word_count": 164282,
+      "concepts": [
+        "titulo_protege",
+        "titulo_impecabilidad"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_337.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "341": {
+      "title": "Tan sólo puedo atacar mi propia impecabilidad ,",
+      "word_count": 165340,
+      "concepts": [
+        "titulo_impecabilidad",
+        "titulo_atacar",
+        "titulo_puedo",
+        "titulo_propia"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_341.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "343": {
+      "title": "No se me pide que haga n ingún sacrificio para",
+      "word_count": 165631,
+      "concepts": [
+        "titulo_ingún",
+        "titulo_sacrificio"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_343.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "345": {
+      "title": "Hoy sólo ofrezco milagros, pues quiero que retornen a mí . ...................  1068",
+      "word_count": 165943,
+      "concepts": [
+        "titulo_quiero",
+        "titulo_retornen",
+        "titulo_milagros,",
+        "titulo_ofrezco"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_345.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "347": {
+      "title": "La ira procede de los juicios. Y los juici os son el",
+      "word_count": 166275,
+      "concepts": [
+        "titulo_procede",
+        "titulo_juicios.",
+        "titulo_juici"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_347.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "353": {
+      "title": "Mis ojos, mi boca, mis manos y mis pies tienen hoy un solo",
+      "word_count": 167373,
+      "concepts": [
+        "titulo_boca,",
+        "titulo_ojos,",
+        "titulo_tienen",
+        "titulo_manos"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_353.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "355": {
+      "title": "La paz, la di cha y los milagros que otorga ré",
+      "word_count": 167551,
+      "concepts": [
+        "titulo_milagros",
+        "titulo_otorga"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_355.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "357": {
+      "title": "La verdad contesta toda in vocación que le hacemos a Dios,",
+      "word_count": 167739,
+      "concepts": [
+        "titulo_dios,",
+        "titulo_verdad",
+        "titulo_vocación",
+        "titulo_contesta",
+        "titulo_hacemos"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_357.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "359": {
+      "title": "La respuesta de Dios es alguna f orma de paz. Todo dolor",
+      "word_count": 167998,
+      "concepts": [
+        "titulo_dolor",
+        "titulo_alguna",
+        "titulo_respuesta"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_359.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "361": {
+      "title": "contempla, que aunque no ve nada está dispuesto a dar la vida por ello? 6Este",
+      "word_count": 581,
+      "concepts": [
+        "titulo_aunque",
+        "titulo_dispuesto",
+        "titulo_contempla,",
+        "titulo_6este",
+        "titulo_ello?"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_361.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "362": {
+      "title": "bienve nida al amor por separado. 4Es tan imposible que tú puedas conocer a Dios",
+      "word_count": 536,
+      "concepts": [
+        "titulo_imposible",
+        "titulo_puedas",
+        "titulo_conocer",
+        "titulo_separado.",
+        "titulo_bienve"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_362.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "363": {
+      "title": "subyacente, pues el cuerpo no podría hablar de ello. 6Sus ojos no  lo pueden",
+      "word_count": 583,
+      "concepts": [
+        "titulo_pueden",
+        "titulo_cuerpo",
+        "titulo_podría",
+        "titulo_ello.",
+        "titulo_hablar",
+        "titulo_subyacente,"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_363.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "364": {
+      "title": "e inde pendientemente de cuánta imaginación emplees, no lo confundes con el",
+      "word_count": 146945,
+      "concepts": [
+        "titulo_pendientemente",
+        "titulo_emplees,",
+        "titulo_imaginación",
+        "titulo_confundes",
+        "titulo_cuánta"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_364.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "365": {
+      "title": "Sé Tú Quien dirige, pues quiero simplemente seguirte ,",
+      "word_count": 169420,
+      "concepts": [
+        "titulo_quiero",
+        "titulo_seguirte",
+        "titulo_quien",
+        "titulo_dirige,",
+        "titulo_simplemente"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_365.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "74": {
+      "title": "No hay más voluntad que la de Dios  .................................... ..............  736",
+      "word_count": 49910,
+      "concepts": [
+        "titulo_voluntad"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_074.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "77": {
+      "title": "Tengo derecho a los milagros  .................................................... ......... 742",
+      "word_count": 61704,
+      "concepts": [
+        "titulo_tengo",
+        "titulo_milagros",
+        "titulo_derecho"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_077.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "229": {
+      "title": "El Amor, que es lo que me creó, es lo que soy  ......................................... 998",
+      "word_count": 143447,
+      "concepts": [
+        "titulo_creó,",
+        "titulo_amor,"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_229.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "231": {
+      "title": "Padre, mi voluntad es únicamente recordarte  ......................................... 1000",
+      "word_count": 144111,
+      "concepts": [
+        "titulo_voluntad",
+        "titulo_únicamente",
+        "titulo_padre,",
+        "titulo_recordarte"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_231.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "235": {
+      "title": "Dios, en Su misericordia, dispone que yo me salve  ................ ................  1002",
+      "word_count": 144697,
+      "concepts": [
+        "titulo_dios,",
+        "titulo_dispone",
+        "titulo_misericordia,",
+        "titulo_salve"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_235.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "243": {
+      "title": "Hoy no juzgaré nada de lo que ocurra  .......................................... ..........  1007",
+      "word_count": 146218,
+      "concepts": [
+        "titulo_juzgaré",
+        "titulo_ocurra"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_243.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "251": {
+      "title": "No necesito nada más que la verdad  ....................... ................................ 1012",
+      "word_count": 147720,
+      "concepts": [
+        "titulo_verdad",
+        "titulo_necesito"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_251.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "253": {
+      "title": "Mi Ser es amo y señor del universo  ........................................................ 1013",
+      "word_count": 147991,
+      "concepts": [
+        "titulo_señor",
+        "titulo_universo"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_253.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "277": {
+      "title": "No dejes que aprisione a Tu Hijo con leyes que yo mismo inventé  ....... 1027",
+      "word_count": 152400,
+      "concepts": [
+        "titulo_dejes",
+        "titulo_mismo",
+        "titulo_aprisione",
+        "titulo_inventé",
+        "titulo_leyes"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_277.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "287": {
+      "title": "Tú eres mi única meta, Padre mío, sólo Tú  ............................................ 1033",
+      "word_count": 154270,
+      "concepts": [
+        "titulo_meta,",
+        "titulo_padre",
+        "titulo_única"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_287.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "313": {
+      "title": "Que venga a mí ahora una nueva percepción  ............... ........................... 1049",
+      "word_count": 159531,
+      "concepts": [
+        "titulo_ahora",
+        "titulo_percepción",
+        "titulo_nueva",
+        "titulo_venga"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_313.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "327": {
+      "title": "No necesito más que llamar y Tú me contestarás  ..................... ..............  1057",
+      "word_count": 162170,
+      "concepts": [
+        "titulo_necesito",
+        "titulo_llamar",
+        "titulo_contestarás"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_327.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "335": {
+      "title": "Elijo ver la impecabilidad de mi hermano  ....................................... ....... 1062",
+      "word_count": 163909,
+      "concepts": [
+        "titulo_impecabilidad",
+        "titulo_hermano",
+        "titulo_elijo"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_335.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "349": {
+      "title": "Hoy dejo que la visión de Cristo con temple todas",
+      "word_count": 166508,
+      "concepts": [
+        "titulo_todas",
+        "titulo_visión",
+        "titulo_cristo",
+        "titulo_temple"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_349.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "351": {
+      "title": "Mi hermano impecable es mi guía a la paz.",
+      "word_count": 167183,
+      "concepts": [
+        "titulo_hermano",
+        "titulo_impecable"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_351.txt",
+      "extraction_method": "number_pattern",
+      "confidence": 0.7
+    },
+    "60": {
+      "title": "10.  Mientras continúe habiendo percepción, la oración será necesa ria. 2Puesto que la",
+      "word_count": 317532,
+      "concepts": [
+        "titulo_mientras",
+        "titulo_necesa",
+        "titulo_2puesto",
+        "titulo_oración",
+        "titulo_habiendo",
+        "titulo_continúe",
+        "titulo_percepción,"
+      ],
+      "daily_dates": [],
+      "file_path": "lessons_advanced\\lesson_060.txt",
+      "extraction_method": "sequential_search",
+      "confidence": 0.6
+    }
+  }
+}

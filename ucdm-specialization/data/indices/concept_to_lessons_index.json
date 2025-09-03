@@ -1,0 +1,1571 @@
+{
+  "concept_index": {
+    "titulo_habitación": [
+      "1",
+      "3"
+    ],
+    "titulo_entiendo": [
+      "3"
+    ],
+    "titulo_significan": [
+      "4"
+    ],
+    "titulo_estos": [
+      "4"
+    ],
+    "titulo_nada.": [
+      "4",
+      "84"
+    ],
+    "titulo_ensamientos": [
+      "4"
+    ],
+    "titulo_pensamientos": [
+      "16",
+      "221",
+      "338"
+    ],
+    "titulo_neutros.": [
+      "16"
+    ],
+    "titulo_tengo": [
+      "16",
+      "223",
+      "77"
+    ],
+    "titulo_habla": [
+      "49"
+    ],
+    "titulo_durante": [
+      "22",
+      "49"
+    ],
+    "titulo_sustento.": [
+      "50"
+    ],
+    "titulo_olvide": [
+      "257",
+      "64"
+    ],
+    "titulo_función.": [
+      "64"
+    ],
+    "titulo_dejes": [
+      "262",
+      "277",
+      "64"
+    ],
+    "titulo_dios.": [
+      "142",
+      "143",
+      "146",
+      "147",
+      "148"
+    ],
+    "titulo_alberga": [
+      "142",
+      "143",
+      "146",
+      "147",
+      "148"
+    ],
+    "titulo_pienso": [
+      "142",
+      "143",
+      "146",
+      "147",
+      "148"
+    ],
+    "titulo_mente": [
+      "108",
+      "111",
+      "143",
+      "146",
+      "147",
+      "174",
+      "221",
+      "86"
+    ],
+    "titulo_ende,": [
+      "172",
+      "175",
+      "176",
+      "178"
+    ],
+    "titulo_cuerpo.": [
+      "202",
+      "203",
+      "204",
+      "206",
+      "207",
+      "208",
+      "209",
+      "210",
+      "214",
+      "215",
+      "216",
+      "217",
+      "218",
+      "219"
+    ],
+    "titulo_libre.": [
+      "202",
+      "203",
+      "206",
+      "207",
+      "208",
+      "209",
+      "210",
+      "214",
+      "215",
+      "216",
+      "217",
+      "218",
+      "219"
+    ],
+    "titulo_diferencias.": [
+      "262"
+    ],
+    "titulo_perciba": [
+      "262"
+    ],
+    "titulo_cosas.": [
+      "263"
+    ],
+    "titulo_todas": [
+      "24",
+      "263",
+      "275",
+      "301",
+      "311",
+      "325",
+      "349",
+      "63"
+    ],
+    "titulo_visión": [
+      "263",
+      "271",
+      "349"
+    ],
+    "titulo_pureza": [
+      "263"
+    ],
+    "titulo_santa": [
+      "263"
+    ],
+    "titulo_medio": [
+      "318"
+    ],
+    "titulo_salvación,": [
+      "318"
+    ],
+    "titulo_propios": [
+      "281",
+      "338"
+    ],
+    "titulo_pueden": [
+      "188",
+      "338",
+      "363"
+    ],
+    "titulo_afectarme.": [
+      "338"
+    ],
+    "titulo_concederá": [
+      "339"
+    ],
+    "titulo_pida.": [
+      "339"
+    ],
+    "titulo_abstendre": [
+      "22"
+    ],
+    "titulo_elaborar": [
+      "22"
+    ],
+    "titulo_minutos,": [
+      "22"
+    ],
+    "titulo_quince": [
+      "22"
+    ],
+    "titulo_ocasiones": [
+      "22"
+    ],
+    "titulo_3puede": [
+      "23"
+    ],
+    "titulo_todo.": [
+      "23"
+    ],
+    "titulo_hacer": [
+      "171",
+      "23",
+      "281"
+    ],
+    "titulo_cuáles": [
+      "23"
+    ],
+    "titulo_tienes": [
+      "117",
+      "23",
+      "97"
+    ],
+    "titulo_planes,": [
+      "23"
+    ],
+    "titulo_ahora": [
+      "237",
+      "313",
+      "7"
+    ],
+    "titulo_conocimiento": [
+      "7"
+    ],
+    "titulo_dios,": [
+      "235",
+      "357",
+      "7"
+    ],
+    "titulo_absoluto,": [
+      "7"
+    ],
+    "titulo_completamente": [
+      "7"
+    ],
+    "titulo_inmutable,": [
+      "7"
+    ],
+    "titulo_condenación.": [
+      "12"
+    ],
+    "titulo_perfecto": [
+      "12"
+    ],
+    "titulo_necesita": [
+      "12"
+    ],
+    "titulo_santidad.": [
+      "12"
+    ],
+    "titulo_escuchando": [
+      "13"
+    ],
+    "titulo_todos": [
+      "13",
+      "221",
+      "315"
+    ],
+    "titulo_hacen": [
+      "13",
+      "315"
+    ],
+    "titulo_llega": [
+      "13",
+      "241"
+    ],
+    "titulo_juicio": [
+      "13"
+    ],
+    "titulo_lado,": [
+      "13"
+    ],
+    "titulo_cometido": [
+      "17"
+    ],
+    "titulo_fieles": [
+      "17"
+    ],
+    "titulo_embargo,": [
+      "17",
+      "289"
+    ],
+    "titulo_cuando": [
+      "17"
+    ],
+    "titulo_podamos": [
+      "17"
+    ],
+    "titulo_seremos": [
+      "17"
+    ],
+    "titulo_hacerlo,": [
+      "17"
+    ],
+    "titulo_dejarás": [
+      "18"
+    ],
+    "titulo_tiempo": [
+      "18",
+      "188"
+    ],
+    "titulo_nunca": [
+      "18"
+    ],
+    "titulo_pensar": [
+      "18"
+    ],
+    "titulo_mientras": [
+      "19",
+      "60"
+    ],
+    "titulo_nuestro": [
+      "19"
+    ],
+    "titulo_nuestra": [
+      "19"
+    ],
+    "titulo_revestimos": [
+      "19"
+    ],
+    "titulo_indefensión.": [
+      "19"
+    ],
+    "titulo_esperaremos": [
+      "21"
+    ],
+    "titulo_llenos": [
+      "21"
+    ],
+    "titulo_expectación": [
+      "21"
+    ],
+    "titulo_momento": [
+      "21"
+    ],
+    "titulo_absoluta": [
+      "21"
+    ],
+    "titulo_defensas": [
+      "24"
+    ],
+    "titulo_impedir": [
+      "24"
+    ],
+    "titulo_propósito": [
+      "24",
+      "257"
+    ],
+    "titulo_recibas": [
+      "24"
+    ],
+    "titulo_nosotros": [
+      "25"
+    ],
+    "titulo_acordaremos": [
+      "25"
+    ],
+    "titulo_acordado": [
+      "25"
+    ],
+    "titulo_3pues": [
+      "25"
+    ],
+    "titulo_existencia.": [
+      "33"
+    ],
+    "titulo_porque": [
+      "174",
+      "33",
+      "57",
+      "83",
+      "85",
+      "89",
+      "97"
+    ],
+    "titulo_creó.": [
+      "33"
+    ],
+    "titulo_aceptación": [
+      "33"
+    ],
+    "titulo_4creer": [
+      "33"
+    ],
+    "titulo_creaciones": [
+      "33"
+    ],
+    "titulo_temer": [
+      "48"
+    ],
+    "titulo_suposición,": [
+      "52"
+    ],
+    "titulo_enteramente": [
+      "52"
+    ],
+    "titulo_imposible": [
+      "362",
+      "52"
+    ],
+    "titulo_procede": [
+      "347",
+      "52"
+    ],
+    "titulo_también": [
+      "174",
+      "52"
+    ],
+    "titulo_proyección.": [
+      "52"
+    ],
+    "titulo_fusión": [
+      "54"
+    ],
+    "titulo_trinidad,": [
+      "54"
+    ],
+    "titulo_entidad.": [
+      "54"
+    ],
+    "titulo_santísima": [
+      "54"
+    ],
+    "titulo_trinidad": [
+      "54"
+    ],
+    "titulo_reconoce": [
+      "56"
+    ],
+    "titulo_reconocen": [
+      "56"
+    ],
+    "titulo_perfectamente.": [
+      "56"
+    ],
+    "titulo_entre": [
+      "56"
+    ],
+    "titulo_ellos": [
+      "56"
+    ],
+    "titulo_11los": [
+      "56"
+    ],
+    "titulo_12cuando": [
+      "56"
+    ],
+    "titulo_ciéndolos.": [
+      "56"
+    ],
+    "titulo_milagrosa": [
+      "57"
+    ],
+    "titulo_percepción": [
+      "112",
+      "313",
+      "57",
+      "59"
+    ],
+    "titulo_estado": [
+      "57"
+    ],
+    "titulo_fidedigna.": [
+      "57"
+    ],
+    "titulo_mentalidad": [
+      "57"
+    ],
+    "titulo_percep": [
+      "57"
+    ],
+    "titulo_pocos": [
+      "58"
+    ],
+    "titulo_escuchar.\"": [
+      "58"
+    ],
+    "titulo_tanto,": [
+      "58"
+    ],
+    "titulo_eligen": [
+      "58"
+    ],
+    "titulo_13por": [
+      "58"
+    ],
+    "titulo_14los": [
+      "58"
+    ],
+    "titulo_correctamen": [
+      "58"
+    ],
+    "titulo_refiere": [
+      "59"
+    ],
+    "titulo_incongruencias": [
+      "59"
+    ],
+    "titulo_3tales": [
+      "59"
+    ],
+    "titulo_significado.": [
+      "59"
+    ],
+    "titulo_tiene": [
+      "59",
+      "81"
+    ],
+    "titulo_mundo": [
+      "299",
+      "63"
+    ],
+    "titulo_mentes": [
+      "63"
+    ],
+    "titulo_menos": [
+      "71"
+    ],
+    "titulo_concibe,": [
+      "71"
+    ],
+    "titulo_puede": [
+      "111",
+      "171",
+      "239",
+      "281",
+      "289",
+      "307",
+      "71",
+      "84"
+    ],
+    "titulo_propio,": [
+      "71"
+    ],
+    "titulo_ataque": [
+      "72"
+    ],
+    "titulo_abrigar": [
+      "307",
+      "72"
+    ],
+    "titulo_resentimientos": [
+      "72"
+    ],
+    "titulo_contigo.": [
+      "81"
+    ],
+    "titulo_profanes": [
+      "81"
+    ],
+    "titulo_relación": [
+      "81"
+    ],
+    "titulo_verdadera": [
+      "113",
+      "283",
+      "81"
+    ],
+    "titulo_realidad.": [
+      "81"
+    ],
+    "titulo_capítulo": [
+      "141",
+      "255",
+      "82"
+    ],
+    "titulo_eliges": [
+      "83"
+    ],
+    "titulo_revelación": [
+      "83"
+    ],
+    "titulo_experiencia": [
+      "83"
+    ],
+    "titulo_dicha.": [
+      "83"
+    ],
+    "titulo_listo": [
+      "84"
+    ],
+    "titulo_fluir": [
+      "84"
+    ],
+    "titulo_parte,": [
+      "84"
+    ],
+    "titulo_11puedes,": [
+      "84"
+    ],
+    "titulo_cualquier": [
+      "113",
+      "84"
+    ],
+    "titulo_oponerse": [
+      "84"
+    ],
+    "titulo_renunciando": [
+      "85"
+    ],
+    "titulo_uentra": [
+      "85"
+    ],
+    "titulo_todavía": [
+      "112",
+      "85"
+    ],
+    "titulo_voluntad": [
+      "180",
+      "231",
+      "307",
+      "329",
+      "331",
+      "74",
+      "85"
+    ],
+    "titulo_ella.": [
+      "85"
+    ],
+    "titulo_separación": [
+      "85"
+    ],
+    "titulo_implica": [
+      "114",
+      "86"
+    ],
+    "titulo_santo": [
+      "180",
+      "227",
+      "241",
+      "295",
+      "86"
+    ],
+    "titulo_diferente.": [
+      "86"
+    ],
+    "titulo_6elegir": [
+      "86"
+    ],
+    "titulo_espíritu": [
+      "295",
+      "86"
+    ],
+    "titulo_dida.": [
+      "86"
+    ],
+    "titulo_restituirlo": [
+      "87"
+    ],
+    "titulo_reino": [
+      "87"
+    ],
+    "titulo_devuelve": [
+      "87"
+    ],
+    "titulo_integración": [
+      "87"
+    ],
+    "titulo_parte": [
+      "303",
+      "87"
+    ],
+    "titulo_fecta": [
+      "87"
+    ],
+    "titulo_habrá": [
+      "89"
+    ],
+    "titulo_mente.": [
+      "89"
+    ],
+    "titulo_adentrado": [
+      "89"
+    ],
+    "titulo_peligro": [
+      "89"
+    ],
+    "titulo_reaccionarás": [
+      "89"
+    ],
+    "titulo_aceptarla,": [
+      "90"
+    ],
+    "titulo_capacidad": [
+      "90"
+    ],
+    "titulo_cambio,": [
+      "90"
+    ],
+    "titulo_verdad": [
+      "251",
+      "357",
+      "90"
+    ],
+    "titulo_destruir;": [
+      "90"
+    ],
+    "titulo_dicha": [
+      "93"
+    ],
+    "titulo_moran": [
+      "93"
+    ],
+    "titulo_recuerda": [
+      "97"
+    ],
+    "titulo_continuamente": [
+      "97"
+    ],
+    "titulo_motivos": [
+      "97"
+    ],
+    "titulo_hermanos.": [
+      "108"
+    ],
+    "titulo_aliados,": [
+      "108"
+    ],
+    "titulo_aunque": [
+      "108",
+      "361"
+    ],
+    "titulo_ajeno": [
+      "108"
+    ],
+    "titulo_sidad": [
+      "108"
+    ],
+    "titulo_percibi": [
+      "108"
+    ],
+    "titulo_cuerpo": [
+      "111",
+      "363"
+    ],
+    "titulo_mente,": [
+      "111"
+    ],
+    "titulo_cuerpo,": [
+      "111"
+    ],
+    "titulo_ésta.": [
+      "111"
+    ],
+    "titulo_curar": [
+      "111"
+    ],
+    "titulo_conflicto": [
+      "112",
+      "331",
+      "333"
+    ],
+    "titulo_entra": [
+      "112"
+    ],
+    "titulo_totalmente.": [
+      "112"
+    ],
+    "titulo_invertida": [
+      "112"
+    ],
+    "titulo_5esto": [
+      "112"
+    ],
+    "titulo_estos.": [
+      "113"
+    ],
+    "titulo_razón": [
+      "113"
+    ],
+    "titulo_desde": [
+      "113"
+    ],
+    "titulo_vista,": [
+      "113"
+    ],
+    "titulo_todo,": [
+      "114"
+    ],
+    "titulo_deseable\"": [
+      "114"
+    ],
+    "titulo_elegido": [
+      "114",
+      "329"
+    ],
+    "titulo_presión": [
+      "114"
+    ],
+    "titulo_deseable.": [
+      "114"
+    ],
+    "titulo_esforzarte,": [
+      "117"
+    ],
+    "titulo_invocar": [
+      "117"
+    ],
+    "titulo_eres.": [
+      "117"
+    ],
+    "titulo_8este": [
+      "117"
+    ],
+    "titulo_tener": [
+      "117",
+      "289"
+    ],
+    "titulo_reconocimiento": [
+      "117"
+    ],
+    "titulo_poder": [
+      "134"
+    ],
+    "titulo_perdón": [
+      "134",
+      "249",
+      "297",
+      "333"
+    ],
+    "titulo_percibir": [
+      "134"
+    ],
+    "titulo_permítaseme": [
+      "134"
+    ],
+    "titulo_contigo,": [
+      "145"
+    ],
+    "titulo_siempre": [
+      "145"
+    ],
+    "titulo_puedas": [
+      "145",
+      "362"
+    ],
+    "titulo_estoy": [
+      "145",
+      "245"
+    ],
+    "titulo_nadie,": [
+      "145"
+    ],
+    "titulo_memoria": [
+      "145"
+    ],
+    "titulo_recibir": [
+      "145"
+    ],
+    "titulo_puesto": [
+      "171"
+    ],
+    "titulo_sanado": [
+      "171"
+    ],
+    "titulo_mismo.": [
+      "171"
+    ],
+    "titulo_luación": [
+      "174"
+    ],
+    "titulo_aceptaste": [
+      "174"
+    ],
+    "titulo_estuviese": [
+      "174"
+    ],
+    "titulo_3ofrécele": [
+      "180"
+    ],
+    "titulo_creación.": [
+      "180"
+    ],
+    "titulo_dispuesto": [
+      "180",
+      "361"
+    ],
+    "titulo_estar": [
+      "180"
+    ],
+    "titulo_únicamente": [
+      "180",
+      "231",
+      "321"
+    ],
+    "titulo_mismo,": [
+      "181"
+    ],
+    "titulo_atacando": [
+      "181"
+    ],
+    "titulo_estás": [
+      "181",
+      "199"
+    ],
+    "titulo_crees": [
+      "181"
+    ],
+    "titulo_señal": [
+      "181"
+    ],
+    "titulo_odias": [
+      "181"
+    ],
+    "titulo_evidente": [
+      "181"
+    ],
+    "titulo_obstante,": [
+      "185"
+    ],
+    "titulo_siendo": [
+      "185"
+    ],
+    "titulo_chispa,": [
+      "185"
+    ],
+    "titulo_grandeza": [
+      "185"
+    ],
+    "titulo_sigue": [
+      "185"
+    ],
+    "titulo_pequeñez.": [
+      "185"
+    ],
+    "titulo_ambos": [
+      "188"
+    ],
+    "titulo_valores.": [
+      "188"
+    ],
+    "titulo_determinada": [
+      "188"
+    ],
+    "titulo_eternidad": [
+      "188"
+    ],
+    "titulo_priván": [
+      "199"
+    ],
+    "titulo_aceptarlo": [
+      "199"
+    ],
+    "titulo_mismo": [
+      "199",
+      "277"
+    ],
+    "titulo_empequeñeciendo": [
+      "199"
+    ],
+    "titulo_cuent": [
+      "199"
+    ],
+    "titulo_dónde": [
+      "213"
+    ],
+    "titulo_cosas": [
+      "213",
+      "275",
+      "311",
+      "325"
+    ],
+    "titulo_enseñarle": [
+      "213"
+    ],
+    "titulo_tesoro.": [
+      "213"
+    ],
+    "titulo_puedes": [
+      "213",
+      "261"
+    ],
+    "titulo_mundo,": [
+      "213"
+    ],
+    "titulo_pobres": [
+      "213"
+    ],
+    "titulo_aquieten": [
+      "221"
+    ],
+    "titulo_vida.": [
+      "223"
+    ],
+    "titulo_padre,": [
+      "225",
+      "231",
+      "321"
+    ],
+    "titulo_liberación": [
+      "227"
+    ],
+    "titulo_instanto": [
+      "227"
+    ],
+    "titulo_quiero": [
+      "237",
+      "311",
+      "345",
+      "365"
+    ],
+    "titulo_creado,": [
+      "239"
+    ],
+    "titulo_haber": [
+      "239"
+    ],
+    "titulo_culpabilidad": [
+      "239"
+    ],
+    "titulo_4ninguna": [
+      "239"
+    ],
+    "titulo_salvación": [
+      "241"
+    ],
+    "titulo_instante": [
+      "241"
+    ],
+    "titulo_salvo": [
+      "245"
+    ],
+    "titulo_padre.": [
+      "245"
+    ],
+    "titulo_conmigo,": [
+      "245"
+    ],
+    "titulo_testimonio": [
+      "247"
+    ],
+    "titulo_espera": [
+      "247"
+    ],
+    "titulo_llevas": [
+      "247"
+    ],
+    "titulo_milagros": [
+      "247",
+      "355",
+      "77"
+    ],
+    "titulo_sufrimiento": [
+      "249"
+    ],
+    "titulo_pérdida": [
+      "249"
+    ],
+    "titulo_sensación": [
+      "249"
+    ],
+    "titulo_recuerde": [
+      "259"
+    ],
+    "titulo_existe": [
+      "259"
+    ],
+    "titulo_pecado": [
+      "259"
+    ],
+    "titulo_conformarías": [
+      "261"
+    ],
+    "titulo_migajas,": [
+      "261"
+    ],
+    "titulo_cuenta": [
+      "261"
+    ],
+    "titulo_ofrecerte": [
+      "261"
+    ],
+    "titulo_mansedumbre": [
+      "265"
+    ],
+    "titulo_creación": [
+      "265",
+      "279"
+    ],
+    "titulo_único": [
+      "265",
+      "293",
+      "297"
+    ],
+    "titulo_corazón": [
+      "267"
+    ],
+    "titulo_busca": [
+      "269"
+    ],
+    "titulo_cristo": [
+      "269",
+      "271",
+      "305",
+      "349"
+    ],
+    "titulo_utilizaré": [
+      "271"
+    ],
+    "titulo_quietud": [
+      "273"
+    ],
+    "titulo_protege": [
+      "275",
+      "337"
+    ],
+    "titulo_sanadora": [
+      "275"
+    ],
+    "titulo_libertad": [
+      "279",
+      "321"
+    ],
+    "titulo_garantiza": [
+      "279"
+    ],
+    "titulo_pensamientos,": [
+      "281"
+    ],
+    "titulo_nada,": [
+      "281"
+    ],
+    "titulo_excepto": [
+      "281"
+    ],
+    "titulo_identidad": [
+      "283"
+    ],
+    "titulo_reside": [
+      "283",
+      "321"
+    ],
+    "titulo_clara": [
+      "285"
+    ],
+    "titulo_radiante": [
+      "285"
+    ],
+    "titulo_santidad": [
+      "285"
+    ],
+    "titulo_brilla": [
+      "285"
+    ],
+    "titulo_feliz": [
+      "289"
+    ],
+    "titulo_aceptación.": [
+      "289"
+    ],
+    "titulo_ansiosamente": [
+      "289"
+    ],
+    "titulo_conciencia": [
+      "289"
+    ],
+    "titulo_sosiego": [
+      "291"
+    ],
+    "titulo_miedo": [
+      "293",
+      "309",
+      "323"
+    ],
+    "titulo_acabó": [
+      "293"
+    ],
+    "titulo_través": [
+      "295"
+    ],
+    "titulo_regalo": [
+      "297"
+    ],
+    "titulo_amor.": [
+      "299"
+    ],
+    "titulo_unirse": [
+      "299"
+    ],
+    "titulo_escaparse": [
+      "299"
+    ],
+    "titulo_soledad": [
+      "299"
+    ],
+    "titulo_lágrimas": [
+      "301"
+    ],
+    "titulo_enjugará": [
+      "301"
+    ],
+    "titulo_pareces": [
+      "303"
+    ],
+    "titulo_ciones": [
+      "303"
+    ],
+    "titulo_destructor": [
+      "303"
+    ],
+    "titulo_especiales,": [
+      "303"
+    ],
+    "titulo_concede": [
+      "305"
+    ],
+    "titulo_deseos": [
+      "307"
+    ],
+    "titulo_conflictivos": [
+      "307"
+    ],
+    "titulo_tendré": [
+      "309"
+    ],
+    "titulo_mirar": [
+      "309"
+    ],
+    "titulo_dentro": [
+      "309"
+    ],
+    "titulo_juzgo": [
+      "311"
+    ],
+    "titulo_regalos": [
+      "315"
+    ],
+    "titulo_necen": [
+      "315"
+    ],
+    "titulo_hermanos": [
+      "315"
+    ],
+    "titulo_perte": [
+      "315"
+    ],
+    "titulo_señalado": [
+      "317"
+    ],
+    "titulo_camino": [
+      "317"
+    ],
+    "titulo_gustosamente": [
+      "323"
+    ],
+    "titulo_―sacrifico‖": [
+      "323"
+    ],
+    "titulo_ideas": [
+      "325"
+    ],
+    "titulo_reflejos": [
+      "325"
+    ],
+    "titulo_dispone": [
+      "235",
+      "329"
+    ],
+    "titulo_existe,": [
+      "331"
+    ],
+    "titulo_sueño": [
+      "333"
+    ],
+    "titulo_impecabilidad": [
+      "335",
+      "337",
+      "341"
+    ],
+    "titulo_atacar": [
+      "341"
+    ],
+    "titulo_puedo": [
+      "341"
+    ],
+    "titulo_propia": [
+      "341"
+    ],
+    "titulo_ingún": [
+      "343"
+    ],
+    "titulo_sacrificio": [
+      "343"
+    ],
+    "titulo_retornen": [
+      "345"
+    ],
+    "titulo_milagros,": [
+      "345"
+    ],
+    "titulo_ofrezco": [
+      "345"
+    ],
+    "titulo_juicios.": [
+      "347"
+    ],
+    "titulo_juici": [
+      "347"
+    ],
+    "titulo_boca,": [
+      "353"
+    ],
+    "titulo_ojos,": [
+      "353"
+    ],
+    "titulo_tienen": [
+      "353"
+    ],
+    "titulo_manos": [
+      "353"
+    ],
+    "titulo_otorga": [
+      "355"
+    ],
+    "titulo_vocación": [
+      "357"
+    ],
+    "titulo_contesta": [
+      "357"
+    ],
+    "titulo_hacemos": [
+      "357"
+    ],
+    "titulo_dolor": [
+      "359"
+    ],
+    "titulo_alguna": [
+      "359"
+    ],
+    "titulo_respuesta": [
+      "359"
+    ],
+    "titulo_contempla,": [
+      "361"
+    ],
+    "titulo_6este": [
+      "361"
+    ],
+    "titulo_ello?": [
+      "361"
+    ],
+    "titulo_conocer": [
+      "362"
+    ],
+    "titulo_separado.": [
+      "362"
+    ],
+    "titulo_bienve": [
+      "362"
+    ],
+    "titulo_podría": [
+      "363"
+    ],
+    "titulo_ello.": [
+      "363"
+    ],
+    "titulo_hablar": [
+      "363"
+    ],
+    "titulo_subyacente,": [
+      "363"
+    ],
+    "titulo_pendientemente": [
+      "364"
+    ],
+    "titulo_emplees,": [
+      "364"
+    ],
+    "titulo_imaginación": [
+      "364"
+    ],
+    "titulo_confundes": [
+      "364"
+    ],
+    "titulo_cuánta": [
+      "364"
+    ],
+    "titulo_seguirte": [
+      "365"
+    ],
+    "titulo_quien": [
+      "365"
+    ],
+    "titulo_dirige,": [
+      "365"
+    ],
+    "titulo_simplemente": [
+      "365"
+    ],
+    "titulo_derecho": [
+      "77"
+    ],
+    "titulo_creó,": [
+      "229"
+    ],
+    "titulo_amor,": [
+      "229"
+    ],
+    "titulo_recordarte": [
+      "231"
+    ],
+    "titulo_misericordia,": [
+      "235"
+    ],
+    "titulo_salve": [
+      "235"
+    ],
+    "titulo_juzgaré": [
+      "243"
+    ],
+    "titulo_ocurra": [
+      "243"
+    ],
+    "titulo_necesito": [
+      "251",
+      "327"
+    ],
+    "titulo_señor": [
+      "253"
+    ],
+    "titulo_universo": [
+      "253"
+    ],
+    "titulo_aprisione": [
+      "277"
+    ],
+    "titulo_inventé": [
+      "277"
+    ],
+    "titulo_leyes": [
+      "277"
+    ],
+    "titulo_meta,": [
+      "287"
+    ],
+    "titulo_padre": [
+      "287"
+    ],
+    "titulo_única": [
+      "287"
+    ],
+    "titulo_nueva": [
+      "313"
+    ],
+    "titulo_venga": [
+      "313"
+    ],
+    "titulo_llamar": [
+      "327"
+    ],
+    "titulo_contestarás": [
+      "327"
+    ],
+    "titulo_hermano": [
+      "335",
+      "351"
+    ],
+    "titulo_elijo": [
+      "335"
+    ],
+    "titulo_temple": [
+      "349"
+    ],
+    "titulo_impecable": [
+      "351"
+    ],
+    "titulo_necesa": [
+      "60"
+    ],
+    "titulo_2puesto": [
+      "60"
+    ],
+    "titulo_oración": [
+      "60"
+    ],
+    "titulo_habiendo": [
+      "60"
+    ],
+    "titulo_continúe": [
+      "60"
+    ],
+    "titulo_percepción,": [
+      "60"
+    ]
+  },
+  "concept_statistics": {
+    "total_concepts": 437,
+    "most_common_concepts": [
+      [
+        "titulo_cuerpo.",
+        14
+      ],
+      [
+        "titulo_libre.",
+        13
+      ],
+      [
+        "titulo_mente",
+        8
+      ],
+      [
+        "titulo_todas",
+        8
+      ],
+      [
+        "titulo_puede",
+        8
+      ],
+      [
+        "titulo_porque",
+        7
+      ],
+      [
+        "titulo_voluntad",
+        7
+      ],
+      [
+        "titulo_dios.",
+        5
+      ],
+      [
+        "titulo_alberga",
+        5
+      ],
+      [
+        "titulo_pienso",
+        5
+      ],
+      [
+        "titulo_santo",
+        5
+      ],
+      [
+        "titulo_ende,",
+        4
+      ],
+      [
+        "titulo_percepción",
+        4
+      ],
+      [
+        "titulo_perdón",
+        4
+      ],
+      [
+        "titulo_cosas",
+        4
+      ],
+      [
+        "titulo_quiero",
+        4
+      ],
+      [
+        "titulo_cristo",
+        4
+      ],
+      [
+        "titulo_pensamientos",
+        3
+      ],
+      [
+        "titulo_tengo",
+        3
+      ],
+      [
+        "titulo_dejes",
+        3
+      ]
+    ]
+  }
+}
