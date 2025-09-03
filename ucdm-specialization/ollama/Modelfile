@@ -1,7 +1,7 @@
 # Modelfile para UCDM - Un Curso de Milagros
 # Especialización del modelo Gemma 3:4B para Un Curso de Milagros
 
-FROM gemma:3b
+FROM gemma3:4b
 
 # Parámetros optimizados para UCDM
 PARAMETER temperature 0.7
