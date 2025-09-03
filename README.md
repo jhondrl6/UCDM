@@ -2,7 +2,7 @@
 
 ## ✅ PROYECTO COMPLETADO EXITOSAMENTE
 
-Este proyecto ha sido desarrollado y se está completando exitosamente. Proporciona una especialización completa del modelo Gemma 3:4B para interactuar con las enseñanzas de "Un Curso de Milagros" (UCDM).
+Este proyecto ha sido desarrollado y completado exitosamente. Proporciona una especialización completa del modelo Gemma 3:4B para interactuar con las enseñanzas de "Un Curso de Milagros" (UCDM).
 
 ### 🎯 Características Implementadas
 
