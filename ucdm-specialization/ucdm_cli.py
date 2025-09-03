@@ -27,6 +27,8 @@ except ImportError:
 sys.path.append(str(Path(__file__).parent))
 from config.settings import *
 from training.response_engine import UCDMResponseEngine
+from validation.comprehensive_validation_pipeline import ComprehensiveValidationPipeline, PipelineConfig
+from validation.quality_report_manager import QualityReportManager
 
 class UCDMCLIInterface:
     """Interfaz CLI interactiva para UCDM"""
@@ -36,10 +38,32 @@ class UCDMCLIInterface:
         self.console = Console() if HAS_RICH else None
         self.setup_logging()
         
+        # Inicializar componentes de validación
+        self.validation_pipeline = None
+        self.report_manager = None
+        self._initialize_validation_components()
+        
     def setup_logging(self):
         """Configurar logging"""
         logging.basicConfig(level=logging.WARNING)  # Solo warnings para CLI
         self.logger = logging.getLogger(__name__)
+    
+    def _initialize_validation_components(self):
+        """Inicializar componentes de validación"""
+        try:
+            config = PipelineConfig(
+                enable_text_validation=True,
+                enable_lesson_recognition=True,
+                enable_structure_validation=True,
+                enable_report_generation=True
+            )
+            self.validation_pipeline = ComprehensiveValidationPipeline(config)
+            self.report_manager = QualityReportManager()
+            self.logger.info("Componentes de validación inicializados")
+        except Exception as e:
+            self.logger.warning(f"Error inicializando validación: {e}")
+            self.validation_pipeline = None
+            self.report_manager = None
     
     def print_styled(self, text: str, style: str = "default") -> None:
         """Imprimir texto con estilo (con o sin rich)"""
@@ -111,6 +135,10 @@ Este sistema te permite:
                 ("concepto [tema]", "Explorar concepto UCDM", "concepto perdón"),
                 ("reflexion", "Reflexión nocturna", "reflexion"),
                 ("buscar [texto]", "Búsqueda libre", "buscar milagros"),
+                ("validate [--all]", "Validar calidad del sistema", "validate --all"),
+                ("complete [--missing]", "Completar lecciones faltantes", "complete --missing"),
+                ("report [--quality]", "Generar reportes de calidad", "report --quality"),
+                ("metrics [--dashboard]", "Mostrar métricas del sistema", "metrics --dashboard"),
                 ("stats", "Estadísticas del sistema", "stats"),
                 ("help", "Mostrar esta ayuda", "help"),
                 ("salir", "Salir del programa", "salir")
@@ -127,6 +155,10 @@ Este sistema te permite:
             print("concepto [tema]  - Explorar concepto UCDM (ej: concepto perdón)")
             print("reflexion        - Reflexión nocturna")
             print("buscar [texto]   - Búsqueda libre (ej: buscar milagros)")
+            print("validate [--all] - Validar calidad del sistema")
+            print("complete [--missing] - Completar lecciones faltantes")
+            print("report [--quality] - Generar reportes de calidad")
+            print("metrics [--dashboard] - Mostrar métricas del sistema")
             print("stats            - Estadísticas del sistema")
             print("help             - Mostrar esta ayuda")
             print("salir            - Salir del programa")
@@ -181,6 +213,205 @@ Este sistema te permite:
         else:
             print(f"\n{response}")
     
+    def cmd_validate(self, args: List[str]) -> None:
+        """Comando de validación del sistema"""
+        if not self.validation_pipeline:
+            self.print_styled("❌ Error: Sistema de validación no disponible", "error")
+            return
+        
+        self.print_styled("🔍 Iniciando validación del sistema UCDM...", "info")
+        
+        try:
+            if "--all" in args:
+                # Validación completa del sistema
+                health_report = self.validation_pipeline.generate_system_health_report()
+                
+                if self.console and HAS_RICH:
+                    panel = Panel(
+                        f"Estado: {health_report.get('system_dashboard', {}).get('status', 'DESCONOCIDO')}\n"
+                        f"Cobertura: {health_report.get('coverage_metrics', {}).get('coverage_percentage', 0):.1f}%\n"
+                        f"Calidad: {health_report.get('quality_analysis', {}).get('executive_summary', {}).get('quality_summary', 'N/A')}",
+                        title="✅ Validación Completa",
+                        border_style="green"
+                    )
+                    self.console.print(panel)
+                else:
+                    print("\n✅ VALIDACIÓN COMPLETA:")
+                    dashboard = health_report.get('system_dashboard', {})
+                    print(f"   Estado del sistema: {dashboard.get('status', 'DESCONOCIDO')}")
+                    print(f"   Cobertura: {health_report.get('coverage_metrics', {}).get('coverage_percentage', 0):.1f}%")
+                
+            else:
+                # Validación rápida
+                if self.report_manager:
+                    dashboard = self.report_manager.generate_realtime_dashboard()
+                    self.print_styled(f"✅ Estado: {dashboard.get('status', 'DESCONOCIDO')}", "success")
+                    sections = dashboard.get('sections', {})
+                    overview = sections.get('system_overview', {})
+                    print(f"   Cobertura: {overview.get('coverage', 'N/A')}")
+                    print(f"   Calidad: {overview.get('quality_score', 'N/A')}")
+                    print(f"   Estado: {overview.get('status', 'N/A')}")
+                
+        except Exception as e:
+            self.print_styled(f"❌ Error en validación: {e}", "error")
+    
+    def cmd_complete(self, args: List[str]) -> None:
+        """Comando para completar lecciones faltantes"""
+        if not self.validation_pipeline:
+            self.print_styled("❌ Error: Sistema de validación no disponible", "error")
+            return
+        
+        self.print_styled("🛠️ Iniciando completación de lecciones...", "info")
+        
+        try:
+            # Identificar lecciones faltantes
+            lessons_data = self.engine.lessons_index or {}
+            processed_numbers = set(int(k) for k in lessons_data.keys())
+            all_lessons = set(range(1, 366))
+            missing_lessons = sorted(all_lessons - processed_numbers)
+            
+            if not missing_lessons:
+                self.print_styled("✅ ¡Excelente! Todas las 365 lecciones están procesadas", "success")
+                return
+            
+            self.print_styled(f"📊 Encontradas {len(missing_lessons)} lecciones faltantes", "warning")
+            
+            if "--missing" in args:
+                # Procesar lecciones faltantes usando el procesador avanzado
+                result = self.validation_pipeline.process_missing_lessons(missing_lessons)
+                
+                success_rate = result.get("success_rate", 0)
+                self.print_styled(f"✅ Procesamiento completado: {success_rate:.1f}% éxito", "success")
+                print(f"   Exitosos: {result['successfully_processed']}")
+                print(f"   Fallidos: {result['failed_processing']}")
+                
+                # Mostrar recomendaciones
+                recommendations = result.get("recommendations", [])
+                if recommendations:
+                    print(f"\n💡 Recomendaciones:")
+                    for rec in recommendations:
+                        print(f"   • {rec}")
+            else:
+                # Solo mostrar estadísticas
+                print("   Lecciones faltantes (primeras 10):")
+                for lesson in missing_lessons[:10]:
+                    print(f"     - Lección {lesson}")
+                if len(missing_lessons) > 10:
+                    print(f"     ... y {len(missing_lessons) - 10} más")
+                print("\n   Usa 'complete --missing' para procesarlas")
+                print("   O ejecuta: python process_missing_lessons.py")
+                
+                # Sugerencia adicional
+                print(f"\n💡 Para procesamiento completo ejecuta:")
+                print(f"   python process_missing_lessons.py")
+                print("   O ejecuta: python process_missing_lessons.py")
+                
+        except Exception as e:
+            self.print_styled(f"❌ Error en completación: {e}", "error")
+    
+    def cmd_report(self, args: List[str]) -> None:
+        """Comando para generar reportes de calidad"""
+        if not self.report_manager:
+            self.print_styled("❌ Error: Sistema de reportes no disponible", "error")
+            return
+        
+        self.print_styled("📄 Generando reporte de calidad...", "info")
+        
+        try:
+            if "--quality" in args:
+                # Reporte detallado de calidad
+                report = self.report_manager.create_quality_report(detailed=True)
+                
+                if self.console and HAS_RICH:
+                    summary = report.get('executive_summary', {})
+                    panel = Panel(
+                        f"Estado: {summary.get('system_status', 'DESCONOCIDO')}\n"
+                        f"Cobertura: {summary.get('coverage_summary', 'N/A')}\n"
+                        f"Calidad: {summary.get('quality_summary', 'N/A')}\n\n"
+                        f"Hallazgos clave:\n" + "\n".join(f"  • {finding}" for finding in summary.get('key_findings', [])),
+                        title="📈 Reporte de Calidad",
+                        border_style="blue"
+                    )
+                    self.console.print(panel)
+                else:
+                    print("\n📈 REPORTE DE CALIDAD:")
+                    summary = report.get('executive_summary', {})
+                    print(f"   Estado: {summary.get('system_status', 'DESCONOCIDO')}")
+                    print(f"   Cobertura: {summary.get('coverage_summary', 'N/A')}")
+                    print(f"   Calidad: {summary.get('quality_summary', 'N/A')}")
+                    
+                    findings = summary.get('key_findings', [])
+                    if findings:
+                        print("   Hallazgos clave:")
+                        for finding in findings:
+                            print(f"     • {finding}")
+            else:
+                # Reporte rápido
+                coverage = self.report_manager.track_coverage_metrics()
+                print(f"\n📈 REPORTE RÁPIDO:")
+                print(f"   Cobertura: {coverage['coverage_percentage']:.1f}%")
+                print(f"   Procesadas: {coverage['currently_processed']}/365")
+                print(f"   Faltantes: {len(coverage['missing_lessons'])}")
+                
+        except Exception as e:
+            self.print_styled(f"❌ Error generando reporte: {e}", "error")
+    
+    def cmd_metrics(self, args: List[str]) -> None:
+        """Comando para mostrar métricas del sistema"""
+        if not self.report_manager:
+            self.print_styled("❌ Error: Sistema de métricas no disponible", "error")
+            return
+        
+        try:
+            if "--dashboard" in args:
+                # Dashboard completo
+                dashboard = self.report_manager.generate_realtime_dashboard()
+                
+                if self.console and HAS_RICH:
+                    # Crear tabla de métricas
+                    metrics_table = Table(title="📈 Dashboard UCDM")
+                    metrics_table.add_column("Métrica", style="cyan")
+                    metrics_table.add_column("Valor", style="green")
+                    
+                    sections = dashboard.get('sections', {})
+                    overview = sections.get('system_overview', {})
+                    quality = sections.get('quality_metrics', {})
+                    
+                    metrics_table.add_row("Estado", overview.get('status', 'N/A'))
+                    metrics_table.add_row("Cobertura", overview.get('coverage', 'N/A'))
+                    metrics_table.add_row("Lecciones", overview.get('processed_lessons', 'N/A'))
+                    metrics_table.add_row("Calidad General", overview.get('quality_score', 'N/A'))
+                    metrics_table.add_row("Legibilidad", quality.get('text_legibility', 'N/A'))
+                    metrics_table.add_row("Integridad", quality.get('content_integrity', 'N/A'))
+                    
+                    self.console.print(metrics_table)
+                    
+                    # Mostrar alertas si existen
+                    alerts = sections.get('alerts', {})
+                    if alerts.get('critical', 0) > 0 or alerts.get('warnings', 0) > 0:
+                        alert_text = f"Críticas: {alerts.get('critical', 0)} | Advertencias: {alerts.get('warnings', 0)}"
+                        alert_panel = Panel(alert_text, title="⚠️ Alertas", border_style="red")
+                        self.console.print(alert_panel)
+                        
+                else:
+                    print("\n📈 DASHBOARD UCDM:")
+                    sections = dashboard.get('sections', {})
+                    overview = sections.get('system_overview', {})
+                    quality = sections.get('quality_metrics', {})
+                    
+                    print(f"   Estado: {overview.get('status', 'N/A')}")
+                    print(f"   Cobertura: {overview.get('coverage', 'N/A')}")
+                    print(f"   Lecciones: {overview.get('processed_lessons', 'N/A')}")
+                    print(f"   Calidad: {overview.get('quality_score', 'N/A')}")
+                    print(f"   Legibilidad: {quality.get('text_legibility', 'N/A')}")
+                    print(f"   Integridad: {quality.get('content_integrity', 'N/A')}")
+            else:
+                # Métricas básicas
+                self.show_system_stats()
+                
+        except Exception as e:
+            self.print_styled(f"❌ Error mostrando métricas: {e}", "error")
+    
     def process_command(self, command: str) -> bool:
         """Procesar comando ingresado. Retorna False si debe salir"""
         command = command.strip().lower()
@@ -231,6 +462,22 @@ Este sistema te permite:
             self.print_styled(f"\n🔎 Buscando: {query}...", "info")
             result = self.engine.process_query(query)
             self.format_response(result['response'])
+        
+        elif command.startswith('validate'):
+            args = command.split()[1:]
+            self.cmd_validate(args)
+        
+        elif command.startswith('complete'):
+            args = command.split()[1:]
+            self.cmd_complete(args)
+        
+        elif command.startswith('report'):
+            args = command.split()[1:]
+            self.cmd_report(args)
+        
+        elif command.startswith('metrics'):
+            args = command.split()[1:]
+            self.cmd_metrics(args)
         
         else:
             # Tratar como consulta libre
