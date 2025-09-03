@@ -11,7 +11,7 @@ from pathlib import Path
 from datetime import datetime
 
 # Agregar ruta del proyecto
-sys.path.append(str(Path(__file__).parent.parent))
+sys.path.append(str(Path(__file__).parent / "ucdm-specialization"))
 
 # Importar módulos optimizados
 from performance.enhanced_response_engine import EnhancedUCDMResponseEngine

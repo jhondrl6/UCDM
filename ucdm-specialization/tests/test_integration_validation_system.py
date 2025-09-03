@@ -13,6 +13,7 @@ from datetime import datetime
 from unittest.mock import Mock, patch, MagicMock
 
 sys.path.append(str(Path(__file__).parent.parent))
+sys.path.append(str(Path(__file__).parent.parent.parent))
 
 from validation.comprehensive_validation_pipeline import ComprehensiveValidationPipeline, PipelineConfig
 from ucdm_cli import UCDMCLIInterface

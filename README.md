@@ -24,58 +24,11 @@ Sistema de procesamiento y consulta inteligente de "Un Curso de Milagros" con mo
 ### Prerrequisitos
 
 1. **Python 3.8+**
-   ```bash
-   python --version  # Debe ser 3.8 o superior
-   ```
 
 2. **Ollama** (Requerido para el modelo de lenguaje)
-   ```bash
-   # Descargar desde: https://ollama.com
-   # O instalar directamente:
-   curl -fsSL https://ollama.ai/install.sh | sh
-   ```
 
 3. **Git** (Para clonar el repositorio)
-   ```bash
-   git --version
-   ```
 
-### Instalación Paso a Paso
-
-#### 1. Clonar el Repositorio
-```bash
-git clone https://github.com/jhondrl6/UCDM.git
-cd UCDM
-```
-
-#### 2. Instalar Dependencias
-```bash
-# Crear entorno virtual (recomendado)
-python -m venv venv
-
-# Activar entorno virtual
-# En Windows:
-venv\Scripts\activate
-# En Linux/Mac:
-source venv/bin/activate
-
-# Instalar dependencias optimizadas
-cd ucdm-specialization
-pip install -r requirements.txt
-```
-
-#### 3. Configurar Ollama y Modelo Especializado
-```bash
-# Iniciar Ollama (en una terminal separada)
-ollama serve
-
-# En otra terminal, configurar el modelo UCDM
-cd ollama
-python setup_model.py
-```
-
-#### 4. Verificar Instalación y Optimizaciones
-```bash
 # Ejecutar validación completa del sistema
 python tests/system_validator.py
 
@@ -84,29 +37,17 @@ python test_optimization_system.py
 
 # Verificar CLI con métricas de performance
 python ucdm_cli.py --stats
-```
 
 #### 5. Configuración de Performance (Opcional)
-```bash
-# Crear archivo de configuración avanzada
-cp config/settings.py config/production_settings.py
-
-# Ajustar parámetros de cache según hardware:
-# - Memory Cache: 50MB por defecto
-# - Disk Cache: 2GB por defecto
-# - Index Cache: Lazy loading habilitado
-```
 
 ## 🚀 Inicio Rápido
 
 ### Modo Interactivo (Recomendado)
-```bash
-cd ucdm-specialization
+
 python ucdm_cli.py
-```
 
 ### Consultas Directas
-```bash
+
 # Lección del día
 python ucdm_cli.py --hoy
 
@@ -118,32 +59,16 @@ python ucdm_cli.py --concepto "perdón"
 
 # Reflexión nocturna
 python ucdm_cli.py --reflexion
-```
-
-### Validación del Sistema
-```bash
-# Validación completa
-python ucdm_cli.py
-> validate --all
-
-# Reporte de calidad
-> report --quality
-
-# Métricas del sistema
-> metrics --dashboard
-```
 
 ## 💻 Uso Diario
 
 ### Completar Lecciones Faltantes
-```bash
+
 # Verificar estado actual del sistema
-cd ucdm-specialization
 python scripts/process_missing_lessons.py --status
 
 # Procesar las 204 lecciones faltantes
 python scripts/process_missing_lessons.py
-```
 
 ### Comandos CLI Disponibles
 | Comando | Descripción | Ejemplo |
@@ -180,16 +105,6 @@ UCDM> Necesito una reflexión sobre el Espíritu Santo
 ```
 UCDM> validate --all
 UCDM> stats
-```
-
-### Procesamiento de Lecciones Faltantes
-
-```bash
-# Verificar estado actual (desde directorio ucdm-specialization)
-python scripts/process_missing_lessons.py --status
-
-# Procesar las 204 lecciones restantes
-python scripts/process_missing_lessons.py
 ```
 
 ## ⚠️ Estado Actual del Sistema
@@ -410,7 +325,6 @@ CACHE_CONFIG = {
 
 ### Comandos de Optimización
 
-```bash
 # Verificar estado del sistema optimizado
 python test_optimization_system.py
 
@@ -422,7 +336,6 @@ python ucdm_cli.py --stats
 
 # Monitoreo en tiempo real
 python performance/performance_monitor.py
-```
 
 ## 🔧 Configuración Avanzada
 
@@ -491,7 +404,6 @@ con la pregunta formulada."""
 
 ### Ejecutar Tests
 
-```bash
 # Tests unitarios completos
 python tests/test_validation_components.py
 
@@ -512,11 +424,9 @@ python -c "from testing.edge_case_generator import EdgeCaseGenerator; EdgeCaseGe
 
 # 🆕 NUEVO: Stress testing
 python testing/stress_test_runner.py
-```
 
 ### Validación Manual
 
-```bash
 # Validar calidad del sistema
 python ucdm_cli.py
 > validate --all
@@ -535,7 +445,6 @@ python ucdm_cli.py
 
 # 🆕 NUEVO: Performance en tiempo real
 > performance --monitor
-```
 
 ## 📈 Métricas de Calidad
 
@@ -556,75 +465,38 @@ python ucdm_cli.py
 
 ### Estado Actual del Sistema
 
-```bash
 # Verificar estado actual
 python ucdm_cli.py
 > metrics --dashboard
-```
-
-Ejemplo de salida:
-```
-📊 DASHBOARD UCDM:
-   Estado: EN_PROGRESO
-   Cobertura: 115/365 (31.5%)
-   Calidad: 95.2/100
-   Legibilidad: 98.5%
-   Integridad: 96.8%
-```
 
 ## 🔧 Solución de Problemas
 
 ### Problemas Comunes
 
-#### 1. Ollama no responde
-```bash
-# Verificar que Ollama está ejecutándose
-ollama ps
+Tests fallan
 
-# Reiniciar Ollama
-ollama serve
-
-# Verificar modelo
-ollama list
-```
-
-#### 2. Error al cargar datos
-```bash
-# Verificar archivos de datos
-ls -la data/indices/
-
-# Re-extraer datos si es necesario
-python extraction/pdf_extractor.py
-```
-
-#### 3. Tests fallan
-```bash
 # Ejecutar tests con verbosidad
 python -m pytest tests/ -v
 
 # Verificar dependencias
 pip check
-```
 
 #### 4. Problemas de codificación
-```bash
+
 # Verificar codificación del sistema
 python -c "import sys; print(sys.getdefaultencoding())"
 
 # Validar archivos de texto
 file -i data/processed/lessons/*.txt
-```
 
 ### Logs y Diagnóstico
 
-```bash
 # Ver logs del sistema
 tail -f logs/ucdm_system.log
 
 # Generar reporte de diagnóstico
 python ucdm_cli.py
 > report --quality > diagnostic_report.json
-```
 
 ## 🤝 Contribución
 
